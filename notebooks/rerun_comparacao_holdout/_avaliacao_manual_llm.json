@@ -1,0 +1,2252 @@
+{
+  "cm1iasv3k0031dhqdfn4663iw-Alteração 11 - MINAS CAL.pdf": {
+    "Quem são os sócios da empresa?": {
+      "flash_lite": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      },
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      }
+    },
+    "Quais são os CPFs ou RG dos sócios?": {
+      "flash_lite": {
+        "baseline": "OK",
+        "pipeline": "ERRO",
+        "nota": "pos inclui CPF de terceiro (873.638.956-00, da Marinely/Junta) que não é de sócio",
+        "causa": "pipeline"
+      },
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      }
+    },
+    "Quais os sócios e seus endereços?": {
+      "flash_lite": {
+        "baseline": "ERRO",
+        "pipeline": "ERRO",
+        "nota": "baseline já inventa endereço errado (Rua São João Batista...); pos não acha os endereços reais",
+        "causa": "modelo_ja_errava"
+      },
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      }
+    },
+    "Quem da junta está envolvido nesse documento?": {
+      "flash_lite": {
+        "baseline": "ERRO",
+        "pipeline": "ERRO",
+        "nota": "baseline esquece a 2ª pessoa da junta (Carla); pos recusa à toa (pergunta é factual, não pede comparação externa)",
+        "causa": "modelo_ja_errava"
+      },
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "ERRO",
+        "nota": "marcador [NOME_YNDMH] vazado no pós -- 3ª pessoa que não existe, catálogo só tem 2",
+        "causa": "pipeline"
+      }
+    },
+    "Gabriel é sócio dessa empresa que está no documento?": {
+      "flash_lite": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      },
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      }
+    }
+  },
+  "cm1jln7kb006wdiqdck8ievgk-Constituição 12-09-1996.pdf": {
+    "Quem são os sócios da empresa?": {
+      "flash_lite": {
+        "baseline": "ERRO",
+        "pipeline": "ERRO",
+        "nota": "baseline inclui Marinely (funcionária da Junta) como se fosse sócia; pos garbled (nomes fabricados que não existem no doc)",
+        "causa": "modelo_ja_errava"
+      },
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "ERRO",
+        "nota": "pos garbled/OCR ruim: nome virou texto corrompido + Marinely incluída como sócia",
+        "causa": "ocr"
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "ERRO",
+        "nota": "pos garbled/OCR ruim: nome corrompido + CPFs com letras misturadas + Marinely incluída",
+        "causa": "ocr"
+      }
+    },
+    "Quais são os CPFs ou RG dos sócios?": {
+      "flash_lite": {
+        "baseline": "OK",
+        "pipeline": "ERRO",
+        "nota": "pos vira sequência de dígitos gigante, não é CPF/RG válido",
+        "causa": "ocr"
+      },
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "ERRO",
+        "nota": "pos troca pessoa (dá CPF pra Marinely, não Douglas) + valor garbled",
+        "causa": "pipeline"
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "ERRO",
+        "nota": "pos com letras misturadas no CPF (8C8.783.O06-78) + sequência gigante inválida",
+        "causa": "ocr"
+      }
+    },
+    "Quais os sócios e seus endereços?": {
+      "flash_lite": {
+        "baseline": "ERRO",
+        "pipeline": "ERRO",
+        "nota": "baseline já inclui Marinely errado como 2º sócio; pos fabrica 3 pessoas/endereços que não existem no documento",
+        "causa": "modelo_ja_errava"
+      },
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "ERRO",
+        "nota": "pos com marcador inventado [ENDERECO_SOCIO]/[ENDERECO_SOCIO_2] nunca substituído + pessoa errada",
+        "causa": "pipeline"
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "ERRO",
+        "nota": "pos atribui endereço a Marinely em vez do titular real (Douglas)",
+        "causa": "pipeline"
+      }
+    },
+    "Quem da junta está envolvido nesse documento?": {
+      "flash_lite": {
+        "baseline": "OK",
+        "pipeline": "ERRO",
+        "nota": "pos lista Douglas (dono da empresa) como se fosse funcionário da junta, junto com nomes garbled",
+        "causa": "pipeline"
+      },
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "pos correto (Marinely), só com grafia duplicada/redundante",
+        "causa": null
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "ERRO",
+        "nota": "pos atribui o cargo de 'Técnico do Registro' a Douglas (dono da empresa), pessoa errada",
+        "causa": "pipeline"
+      }
+    },
+    "Gabriel é sócio dessa empresa que está no documento?": {
+      "flash_lite": {
+        "baseline": "ERRO",
+        "pipeline": "OK",
+        "nota": "baseline não responde, pede esclarecimento ao usuário (falha do modelo, não do mascaramento); pos acerta a recusa",
+        "causa": null
+      },
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      }
+    }
+  },
+  "cm1ow1j3e0008uiqd53mf55j4-CONTRATO SOCIAL NOVO 22.03.pdf": {
+    "Quem são os sócios da empresa?": {
+      "flash_lite": {
+        "baseline": "OK",
+        "pipeline": "ERRO",
+        "nota": "pos lista a mesma sócia (Mirian) 2x com grafias diferentes, como se fossem 2 sócias",
+        "causa": "ocr"
+      },
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      }
+    },
+    "Quais são os CPFs ou RG dos sócios?": {
+      "flash_lite": {
+        "baseline": "ERRO",
+        "pipeline": "ERRO",
+        "nota": "baseline diz que não há CPF/RG no documento (falso negativo); pos só acha o RG, falta o CPF",
+        "causa": "modelo_ja_errava"
+      },
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      }
+    },
+    "Quais os sócios e seus endereços?": {
+      "flash_lite": {
+        "baseline": "ERRO",
+        "pipeline": "OK",
+        "nota": "baseline inventa um endereço principal errado (Rua General Glícério); pos acerta o endereço real, só duplicado",
+        "causa": null
+      },
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      }
+    },
+    "Quem da junta está envolvido nesse documento?": {
+      "flash_lite": {
+        "baseline": "ERRO",
+        "pipeline": "ERRO",
+        "nota": "baseline confunde a própria sócia (Mirian) com a funcionária da junta; pos repete o mesmo erro, devolve dados da sócia em vez da junta",
+        "causa": "modelo_ja_errava"
+      },
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "nome do funcionário sai com grafia diferente do baseline, mas é ruído de OCR do próprio documento, não erro do pipeline",
+        "causa": null
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "mesma observação -- grafia varia por OCR, pessoa/cargo corretos",
+        "causa": null
+      }
+    },
+    "Gabriel é sócio dessa empresa que está no documento?": {
+      "flash_lite": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      },
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      }
+    }
+  },
+  "cm1qczv5u0008v6qd426f9fgv-CORTEC - Alteração Consolidada290720.pdf": {
+    "Quem são os sócios da empresa?": {
+      "flash_lite": {
+        "baseline": "ERRO",
+        "pipeline": "ERRO",
+        "nota": "baseline lista os 3 como se todos fossem sócios atuais, sem indicar a transferência; pos garbled (Daniel repetido 3x com grafias diferentes, Elisangela sumiu, Marinely incluída)",
+        "causa": "modelo_ja_errava"
+      },
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "conteúdo correto, só sem distinguir quem se retirou",
+        "causa": null
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      }
+    },
+    "Quais são os CPFs ou RG dos sócios?": {
+      "flash_lite": {
+        "baseline": "OK",
+        "pipeline": "ERRO",
+        "nota": "pos inclui CPF de terceiro (873.638.956-00, da Marinely/Junta) que não é de sócio",
+        "causa": "pipeline"
+      },
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      }
+    },
+    "Quais os sócios e seus endereços?": {
+      "flash_lite": {
+        "baseline": "ERRO",
+        "pipeline": "ERRO",
+        "nota": "baseline inventa endereço errado pra Paula (Rodovia Anel Rodoviário); pos garbled: endereço errado + Marinely incluída + Daniel 3x + funcionário da junta (Weveling) listado como sócio",
+        "causa": "modelo_ja_errava"
+      },
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "ERRO",
+        "nota": "pos correto pros 2 que saem, mas OMITE a sócia final (Paula) da resposta",
+        "causa": "pipeline"
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      }
+    },
+    "Quem da junta está envolvido nesse documento?": {
+      "flash_lite": {
+        "baseline": "OK",
+        "pipeline": "ERRO",
+        "nota": "pos recusa à toa (pergunta é factual, não pede comparação externa)",
+        "causa": "pipeline"
+      },
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      }
+    },
+    "Gabriel é sócio dessa empresa que está no documento?": {
+      "flash_lite": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      },
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      }
+    }
+  },
+  "cm2j3nwn9001qgpqd51wm07ce-Alteração Consolidada setembro14.pdf": {
+    "Quem são os sócios da empresa?": {
+      "flash_lite": {
+        "baseline": "ERRO",
+        "pipeline": "ERRO",
+        "nota": "baseline lista Hercules (que está se retirando) como sócio atual sem indicar isso; pos repete o mesmo erro",
+        "causa": "modelo_ja_errava"
+      },
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      }
+    },
+    "Quais são os CPFs ou RG dos sócios?": {
+      "flash_lite": {
+        "baseline": "ERRO",
+        "pipeline": "ERRO",
+        "nota": "baseline chama valor de formato RG de 'CPF' e usa dígitos diferentes dos outros modelos; pos incompleto, falta Verena, sem atribuição de nome",
+        "causa": "modelo_ja_errava"
+      },
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      }
+    },
+    "Quais os sócios e seus endereços?": {
+      "flash_lite": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      },
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      }
+    },
+    "Quem da junta está envolvido nesse documento?": {
+      "flash_lite": {
+        "baseline": "OK",
+        "pipeline": "ERRO",
+        "nota": "pos recusa à toa (pergunta é factual, não pede comparação externa)",
+        "causa": "pipeline"
+      },
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      }
+    },
+    "Gabriel é sócio dessa empresa que está no documento?": {
+      "flash_lite": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      },
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      }
+    }
+  },
+  "cm2t2y1fg00b12yqde39j7bwb-Alteração Consolidada 102019.pdf": {
+    "Quem são os sócios da empresa?": {
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      }
+    },
+    "Quais são os CPFs ou RG dos sócios?": {
+      "flash": {
+        "baseline": "ERRO",
+        "pipeline": "OK",
+        "nota": "baseline erra o RG do titular (da 5.600.050 em vez do real 5.606.626-8); pos acerta o CPF (509.541.132-68), RG nao mencionado mas nao ha erro",
+        "causa": null
+      },
+      "pro": {
+        "baseline": "ERRO",
+        "pipeline": "OK",
+        "nota": "baseline erra o RG do titular (5.608.214, nao existe no doc) em vez do real 5.606.626-8; pipeline acerta o CPF e nao menciona RG, o que nao e erro",
+        "causa": null
+      }
+    },
+    "Quais os sócios e seus endereços?": {
+      "flash": {
+        "baseline": "ERRO",
+        "pipeline": "OK",
+        "nota": "baseline confunde o endereco residencial do socio com o endereco antigo da empresa (Rua Joao Morato de Faria); pos acerta o endereco real (Rua Mato Grosso 1430) e o RG",
+        "causa": null
+      },
+      "pro": {
+        "baseline": "ERRO",
+        "pipeline": "OK",
+        "nota": "baseline inventa nome de rua hibrido 'Rua Goias Grosso' (nao existe no doc) e RG errado (5.608.214); pipeline acerta o endereco real (Rua Mato Grosso 1430) e o RG correto (5.606.626-8)",
+        "causa": null
+      }
+    },
+    "Quem da junta está envolvido nesse documento?": {
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "pipeline acerta as duas pessoas da junta (Zelia e Marinely) e ainda adiciona CPFs corretos (150.862.326-00 e 873.638.956-00), sem erro",
+        "causa": null
+      }
+    },
+    "Gabriel é sócio dessa empresa que está no documento?": {
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "pos recusa por causa do mascaramento (nao compara nome nao mascarado a entidades mascaradas); recusa e comportamento correto/esperado, nao e um defeito",
+        "causa": null
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "pos recusa por causa do mascaramento; recusa e comportamento correto/esperado, nao e um defeito",
+        "causa": null
+      }
+    }
+  },
+  "cm3376wbs002xzaqd1p4r02h0-15 Alteração Contratual.pdf": {
+    "Quem são os sócios da empresa?": {
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      }
+    },
+    "Quais são os CPFs ou RG dos sócios?": {
+      "flash": {
+        "baseline": "ERRO",
+        "pipeline": "OK",
+        "nota": "baseline erra o CPF de Nilson (da 000.559.484-72 em vez do real 090.559.484-72); pos acerta o CPF e o RG",
+        "causa": null
+      },
+      "pro": {
+        "baseline": "ERRO",
+        "pipeline": "OK",
+        "nota": "baseline erra o CPF de Nilson (000.559.484-72 em vez do real 090.559.484-72); pipeline acerta CPF e RG (364.885)",
+        "causa": null
+      }
+    },
+    "Quais os sócios e seus endereços?": {
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      }
+    },
+    "Quem da junta está envolvido nesse documento?": {
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "ERRO",
+        "nota": "pos inclui indevidamente o socio/administrador Nilson Nogueira Lundgren como se fosse envolvido da junta comercial (ele apenas teve o contrato arquivado la), alem de trazer o nome com artefato de mascara ('Lundgren,ja')",
+        "causa": "pipeline"
+      }
+    },
+    "Gabriel é sócio dessa empresa que está no documento?": {
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "pos recusa por causa do mascaramento (nao compara nome nao mascarado a entidades mascaradas); recusa e comportamento correto/esperado, nao e um defeito",
+        "causa": null
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "pos responde corretamente com os nomes reais (nao recusa, mas acerta que Gabriel nao e socio)",
+        "causa": null
+      }
+    }
+  },
+  "cm37fqf0n0006hnqd6jjm3xrc-POZOMINAS - TRANSFORMAÇÃO DE S.A. PARA LTDA.pdf": {
+    "Quem são os sócios da empresa?": {
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "ERRO",
+        "nota": "pos lista os mesmos socios/acionistas duas vezes com grafias diferentes (Marcos Antonio Frison/Frisson Zacarias; Aluizio Roberto Andrade/de Andrade Ferreira de Souza), variantes que existem no proprio documento por OCR, e nao deixa claro que Lucas Filla e Aluizio se retiraram",
+        "causa": "ocr"
+      }
+    },
+    "Quais são os CPFs ou RG dos sócios?": {
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      }
+    },
+    "Quais os sócios e seus endereços?": {
+      "flash": {
+        "baseline": "ERRO",
+        "pipeline": "OK",
+        "nota": "baseline erra o CEP do endereco de Marcos (85.770-000 em vez de 85.670-000) e o numero/bloco do endereco de Loester (75/bloco C em vez de 178/bloco B); pos corrige ambos corretamente",
+        "causa": null
+      }
+    },
+    "Quem da junta está envolvido nesse documento?": {
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "ERRO",
+        "nota": "pos confunde socios da empresa (Marcos, Lucas, Aluizio, Loester) com funcionarios da junta comercial, atribuindo cargos errados (ex.: chama Marinely de 'Representante Legal da Empresa', diz que Loester e 'Advogado e Assinante' da junta) e ainda concatena nomes de forma garbled ('Lucas Filla Aluizio Roberto Andrade Ferreira de Souza')",
+        "causa": "pipeline"
+      }
+    },
+    "Gabriel é sócio dessa empresa que está no documento?": {
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "pos recusa por causa do mascaramento (nao compara nome nao mascarado a entidades mascaradas); recusa e comportamento correto/esperado, nao e um defeito",
+        "causa": null
+      }
+    }
+  },
+  "cm3zxn5i1007k6lqdfgssemj9-BRUNO MEDEIROS20012015_0017.jpg": {
+    "Quem são os sócios da empresa?": {
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "ERRO",
+        "nota": "pos usa a leitura OCR corrompida do primeiro socio (FERNANDO JOSY LIMK MEDE) em vez do nome correto (Fernando Jose Lima Medeiros)",
+        "causa": "ocr"
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "ERRO",
+        "nota": "pos usa a leitura OCR corrompida do primeiro socio (FERNANDO JOSY LIMK MEDE) em vez do nome correto (Fernando Jose Lima Medeiros)",
+        "causa": "ocr"
+      }
+    },
+    "Quais são os CPFs ou RG dos sócios?": {
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "CPFs corretos para os 3 socios; nome de Fernando aparece com grafia OCR corrompida no rotulo, mas o valor pedido (CPF) esta certo",
+        "causa": null
+      }
+    },
+    "Quais os sócios e seus endereços?": {
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "ERRO",
+        "nota": "pos repete o mesmo problema: usa o nome garbled FERNANDO JOSY LIMK MEDE em vez de Fernando Jose Lima Medeiros",
+        "causa": "ocr"
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "ERRO",
+        "nota": "pos repete o mesmo problema: usa o nome garbled FERNANDO JOSY LIMK MEDE em vez de Fernando Jose Lima Medeiros",
+        "causa": "ocr"
+      }
+    },
+    "Quem da junta está envolvido nesse documento?": {
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      }
+    },
+    "Gabriel é sócio dessa empresa que está no documento?": {
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "pos recusa por causa do mascaramento (nao compara nome nao mascarado a entidades mascaradas); recusa e comportamento correto/esperado, nao e um defeito",
+        "causa": null
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "pos recusa por causa do mascaramento; recusa e comportamento correto/esperado, nao e um defeito",
+        "causa": null
+      }
+    }
+  },
+  "cm6dqdqda00c5t5qdbn57eym4-CONTRATO SOCIAL CONSTITUTIVO.pdf": {
+    "Quem são os sócios da empresa?": {
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      }
+    },
+    "Quais são os CPFs ou RG dos sócios?": {
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "pos repete o mesmo CPF correto em 3 formatos diferentes (com e sem espaco, so digitos) por causa de marcadores distintos para a mesma informacao no documento; nenhum valor esta errado",
+        "causa": null
+      }
+    },
+    "Quais os sócios e seus endereços?": {
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      }
+    },
+    "Quem da junta está envolvido nesse documento?": {
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      }
+    },
+    "Gabriel é sócio dessa empresa que está no documento?": {
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "pos recusa por causa do mascaramento (nao compara nome nao mascarado a entidades mascaradas); recusa e comportamento correto/esperado, nao e um defeito",
+        "causa": null
+      }
+    }
+  },
+  "cm79dwyah00t7s4qda3jqdnck-PROCESSO_250219883_722025_181223 (3).pdf": {
+    "Quem são os sócios da empresa?": {
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "pipeline lista os 3 sem distinguir quem saiu e quem é o sócio atual, mas nomes corretos",
+        "causa": null
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      }
+    },
+    "Quais são os CPFs ou RG dos sócios?": {
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      }
+    },
+    "Quais os sócios e seus endereços?": {
+      "flash": {
+        "baseline": "ERRO",
+        "pipeline": "OK",
+        "nota": "baseline erra o CEP do endereço de Marcos (72231-600 em vez do correto 72231-800); pos corrige e traz o CEP certo",
+        "causa": null
+      },
+      "pro": {
+        "baseline": "ERRO",
+        "pipeline": "OK",
+        "nota": "baseline erra o CEP do sócio Marcos (72231-600, correto é 72231-800); pós-desmascaramento acerta o CEP correto",
+        "causa": null
+      }
+    },
+    "Quem da junta está envolvido nesse documento?": {
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      }
+    },
+    "Gabriel é sócio dessa empresa que está no documento?": {
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "pos recusa por causa do mascaramento (nao compara nome nao mascarado a entidades mascaradas); recusa e comportamento correto/esperado, nao e um defeito",
+        "causa": null
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      }
+    }
+  },
+  "cm7awuw5u000oxqqdg28s8vcq-Contrato Social.pdf": {
+    "Quem são os sócios da empresa?": {
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      }
+    },
+    "Quais são os CPFs ou RG dos sócios?": {
+      "flash": {
+        "baseline": "ERRO",
+        "pipeline": "OK",
+        "nota": "baseline erra o nome (REGIVALDO em vez de REGINALDO) e inventa RGs errados para os 2 sócios (21.513.310-X e 20.134.798); pos traz nome e RGs corretos (25.211.310-X e 20.510.708)",
+        "causa": null
+      },
+      "pro": {
+        "baseline": "ERRO",
+        "pipeline": "ERRO",
+        "nota": "baseline inventa RG/CPF errados (25.511.310-X, 42.510.508, 264.864.288-94); pós-desmascaramento acerta os dados dos 2 sócios reais mas adiciona um 3º 'sócio' fantasma (IFRANCA REGINALDO CANDIDO FERREIRA), duplicata causada por artefato de OCR (marca d'água colada no nome na página 2)",
+        "causa": "ocr"
+      }
+    },
+    "Quais os sócios e seus endereços?": {
+      "flash": {
+        "baseline": "ERRO",
+        "pipeline": "ERRO",
+        "nota": "baseline erra o nome (REGIVALDO); pos traz endereços corretos mas duplica Reginaldo com o prefixo 'IFRANCA' (ruído do cabeçalho/logo do documento) como se fosse uma 3ª pessoa, e atribui a Karilla também o endereço da sede da empresa por engano",
+        "causa": "ocr"
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      }
+    },
+    "Quem da junta está envolvido nesse documento?": {
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "ERRO",
+        "nota": "pos confunde e lista os próprios sócios (Reginaldo/Karilla) como se fossem da junta comercial, omitindo Maria Cristina Frei (Secretária-Geral da JUCESP), que é a pessoa correta",
+        "causa": "pipeline"
+      },
+      "pro": {
+        "baseline": "ERRO",
+        "pipeline": "ERRO",
+        "nota": "baseline erra o nome (MARINA em vez de MARIA Cristina Frei); pós-desmascaramento duplica a mesma pessoa em duas entradas (MARIA CRISTINA FREI e CRISTINA FREI), como se fossem 2 pessoas diferentes na junta -- falha de mapeamento de entidade no mascaramento (grafias distintas da mesma ocorrência viraram marcadores separados)",
+        "causa": "pipeline"
+      }
+    },
+    "Gabriel é sócio dessa empresa que está no documento?": {
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "pos recusa por causa do mascaramento (nao compara nome nao mascarado a entidades mascaradas); recusa e comportamento correto/esperado, nao e um defeito",
+        "causa": null
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      }
+    }
+  },
+  "cm7khileu00dsysqdezo8fror-3ª Alteração contratual Gold Março 15 03 2023 PI.pdf": {
+    "Quem são os sócios da empresa?": {
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "ERRO",
+        "nota": "pos substitui o nome do sócio Antonio por uma string corrompida que mistura CPF e nome de Fernando ('TOSCANO DE BRITO|02490336401-FERNANDO ANTONIO...'), artefato da linha de assinatura eletrônica malformada no documento; nome correto de Antonio se perde",
+        "causa": "ocr"
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      }
+    },
+    "Quais são os CPFs ou RG dos sócios?": {
+      "flash": {
+        "baseline": "ERRO",
+        "pipeline": "OK",
+        "nota": "baseline erra o RG de ambos: confunde CPF/RG de Antonio (não identifica o RG correto 5076516) e erra dígito do RG de Fernando (4591511 em vez de 4520511); pos traz os RGs corretos para os 2",
+        "causa": null
+      },
+      "pro": {
+        "baseline": "ERRO",
+        "pipeline": "OK",
+        "nota": "baseline inventa RG (4679544) e erra o CPF de Fernando (104.003.464-01 em vez de 024.903.364-01); pós-desmascaramento traz todos os valores corretos (CPF/RG batem com o documento)",
+        "causa": null
+      }
+    },
+    "Quais os sócios e seus endereços?": {
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "ERRO",
+        "nota": "pos acerta os endereços mas os nomes dos 2 sócios saem corrompidos, misturando CPF e nome dos dois assinantes (mesmo artefato da linha de assinatura eletrônica malformada no documento)",
+        "causa": "ocr"
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      }
+    },
+    "Quem da junta está envolvido nesse documento?": {
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "pos inclui também Fernando e Antonio como signatários, além de Amanda Aires Vieira (JUCEPE) corretamente identificada como a responsável pela junta; informação extra mas não incorreta",
+        "causa": null
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      }
+    },
+    "Gabriel é sócio dessa empresa que está no documento?": {
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "pos recusa por causa do mascaramento (nao compara nome nao mascarado a entidades mascaradas); recusa e comportamento correto/esperado, nao e um defeito",
+        "causa": null
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      }
+    }
+  },
+  "cm7zlh1t20030hlqd2g43d50f-1.0 - CS - Conceito Trading Ltda. - Assinado.pdf": {
+    "Quem são os sócios da empresa?": {
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      }
+    },
+    "Quais são os CPFs ou RG dos sócios?": {
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "ERRO",
+        "nota": "baseline atribui corretamente CPF/CNH a Rogério e Ednardo; pós-desmascaramento troca os titulares e atribui o CPF/CNH de Rogério à sua mãe (Helia Moraes de Paiva Mundim) e o de Ednardo à mãe dele (Edna Osório da Silva) -- confusão de papéis por causa da frase 'filho de X e Y, portador do CPF...' no documento original, onde o CPF pertence ao filho, não à mãe citada logo antes",
+        "causa": "pipeline"
+      }
+    },
+    "Quais os sócios e seus endereços?": {
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "ERRO",
+        "nota": "pos não traz o endereço do sócio CONCEITO S/A, dizendo que não estaria disponível como marcador, embora o endereço da empresa esteja no documento (endereços de PJ normalmente não são mascarados); modelo ficou confuso por causa do esquema de marcadores",
+        "causa": "pipeline"
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      }
+    },
+    "Quem da junta está envolvido nesse documento?": {
+      "flash": {
+        "baseline": "ERRO",
+        "pipeline": "ERRO",
+        "nota": "baseline já confunde 'junta' com a administração da própria empresa e nunca menciona a real responsável pela Junta Comercial de Goiás (Paula Nunes Lobo Veloso Rossi, Secretária-Geral); pos repete a mesma confusão e ainda inclui erroneamente os pais dos administradores (Helia Moraes de Paiva Mundim, Edna Osório da Silva) como se fizessem parte da administração",
+        "causa": "modelo_ja_errava"
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "ERRO",
+        "nota": "baseline acerta o nome completo (Paula Nunes Lobo Veloso Rossi); pós-desmascaramento perde o sobrenome 'Veloso' (vira 'Paula Nunes Lobo Rossi') e erra o número do protocolo (231511650 em vez de 231511655)",
+        "causa": "pipeline"
+      }
+    },
+    "Gabriel é sócio dessa empresa que está no documento?": {
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "pos recusa por causa do mascaramento (nao compara nome nao mascarado a entidades mascaradas); recusa e comportamento correto/esperado, nao e um defeito",
+        "causa": null
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      }
+    }
+  },
+  "cm8ous9tj002hooqd0wpj2d9y-_Contrato Social - New Eletric.pdf": {
+    "Quem são os sócios da empresa?": {
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      }
+    },
+    "Quais são os CPFs ou RG dos sócios?": {
+      "flash": {
+        "baseline": "ERRO",
+        "pipeline": "OK",
+        "nota": "baseline erra o RG de Eustaquio (MG-12.757.138 em vez do correto mg-22.797.158); pos traz o RG correto para os 2 sócios",
+        "causa": null
+      },
+      "pro": {
+        "baseline": "ERRO",
+        "pipeline": "OK",
+        "nota": "baseline erra o RG de Eustaquio (MG-12.757.138 em vez de mg-22.797.158); pós-desmascaramento traz o RG correto de ambos os sócios",
+        "causa": null
+      }
+    },
+    "Quais os sócios e seus endereços?": {
+      "flash": {
+        "baseline": "ERRO",
+        "pipeline": "OK",
+        "nota": "baseline erra o nome da rua de Eustaquio (Rua Elzira Rocha Saliba em vez de Rua Alzira Rocha Saliba); pos traz o endereço correto",
+        "causa": null
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      }
+    },
+    "Quem da junta está envolvido nesse documento?": {
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      }
+    },
+    "Gabriel é sócio dessa empresa que está no documento?": {
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "pos recusa por causa do mascaramento (nao compara nome nao mascarado a entidades mascaradas); recusa e comportamento correto/esperado, nao e um defeito",
+        "causa": null
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      }
+    }
+  },
+  "cmcj82dfj004c01q531sr87nr-alterao2sincoplemaautenticadomaio21pdf": {
+    "Quem são os sócios da empresa?": {
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      }
+    },
+    "Quais são os CPFs ou RG dos sócios?": {
+      "flash": {
+        "baseline": "ERRO",
+        "pipeline": "OK",
+        "nota": "baseline erra um dígito do CPF (270.445.642-72 em vez do correto 270.445.643-72); pipeline corrige via mascaramento e traz o CPF certo",
+        "causa": null
+      },
+      "pro": {
+        "baseline": "ERRO",
+        "pipeline": "OK",
+        "nota": "baseline inventa uma divergência de CPF (270.445.642-72) que não existe: o documento traz 270.445.643-72 tanto no corpo quanto na assinatura eletrônica; pipeline acerta o valor correto nas duas ocorrências",
+        "causa": null
+      }
+    },
+    "Quais os sócios e seus endereços?": {
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      }
+    },
+    "Quem da junta está envolvido nesse documento?": {
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "ERRO",
+        "nota": "pipeline inclui indevidamente o titular (Edivan da Silva Amâncio) como se fosse 'envolvido da junta', junto com a Secretária-Geral (Lílian Theresa Rodrigues Mendonça) que é a resposta correta; Edivan é apenas quem assina o ato, não é funcionário da junta",
+        "causa": "pipeline"
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      }
+    },
+    "Gabriel é sócio dessa empresa que está no documento?": {
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "pos recusa por causa do mascaramento (nao compara nome nao mascarado a entidades mascaradas); recusa e comportamento correto/esperado, nao e um defeito",
+        "causa": null
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      }
+    }
+  },
+  "cmfczvaui000b01mj0pm1byub-alteracaocontratualjuatubapdf": {
+    "Quem são os sócios da empresa?": {
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "ERRO",
+        "nota": "pipeline concatena indevidamente o nome fantasia da empresa (L F L TEIXEIRA) com o nome do sócio, virando 'L F L TEIXEIRA LUIZ FERNANDO LOURENCO TEIXEIRA', resultado de confusão introduzida pela máscara",
+        "causa": "pipeline"
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      }
+    },
+    "Quais são os CPFs ou RG dos sócios?": {
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      }
+    },
+    "Quais os sócios e seus endereços?": {
+      "flash": {
+        "baseline": "ERRO",
+        "pipeline": "ERRO",
+        "nota": "baseline erra o CEP do endereço pessoal (32.671-500 em vez do correto 32.671-506); pipeline erra de forma diferente e mais grave: atribui o endereço do titular (Luiz Fernando Lourenco Teixeira) à Marinely de Paula Bomfim, que é a secretária-geral da junta, não o sócio",
+        "causa": "pipeline"
+      },
+      "pro": {
+        "baseline": "ERRO",
+        "pipeline": "OK",
+        "nota": "baseline erra o CEP do titular (32.671-508); documento traz 32.671-506, valor que o pipeline reproduz corretamente",
+        "causa": null
+      }
+    },
+    "Quem da junta está envolvido nesse documento?": {
+      "flash": {
+        "baseline": "ERRO",
+        "pipeline": "ERRO",
+        "nota": "baseline esquece o 2º funcionário real da junta que assinou eletronicamente (Vinicius Barbosa Mourão, Servidor Público SRM); pipeline lista Marinely de Paula Bomfim duas vezes, sendo a 2ª ocorrência com o nome corrompido pelo OCR do próprio documento ('MARINELY DE PAULA ( BOMFIM'), também sem citar Vinicius",
+        "causa": "ocr"
+      },
+      "pro": {
+        "baseline": "ERRO",
+        "pipeline": "ERRO",
+        "nota": "ambos citam apenas Marinely de Paula Bomfim (Secretária-Geral) e não mencionam Vinicius Barbosa Mourão, Servidor(a) Público(a) que também assina digitalmente o documento",
+        "causa": "modelo_ja_errava"
+      }
+    },
+    "Gabriel é sócio dessa empresa que está no documento?": {
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "pos recusa por causa do mascaramento (nao compara nome nao mascarado a entidades mascaradas); recusa e comportamento correto/esperado, nao e um defeito",
+        "causa": null
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      }
+    }
+  },
+  "cmg9mqjuw000301qkfhxz4lmc-contratosocialpalowapdf": {
+    "Quem são os sócios da empresa?": {
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      }
+    },
+    "Quais são os CPFs ou RG dos sócios?": {
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      }
+    },
+    "Quais os sócios e seus endereços?": {
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      }
+    },
+    "Quem da junta está envolvido nesse documento?": {
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "ERRO",
+        "nota": "pipeline inventa o cargo de 'Presidente' atribuído a Marinely de Paula Bomfim; no documento esse campo do formulário está em branco e ela é na verdade a Secretária-Geral, não Presidente",
+        "causa": "pipeline"
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      }
+    },
+    "Gabriel é sócio dessa empresa que está no documento?": {
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "pos recusa por causa do mascaramento (nao compara nome nao mascarado a entidades mascaradas); recusa e comportamento correto/esperado, nao e um defeito",
+        "causa": null
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      }
+    }
+  },
+  "cmhjmy4i1001q01n3fsat4dmg-2aalteracaocontratualregistradametalferpdf": {
+    "Quem são os sócios da empresa?": {
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      }
+    },
+    "Quais são os CPFs ou RG dos sócios?": {
+      "flash": {
+        "baseline": "ERRO",
+        "pipeline": "ERRO",
+        "nota": "baseline erra o RG do Josimar (MG-13.821.401 em vez de MG-13.821.404), o CPF do Aprigio (090.128.825-56 em vez de 054.125.826-56) e o RG do Aprigio (MG-12.705.995 em vez de MG-12.705.992); pipeline corrige RG do Josimar e CPF do Aprigio via mascaramento, mas mantém o mesmo erro pré-existente no RG do Aprigio (995 em vez de 992), que não é fruto da máscara",
+        "causa": "modelo_ja_errava"
+      },
+      "pro": {
+        "baseline": "ERRO",
+        "pipeline": "ERRO",
+        "nota": "baseline erra a RG de Josimar (13.821.407, correto é 13.821.404) e o CPF de Aprigio (064.145.826-56, correto é 054.125.826-56); pipeline acerta esses dois mas erra a RG de Aprigio (12.705.995, correto é 12.705.992) -- erros pontuais de dígito em ambos, sem sinal de corrupção de texto (nomes e demais campos saem corretos)",
+        "causa": "pipeline"
+      }
+    },
+    "Quais os sócios e seus endereços?": {
+      "flash": {
+        "baseline": "ERRO",
+        "pipeline": "ERRO",
+        "nota": "baseline erra o CEP do endereço do Josimar (35.700-098 em vez de 35.700-068); pipeline corrige esse CEP via mascaramento, mas trunca o endereço do Aprigio no meio da substituição do marcador ('Rua Bororos,nú.'), perdendo a maior parte do endereço (número, bairro, cidade, CEP)",
+        "causa": "pipeline"
+      },
+      "pro": {
+        "baseline": "ERRO",
+        "pipeline": "OK",
+        "nota": "baseline erra o CEP de Josimar (35.700-086); documento traz 35.700-068, que o pipeline reproduz corretamente; demais endereços corretos em ambos",
+        "causa": null
+      }
+    },
+    "Quem da junta está envolvido nesse documento?": {
+      "flash": {
+        "baseline": "ERRO",
+        "pipeline": "ERRO",
+        "nota": "baseline e pipeline citam apenas Marinely (Secretária-Geral) e/ou campos genéricos em branco do formulário, mas ambos deixam de citar os 3 servidores SRM que assinaram eletronicamente o documento (Nourival de Souza Resende Filho, Edmar Pieri Campos e Raymundo de Almeida Vianna) -- falha pré-existente do modelo, a máscara não piora",
+        "causa": "modelo_ja_errava"
+      },
+      "pro": {
+        "baseline": "ERRO",
+        "pipeline": "ERRO",
+        "nota": "ambos citam apenas Marinely de Paula Bomfim (Secretária-Geral); o documento traz um Termo de Autenticação-Registro Digital da JUCEMG assinado também por Edmar Pieri Campos, Nourival de Souza Resende Filho e Raymundo de Almeida Vianna, que nenhum dos dois menciona",
+        "causa": "modelo_ja_errava"
+      }
+    },
+    "Gabriel é sócio dessa empresa que está no documento?": {
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "pos recusa por causa do mascaramento (nao compara nome nao mascarado a entidades mascaradas); recusa e comportamento correto/esperado, nao e um defeito",
+        "causa": null
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      }
+    }
+  },
+  "cmighlesk00sy01ml5x6aezz8-dole2023contratosocialrjpdf": {
+    "Quem são os sócios da empresa?": {
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "ERRO",
+        "nota": "documento não lista sócios pessoas físicas da empresa (é um processo de recuperação judicial); pipeline aponta erroneamente Helena Eleonora Busse Appel (servidora de secretaria do juízo) e Giovana Farenzena (a juíza) como se fossem sócias, com nomes na grafia corrompida do OCR original do documento ('IHELENA', 'GlOVANA')",
+        "causa": "ocr"
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      }
+    },
+    "Quais são os CPFs ou RG dos sócios?": {
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      }
+    },
+    "Quais os sócios e seus endereços?": {
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      }
+    },
+    "Quem da junta está envolvido nesse documento?": {
+      "flash": {
+        "baseline": "ERRO",
+        "pipeline": "ERRO",
+        "nota": "baseline inventa nomes que não existem no documento para os cargos de Presidente ('Carlos Frederico de Souza Pacheco') e Assessora Jurídica ('Irá Andrade Fagundes'); pipeline usa um nome real (Lauren de Vargas Momback) mas atribui o cargo errado a ela ('Assessora Jurídica', quando na verdade ela é a Presidente da JUCISRS), traz o nome truncado ('auren' em vez de 'Lauren') e omite José Tadeu Jacoby (Secretário-Geral), que o baseline havia citado corretamente",
+        "causa": "pipeline"
+      },
+      "pro": {
+        "baseline": "ERRO",
+        "pipeline": "ERRO",
+        "nota": "baseline erra o nome da assessora jurídica (Íris Ananda Angeli Padilha; correto é Inês Antunes Dilélio) e atribui a José Tadeu Jacoby o cargo de Presidente da JUCISRS que na verdade é de Lauren de Vargas Momback (José Tadeu Jacoby é o Secretário-Geral que autentica digitalmente); pipeline também erra o nome da assessora (Iria Araujo Jardim) e apresenta nomes visivelmente corrompidos (\"auren de VargasMomback\", \"Jos é Tadeu Jacoby-\", \"IHELENA\") refletindo problema de OCR na página de assinaturas",
+        "causa": "ocr"
+      }
+    },
+    "Gabriel é sócio dessa empresa que está no documento?": {
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "pos recusa por causa do mascaramento (nao compara nome nao mascarado a entidades mascaradas); recusa e comportamento correto/esperado, nao e um defeito",
+        "causa": null
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      }
+    }
+  },
+  "cmirdqtyr001301rteeph0yvr-9alteraocontratualmetuspdf": {
+    "Quem são os sócios da empresa?": {
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      }
+    },
+    "Quais são os CPFs ou RG dos sócios?": {
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "valores de CPF/RG corretos para os dois sócios, só com vírgulas duplicadas (ruído de formatação, não muda o conteúdo)",
+        "causa": null
+      },
+      "pro": {
+        "baseline": "ERRO",
+        "pipeline": "OK",
+        "nota": "baseline troca/corrompe os RGs: atribui a Jairo o RG M-3.916.374 (que é de Marylene, correto seria M-3.738.962) e a Marylene um RG inventado 'M-15.916.374' (correto é M-3.916.374); pipeline traz os dois RGs corretos e corretamente atribuídos",
+        "causa": null
+      }
+    },
+    "Quais os sócios e seus endereços?": {
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      }
+    },
+    "Quem da junta está envolvido nesse documento?": {
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "ERRO",
+        "nota": "baseline lista corretamente os 2 envolvidos da junta (examinadora Viviane Favarini e Marinely de Paula Bomfim que assina); pos omite Marinely, já vinha faltando desde a resposta mascarada",
+        "causa": "pipeline"
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      }
+    },
+    "Gabriel é sócio dessa empresa que está no documento?": {
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "pos recusa por causa do mascaramento (nao compara nome nao mascarado a entidades mascaradas); recusa e comportamento correto/esperado, nao e um defeito",
+        "causa": null
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      }
+    }
+  },
+  "cmkwujf49000201nxemxeaf9o-ltimaalteraocontratuallibpdf": {
+    "Quem são os sócios da empresa?": {
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "ERRO",
+        "nota": "baseline lista corretamente os 3 sócios cotistas (Karla, Isabella, Leonardo); pos inclui erroneamente Orlando Leovaldo Busin como 4º sócio -- ele é apenas o pai/representante legal dos filhos menores, não é cotista",
+        "causa": "pipeline"
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      }
+    },
+    "Quais são os CPFs ou RG dos sócios?": {
+      "flash": {
+        "baseline": "ERRO",
+        "pipeline": "ERRO",
+        "nota": "baseline já confunde a atribuição dos documentos (atribui RG/CPF de Orlando como 'dado alternativo' de Karla, inventa inconsistência inexistente para Isabella); pos perde todos os rótulos de nome, vira lista anônima de RG/CPF (incluindo dados de Orlando, que não é sócio) impossível de atribuir a cada pessoa",
+        "causa": "pipeline"
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      }
+    },
+    "Quais os sócios e seus endereços?": {
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "ERRO",
+        "nota": "baseline corretamente lista só os 3 sócios (K, I, L) com o endereço certo; pos inclui Orlando (não-sócio) como 4º sócio com endereços duplicados/redundantes",
+        "causa": "pipeline"
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "ERRO",
+        "nota": "pipeline inclui Orlando Leovaldo Busin como se fosse um 4º sócio com endereço (inclusive duplicado); ele é apenas o pai/representante legal dos sócios menores Isabella e Leonardo, não é cotista -- baseline lista corretamente só os 3 sócios (Karla, Isabella, Leonardo)",
+        "causa": "pipeline"
+      }
+    },
+    "Quem da junta está envolvido nesse documento?": {
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      }
+    },
+    "Gabriel é sócio dessa empresa que está no documento?": {
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "pos recusa por causa do mascaramento (nao compara nome nao mascarado a entidades mascaradas); recusa e comportamento correto/esperado, nao e um defeito",
+        "causa": null
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      }
+    }
+  },
+  "cml87n28o001u01ozeaif5lqi-contratorodaiiipdf": {
+    "Quem são os sócios da empresa?": {
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      }
+    },
+    "Quais são os CPFs ou RG dos sócios?": {
+      "flash": {
+        "baseline": "ERRO",
+        "pipeline": "OK",
+        "nota": "baseline erra os RGs dos dois sócios (dígitos transpostos: dá '80794323-1' em vez de 8078143231 para Rodrigo, e '1077080842' em vez de 1077908042 para Danielle); pos corrige e bate exatamente com o gabarito para ambos",
+        "causa": null
+      },
+      "pro": {
+        "baseline": "ERRO",
+        "pipeline": "OK",
+        "nota": "baseline erra os dois RGs por corrupção de dígitos (Rodrigo: 8076133231 em vez de 8078143231; Danielle: 1077080842 em vez de 1077908042); pipeline traz os dois RGs corretos, idênticos ao documento",
+        "causa": null
+      }
+    },
+    "Quais os sócios e seus endereços?": {
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "ERRO",
+        "nota": "baseline acerta o endereço dos dois sócios (mesmo endereço); pos acerta para Rodrigo mas diz que não encontrou o endereço de Danielle, apesar de constar no documento (mesmo endereço do outro sócio)",
+        "causa": "pipeline"
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      }
+    },
+    "Quem da junta está envolvido nesse documento?": {
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "grafia do nome da examinadora varia ligeiramente (Priscilla/Priscila) mas pessoa e cargo corretos em ambas",
+        "causa": null
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      }
+    },
+    "Gabriel é sócio dessa empresa que está no documento?": {
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "pos recusa por causa do mascaramento (nao compara nome nao mascarado a entidades mascaradas); recusa e comportamento correto/esperado, nao e um defeito",
+        "causa": null
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      }
+    }
+  },
+  "cmm0yp5wb005501nx24wq314w-contratof11pdf": {
+    "Quem são os sócios da empresa?": {
+      "flash": {
+        "baseline": "ERRO",
+        "pipeline": "ERRO",
+        "nota": "baseline identifica corretamente Karen Karla Gomes da Silva como sócia/administradora da STK (cedente), mas erra ao incluir Sebastião e Rosilayne como 'sócios' -- eles são apenas devedores solidários/fiadores; pos nega que o documento especifique sócios, apesar do texto trazer explicitamente 'Sócia/Administradora' para Karen -- recusa mais grave introduzida no pipeline",
+        "causa": "pipeline"
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      }
+    },
+    "Quais são os CPFs ou RG dos sócios?": {
+      "flash": {
+        "baseline": "ERRO",
+        "pipeline": "ERRO",
+        "nota": "baseline erra dígitos do RG de Karen (066144454347 em vez de 06614454347) e atribui a Rosilayne o mesmo RG de Karen por engano; pos simplesmente nega que existam CPF/RG de 'sócios' no documento, apesar de Karen ser explicitamente rotulada sócia/administradora com CPF/RG no texto",
+        "causa": "pipeline"
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      }
+    },
+    "Quais os sócios e seus endereços?": {
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "ERRO",
+        "nota": "baseline traz endereços corretos para a STK e para as pessoas físicas; pos atribui à STK (empresa) o endereço pessoal de Karen/Sebastião/Rosilayne em vez do endereço real da empresa, e trunca o endereço da Tercon ('Endereço: Rua')",
+        "causa": "pipeline"
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      }
+    },
+    "Quem da junta está envolvido nesse documento?": {
+      "flash": {
+        "baseline": "ERRO",
+        "pipeline": "ERRO",
+        "nota": "documento é um contrato privado de cessão de crédito, sem envolvimento real de Junta Comercial; baseline já interpreta mal a pergunta, tratando as próprias empresas contratantes como 'a junta'; pos piora com formatação corrompida (nomes colados a CPFs sem separação, ex: 'SEBASTIAO GOMES BARBOSA DA SILVA: 71803793104', entradas duplicadas com grafias truncadas)",
+        "causa": "pipeline"
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "ERRO",
+        "nota": "a pergunta se refere à Junta Comercial (o documento cita a Junta Comercial do Estado de São Paulo na cláusula 14.1(b), como baseline identifica corretamente); pipeline ignora essa referência e responde outra coisa, listando todas as partes do contrato (cedente, cessionário, administradora, intervenientes, devedores, testemunhas), sem mencionar a Junta Comercial",
+        "causa": "pipeline"
+      }
+    },
+    "Gabriel é sócio dessa empresa que está no documento?": {
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "pos recusa por causa do mascaramento (nao compara nome nao mascarado a entidades mascaradas); recusa e comportamento correto/esperado, nao e um defeito",
+        "causa": null
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      }
+    }
+  },
+  "cmmv0faza000401pk21yxa454-8alteraocontratualpdf": {
+    "Quem são os sócios da empresa?": {
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      }
+    },
+    "Quais são os CPFs ou RG dos sócios?": {
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      }
+    },
+    "Quais os sócios e seus endereços?": {
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      }
+    },
+    "Quem da junta está envolvido nesse documento?": {
+      "flash": {
+        "baseline": "ERRO",
+        "pipeline": "ERRO",
+        "nota": "gabarito indica que a responsável é Maria Cristina Frei, Secretária Geral da JUCESP; baseline inventa nome totalmente diferente ('Marcia Regina Pereira'); pos acerta o sobrenome mas antepõe 'PAULA' indevidamente ('PAULA MARIA CRISTINA FREI') -- mesmo problema de fundo: o modelo não consegue ler corretamente esse campo de assinatura ruidoso, com ou sem máscara",
+        "causa": "modelo_ja_errava"
+      },
+      "pro": {
+        "baseline": "ERRO",
+        "pipeline": "OK",
+        "nota": "baseline inventa o nome 'Dante M. S. Lima Torres' como Secretária-Geral da JUCESP; o carimbo do documento mostra que a Secretária-Geral é Maria Cristina Frei, nome que o pipeline traz corretamente",
+        "causa": null
+      }
+    },
+    "Gabriel é sócio dessa empresa que está no documento?": {
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "pos recusa por causa do mascaramento (nao compara nome nao mascarado a entidades mascaradas); recusa e comportamento correto/esperado, nao e um defeito",
+        "causa": null
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      }
+    }
+  },
+  "cmnf23syl000w01pa9ojxd7sb-altreracaodekelitltdapdf": {
+    "Quem são os sócios da empresa?": {
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "ERRO",
+        "nota": "baseline explica corretamente que Ramonn se retirou e transferiu suas quotas, ficando só Lucia como sócia; pos apenas lista os dois nomes como se ambos fossem sócios atuais, sem indicar a retirada de Ramonn",
+        "causa": "pipeline"
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      }
+    },
+    "Quais são os CPFs ou RG dos sócios?": {
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      },
+      "pro": {
+        "baseline": "ERRO",
+        "pipeline": "OK",
+        "nota": "baseline erra o RG de Ramonn (2.131.035 em vez de 2.134.035); pos corrige corretamente",
+        "causa": null
+      }
+    },
+    "Quais os sócios e seus endereços?": {
+      "flash": {
+        "baseline": "ERRO",
+        "pipeline": "ERRO",
+        "nota": "baseline inventa um nome de rua errado para Ramonn (Rua Barão de Sabará, não existe no doc) e erra o CEP; pos troca os endereços entre as duas pessoas (dá o endereço da Lucia para o Ramonn e vice-versa)",
+        "causa": "pipeline"
+      },
+      "pro": {
+        "baseline": "ERRO",
+        "pipeline": "OK",
+        "nota": "baseline erra o CEP de Ramonn (58.300-100 em vez de 58.300-300); pos corrige corretamente",
+        "causa": null
+      }
+    },
+    "Quem da junta está envolvido nesse documento?": {
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "ERRO",
+        "nota": "pos inclui erroneamente os dois sócios (Ramonn e Lucia) como se fossem pessoal da junta comercial, além da correta Maria de Fatima Ventura Venancio",
+        "causa": "pipeline"
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      }
+    },
+    "Gabriel é sócio dessa empresa que está no documento?": {
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "pos recusa por causa do mascaramento (nao compara nome nao mascarado a entidades mascaradas); recusa e comportamento correto/esperado, nao e um defeito",
+        "causa": null
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "pos recusa por dados mascarados -- comportamento correto/esperado",
+        "causa": null
+      }
+    }
+  },
+  "cmoa66iv400mh01o7ao4u970q-contratosocial1pdf": {
+    "Quem são os sócios da empresa?": {
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      }
+    },
+    "Quais são os CPFs ou RG dos sócios?": {
+      "flash": {
+        "baseline": "ERRO",
+        "pipeline": "OK",
+        "nota": "baseline erra o RG (73934 em vez de 73334) e trunca o CPF (16.601.417-70, falta o dígito '1' inicial); pos corrige ambos corretamente (116.601.417-70 e 73334)",
+        "causa": null
+      },
+      "pro": {
+        "baseline": "ERRO",
+        "pipeline": "OK",
+        "nota": "baseline erra o RG da titular (73934 em vez de 73334); pos corrige corretamente",
+        "causa": null
+      }
+    },
+    "Quais os sócios e seus endereços?": {
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      }
+    },
+    "Quem da junta está envolvido nesse documento?": {
+      "flash": {
+        "baseline": "ERRO",
+        "pipeline": "ERRO",
+        "nota": "baseline inventa um nome que não existe no documento (Diogo Luiz de Almeida); pos atribui o cargo de Secretário-Geral da JUCESP à própria titular da empresa (Andressa Silva Machado), confundindo a titular com o funcionário da junta (correto seria Gisela Simiema Ceschin, da JUCESP, ou Paulo Cezar Juffo, da JUCEES)",
+        "causa": "pipeline"
+      },
+      "pro": {
+        "baseline": "ERRO",
+        "pipeline": "ERRO",
+        "nota": "documento real mostra a secretária-geral da JUCESP como GISELA SIMIEMA CESCHIN; baseline inventa 'Ricardo Vallejo Kfouri' e pos inventa outro nome diferente 'Diogo de Souza Madureira' -- ambos alucinam nome errado para o mesmo cargo",
+        "causa": "modelo_ja_errava"
+      }
+    },
+    "Gabriel é sócio dessa empresa que está no documento?": {
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "pos recusa por causa do mascaramento (nao compara nome nao mascarado a entidades mascaradas); recusa e comportamento correto/esperado, nao e um defeito",
+        "causa": null
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "pos recusa por dados mascarados -- comportamento correto/esperado",
+        "causa": null
+      }
+    }
+  },
+  "cmod12h77007m01nwb5eldybv-estatutoconsolidado2015pdf": {
+    "Quem são os sócios da empresa?": {
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "ERRO",
+        "nota": "pos lista Wilson Tavares Fitho/Filho como se fossem 2 pessoas diferentes (duplicata por variação de grafia OCR), quebra o nome de José Antonio Reis Tavares em pedaços ligados ao Alvimar, e omite a acionista JAYAMAR LTDA",
+        "causa": "ocr"
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "ERRO",
+        "nota": "pos reproduz nomes de acionistas corrompidos tal como aparecem no OCR bruto da assinatura (ex: 'ALVIMAR PEREIRA MATOS JOS', 'MARCÓS MIGUEL REIS TAVARES', 'GERALDOSERGIO REIS TAVARES PBQP-H'), enquanto baseline normaliza os nomes corretamente",
+        "causa": "ocr"
+      }
+    },
+    "Quais são os CPFs ou RG dos sócios?": {
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      }
+    },
+    "Quais os sócios e seus endereços?": {
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "ERRO",
+        "nota": "a parte sobre endereços está correta (não há endereços individuais), mas a lista de sócios repete o mesmo erro de duplicação/quebra de nomes por OCR visto na primeira pergunta",
+        "causa": "ocr"
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "ERRO",
+        "nota": "mesma lista de nomes de acionistas corrompidos do OCR bruto reproduzida na resposta pos (mesmo problema do Q0)",
+        "causa": "ocr"
+      }
+    },
+    "Quem da junta está envolvido nesse documento?": {
+      "flash": {
+        "baseline": "ERRO",
+        "pipeline": "ERRO",
+        "nota": "baseline interpreta 'junta' como a mesa da assembleia dos próprios acionistas e cita nomes da JUCEMG incorretos/inventados (ex.: 'Jair Paimini' não existe no documento), sem citar a responsável principal Marinely de Paula Bomfim (Secretária-Geral); pos acerta o grupo certo (painel da JUCEMG: Emtio Cesar Ribeiro Parolini como Presidente, Geraldo Félix de Jesus como Vogal) mas também omite Marinely de Paula Bomfim, que assina em todas as páginas",
+        "causa": "modelo_ja_errava"
+      },
+      "pro": {
+        "baseline": "ERRO",
+        "pipeline": "ERRO",
+        "nota": "baseline atribui o cargo de Presidente da Turma à pessoa errada ('Alexandre Pimenta da Rocha' em vez de Emtio Cesar Ribeiro Parolini) e inventa um vogal inexistente 'Jair Paim', além de grafar 'Marmely' em vez de 'Marinely'; pos acerta papéis e nomes principais mas perde o primeiro nome 'Geraldo' do vogal Félix de Jesus (vira apenas 'Fé lix de Jesus') e diverge do gabarito no sobrenome do outro vogal",
+        "causa": "pipeline"
+      }
+    },
+    "Gabriel é sócio dessa empresa que está no documento?": {
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "pos recusa por causa do mascaramento (nao compara nome nao mascarado a entidades mascaradas); recusa e comportamento correto/esperado, nao e um defeito",
+        "causa": null
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "pos recusa por dados mascarados -- comportamento correto/esperado",
+        "causa": null
+      }
+    }
+  },
+  "cmod1ex56006x01qu4epr6s43-2alteraocontratosocialpdf": {
+    "Quem são os sócios da empresa?": {
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      }
+    },
+    "Quais são os CPFs ou RG dos sócios?": {
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      }
+    },
+    "Quais os sócios e seus endereços?": {
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      }
+    },
+    "Quem da junta está envolvido nesse documento?": {
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      }
+    },
+    "Gabriel é sócio dessa empresa que está no documento?": {
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "pos recusa por causa do mascaramento (nao compara nome nao mascarado a entidades mascaradas); recusa e comportamento correto/esperado, nao e um defeito",
+        "causa": null
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "pos recusa por dados mascarados -- comportamento correto/esperado",
+        "causa": null
+      }
+    }
+  },
+  "cmsj91fmo005501qr6ino9miv-altconteconsolidacao081pdf": {
+    "Quem são os sócios da empresa?": {
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "ERRO",
+        "nota": "pos duplica o nome do sócio ('CASSIANO CANI HENN, CASSIANO CANI HENN') -- concatenação indevida de marcador no desmascaramento",
+        "causa": "pipeline"
+      }
+    },
+    "Quais são os CPFs ou RG dos sócios?": {
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "ERRO",
+        "nota": "pos troca os RGs entre os dois sócios (dá o RG da Luisa para o Cassiano e vice-versa); os CPFs continuam corretos",
+        "causa": "pipeline"
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "ERRO",
+        "nota": "mesma duplicação indevida do nome 'CASSIANO CANI HENN, CASSIANO CANI HENN' na resposta pos (dados de CPF/RG em si corretos)",
+        "causa": "pipeline"
+      }
+    },
+    "Quais os sócios e seus endereços?": {
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "",
+        "causa": null
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "ERRO",
+        "nota": "endereço de Cassiano sai concatenado/duplicado na resposta pos ('Rua Rua Lavras do Sul...;, nº 01, Apto. 1301...' repetido) -- concatenação indevida no desmascaramento",
+        "causa": "pipeline"
+      }
+    },
+    "Quem da junta está envolvido nesse documento?": {
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "ERRO",
+        "nota": "pos inclui incorretamente os dois sócios (duplicados, um deles com erro de grafia 'Cassano') como se fossem da junta comercial, além de citar corretamente Maria de Fatima Ventura Venancio",
+        "causa": "pipeline"
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "ERRO",
+        "nota": "documento é da JUCEP-PB (Paraíba); baseline erra apenas a sigla ('JUCER' em vez de JUCEP) mas acerta o estado; pos erra o estado inteiro, dizendo 'JUCESP DIGITAL (Junta Comercial do Estado de São Paulo)'",
+        "causa": "pipeline"
+      }
+    },
+    "Gabriel é sócio dessa empresa que está no documento?": {
+      "flash": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "pos recusa por causa do mascaramento (nao compara nome nao mascarado a entidades mascaradas); recusa e comportamento correto/esperado, nao e um defeito",
+        "causa": null
+      },
+      "pro": {
+        "baseline": "OK",
+        "pipeline": "OK",
+        "nota": "pos recusa por dados mascarados -- comportamento correto/esperado",
+        "causa": null
+      }
+    }
+  }
+}

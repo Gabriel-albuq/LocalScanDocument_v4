@@ -1,0 +1,55 @@
+# --- Segredos ---
+.env
+.env.*
+!.env.example
+
+# --- Ambientes Python (dois venvs isolados do projeto, ver requirements_ocr.txt) ---
+.venv/
+.venv_ocr/
+venv/
+env/
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+
+# --- Dados e modelos (grandes, e data/ tem documentos reais com PII -- nunca commitar) ---
+data/
+models/
+
+# --- LaTeX (mantém relatorio.tex; ignora só os artefatos de build) ---
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.toc
+
+# --- Backups de edição manual (.docx.bak, .docx.bak2, etc.) ---
+*.bak
+*.bak[0-9]*
+
+# --- Dumps/scripts de debug temporários (convenção usada nas sessões deste projeto) ---
+scratch_*.py
+scratch_*.txt
+
+# --- Editor / SO ---
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
+
+# --- Arquivos de trava do Office (abertos no Word/PowerPoint) ---
+~$*
+
+# --- Scripts/patches temporários ---
+_tmp_*.py
+
+# --- PDFs de terceiros (artigo base / referências): citar o link, não redistribuir ---
+novo_artigo/artigo_base.pdf
+anotacoes/*.pdf

@@ -1,0 +1,63 @@
+# LocalScanDocument — dependências do pipeline (ambiente GERAL)
+# Ver PRD.md secao 7 para o racional de cada escolha de biblioteca.
+#
+# ISOLAMENTO DO NOTEBOOK 02 (extrair_texto_local.ipynb):
+# O stack de OCR (paddlepaddle/paddleocr/paddlex + opencv) NÃO está listado aqui.
+# Ele vive isolado em requirements_ocr.txt, com seu próprio venv, porque:
+#   - é um conjunto de dependências pesado e propenso a conflito de versão com o
+#     resto do projeto (numpy, opencv-python vs. opencv-contrib-python, etc.)
+#   - já encontramos um bug de compatibilidade paddleocr 3.7 x paddlepaddle 3.3.1
+#     (oneDNN/PIR) que exigiu um workaround específico (enable_mkldnn=False) —
+#     manter esse stack isolado evita que uma futura atualização dele quebre o
+#     resto do pipeline (Presidio, spaCy, transformers) sem querer.
+# Ver requirements_ocr.txt e a nota de setup no topo de notebooks/02.extrair_texto_local.ipynb.
+#
+# NOTA IMPORTANTE (GPU RTX 5060 Ti / arquitetura Blackwell):
+# torch com suporte CUDA geralmente precisa ser instalado separadamente (não via
+# este requirements.txt), apontando para o índice certo da versão CUDA da máquina.
+# Rode primeiro:
+#   python -c "import torch; print(torch.cuda.is_available())"
+# Se vier False, reinstale o torch seguindo https://pytorch.org/get-started/locally/
+# escolhendo a build CUDA mais recente disponível (Blackwell exige build recente).
+
+# --- Ingestão / extração de PDF ---
+PyMuPDF>=1.24.0
+pdfplumber>=0.11.0
+
+# --- Utilidades de imagem/array (leves, sem conflito com o stack isolado) ---
+numpy>=1.26.0
+Pillow>=10.0.0
+
+# --- OCR (fallback opcional, fora do stack isolado do notebook 02) ---
+pytesseract>=0.3.10        # requer o binário Tesseract instalado no sistema (não vem via pip)
+easyocr>=1.7.1
+
+# --- Motor de PII (deteção + anonimização) ---
+presidio-analyzer>=2.2.355
+presidio-anonymizer>=2.2.355
+
+# --- NLP / NER ---
+spacy>=3.7.5
+# Após instalar, baixar o modelo em português:
+#   python -m spacy download pt_core_news_lg
+transformers>=4.44.0
+torch>=2.4.0                # instalar build CUDA separadamente, ver nota acima
+gliner>=0.2.13
+seqeval>=1.2.2               # métricas de avaliação NER (precision/recall/F1 por entidade)
+
+# --- Geração de dataset sintético ---
+Faker>=26.0.0
+
+# --- Anotação de ground truth via Gemini ---
+google-genai>=0.3.0
+
+# --- Dados / experimentos / avaliação ---
+pandas>=2.2.0
+scikit-learn>=1.5.0
+python-Levenshtein>=0.25.1
+jellyfish>=1.0.3              # Jaro-Winkler e outras métricas de similaridade de string
+rapidfuzz>=3.9.0               # fuzzy matching para alinhamento gabarito Gemini <-> bbox local
+
+# --- Utilidades ---
+tqdm>=4.66.0
+python-dotenv>=1.0.1

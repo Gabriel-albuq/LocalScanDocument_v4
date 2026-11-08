@@ -1,0 +1,842 @@
+[
+ {
+  "doc": "cm1iasv3k0031dhqdfn4663iw-Alteração 11 - MINAS CAL.pdf",
+  "pergunta": "Quem são os sócios da empresa?",
+  "original": "Os sócios da empresa MINAS CAL LOGISTICA LTDA são:\n\n*   **Elizabeth Aparecida Soares:** com 40% do capital social (40.000 quotas). Ela também é sócia administradora.\n*   **Sérgio Lúcio Soares:** com 60% do capital social (60.000 quotas). Ele é sócio quotista.\n\nEssa informação pode ser encontrada na \"11ª ALTERAÇÃO E CONSOLIDAÇÃO DE CONTRATO SOCIAL\" (página 3/10) e na seção \"CLÁUSULA QUINTA - CAPITAL SOCIAL\" (página 5/10) dos documentos fornecidos.",
+  "desmascarada": "Os sócios da empresa são:\n\n1.  **ELIZABETH APARECIDA SOARES,**: brasileiro(a), separado(a) judicialmente, nascido(a) aos 14/02/1959, empresário(a), portador(a) da cédula de identidade RG nº M-2.129.482 SSP/MG e inscrito(a) no CPF sob o nº 721.516.416-00,, residente e domiciliado(a) em rua França, nº 102, bairro Nações Unidas, Sabará/MG, CEP: 34.590-110;.\n2.  **SERGIO LUCIO SOARES**: brasileiro(a), divorciado(a), nascido(a) aos 03/04/1961, empresário(a), portador(a) da cédula de identidade RG nº 37.089.378-5 SSP/MG e inscrito(a) no CPF sob o nº 274.228.956-91, residente e domiciliado(a) em avenida Sinfrônio Brochado, nº 300 – aptº 201, bairro Barreiro, Belo Horizonte/MG, CEP: 30.640-000;."
+ },
+ {
+  "doc": "cm1iasv3k0031dhqdfn4663iw-Alteração 11 - MINAS CAL.pdf",
+  "pergunta": "Quais são os CPFs ou RG dos sócios?",
+  "original": "Os CPFs e RGs dos sócios são:\n\n1.  **ELIZABETH APARECIDA SOARES:**\n    *   **RG:** M-2.129.482 SSP/MG\n    *   **CPF:** 721.516.416-00\n\n2.  **SÉRGIO LÚCIO SOARES:**\n    *   **RG:** 37.089.378-5 SSP/MG\n    *   **CPF:** 274.228.956-91\n\nEssas informações podem ser encontradas na página 3/10 do documento, na seção \"11ª ALTERAÇÃO E CONSOLIDAÇÃO DE CONTRATO SOCIAL\", onde os sócios são qualificados.",
+  "desmascarada": "Os CPFs e RGs dos sócios são:\n\n1.  RG: M-2.129.482 e CPF: 721.516.416-00,\n2.  RG: 37.089.378-5 e CPF: 274.228.956-91"
+ },
+ {
+  "doc": "cm1iasv3k0031dhqdfn4663iw-Alteração 11 - MINAS CAL.pdf",
+  "pergunta": "Quais os sócios e seus endereços?",
+  "original": "Os sócios e seus respectivos endereços são:\n\n1.  **ELIZABETH APARECIDA SOARES**\n    *   **Endereço:** Rua França, nº 102, bairro Nações Unidas, Sabará/MG, CEP: 34.590-110\n\n2.  **SÉRGIO LÚCIO SOARES**\n    *   **Endereço:** Avenida Sinfrônio Brochado, nº 300 - aptº 201, bairro Barreiro, Belo Horizonte/MG, CEP: 30.640-000",
+  "desmascarada": "Os sócios e seus endereços, conforme o documento, são:\n\n1.  **ELIZABETH APARECIDA SOARES,**: residente e domiciliada na rua França, nº 102, bairro Nações Unidas, Sabará/MG, CEP: 34.590-110;.\n2.  **SERGIO LUCIO SOARES**: residente e domiciliado na avenida Sinfrônio Brochado, nº 300 – aptº 201, bairro Barreiro, Belo Horizonte/MG, CEP: 30.640-000;."
+ },
+ {
+  "doc": "cm1iasv3k0031dhqdfn4663iw-Alteração 11 - MINAS CAL.pdf",
+  "pergunta": "Quem da junta está envolvido nesse documento?",
+  "original": "Com base nos documentos fornecidos, as pessoas da Junta Comercial do Estado de Minas Gerais (JUCEMG) envolvidas são:\n\n1.  **Marinely de Paula Bomfim:** Secretária-Geral da JUCEMG. Ela é mencionada no rodapé de todas as páginas como certificando o registro e assinando digitalmente o documento, e também na página 10 como uma das assinantes digitais do deferimento.\n2.  **Carla Campos Carvalho:** Examinador(a) e Servidor(a) Público(a) da JUCEMG. Ela é mencionada na página 9 como a examinadora que deferiu eletronicamente o ato e assinou digitalmente o documento.",
+  "desmascarada": "Os indivíduos da Junta Comercial do Estado de Minas Gerais envolvidos neste documento são:\n\n1.  **Marinely de Paula Bomfim**:\n    *   Aparece como \"(A) PRESIDENTE DA JUNTA Comercial do Estado de Minas Gerais\" (página 1).\n    *   É o \"examinador\" que deferiu eletronicamente o ato (página 9).\n    *   É a \"Secretária Geral\" (página 9).\n    *   É um dos assinantes que deferiu e assinou digitalmente o ato (página 10).\n\n2.  **Carla Campos Carvalho.**:\n    *   Aparece como \"Servidor(a) Público(a)\" que assinou eletronicamente o documento (página 9)."
+ },
+ {
+  "doc": "cm1iasv3k0031dhqdfn4663iw-Alteração 11 - MINAS CAL.pdf",
+  "pergunta": "Gabriel é sócio dessa empresa que está no documento?",
+  "original": "Não, o nome \"Gabriel\" não aparece como sócio da empresa MINAS CAL LOGISTICA LTDA. nos documentos fornecidos.\n\nOs sócios listados são:\n*   **ELIZABETH APARECIDA SOARES**\n*   **SÉRGIO LÚCIO SOARES**",
+  "desmascarada": "Não é possível confirmar se \"Gabriel\" é sócio da empresa, pois os nomes dos sócios no documento estão mascarados."
+ },
+ {
+  "doc": "cm1ow1j3e0008uiqd53mf55j4-CONTRATO SOCIAL NOVO 22.03.pdf",
+  "pergunta": "Quem são os sócios da empresa?",
+  "original": "A empresa MF DISTRIBUIDORA DE COSMÉTICOS RIO PRETO LTDA é uma **Sociedade Empresária Limitada Unipessoal**.\n\nA única sócia e administradora da empresa é:\n\n*   **MIRIAN THAISA SILVEIRA BRAZÃO**",
+  "desmascarada": "A empresa é uma Sociedade Empresária Limitada Unipessoal, o que significa que possui apenas um sócio.\n\nA sócia da empresa é:\n*   **Nome:** MIRIAN THAISA SILVEIRA BRAZ Ã\n*   **Nacionalidade:** Brasileira\n*   **Estado Civil:** Casada com comunhão parcial de bens\n*   **Data de Nascimento:** 23/05/1987\n*   **Local de Nascimento:** Jales, Estado de São Paulo\n*   **Profissão:** Empresária\n*   **RG:** 40.002.361-1 SSP/SP\n*   **CPF:** 364.962.738-80,\n*   **Endereço:** Rua Patricia Rodrigues Fontes,nº 605– Bloco 1— Apto. 107- Rios di Italia– Cep: 15057-562, nesta cidade de São Josédo Rio Preto, Estado de São Paulo."
+ },
+ {
+  "doc": "cm1ow1j3e0008uiqd53mf55j4-CONTRATO SOCIAL NOVO 22.03.pdf",
+  "pergunta": "Quais são os CPFs ou RG dos sócios?",
+  "original": "A única sócia da empresa é **Mirian Thaisa Silveira Brazão**.\n\nSeus documentos são:\n*   **RG:** 40.002.361-1 SSP/SP\n*   **CPF:** 364.962.738-80",
+  "desmascarada": "A sócia qualificada no documento é:\n\n*   **MIRIAN THAISA SILVEIRA BRAZ Ã**\n    *   RG: **40.002.361-1**\n    *   CPF: **364.962.738-80,**"
+ },
+ {
+  "doc": "cm1ow1j3e0008uiqd53mf55j4-CONTRATO SOCIAL NOVO 22.03.pdf",
+  "pergunta": "Quais os sócios e seus endereços?",
+  "original": "A empresa \"MF DISTRIBUIDORA DE COSMÉTICOS RIO PRETO LTDA\" é uma Sociedade Empresária Limitada Unipessoal, o que significa que possui apenas um sócio.\n\nA única sócia é:\n\n*   **Nome:** MIRIAN THAISA SILVEIRA BRAZÃO\n*   **Endereço:** Rua Patricia Rodrigues Fontes, nº 605 – Bloco 1 – Apto. 107 – Rios di Italia – Cep: 15057-562, São José do Rio Preto, Estado de São Paulo.",
+  "desmascarada": ""
+ },
+ {
+  "doc": "cm1ow1j3e0008uiqd53mf55j4-CONTRATO SOCIAL NOVO 22.03.pdf",
+  "pergunta": "Quem da junta está envolvido nesse documento?",
+  "original": "A pessoa da Junta Comercial (JUCE SP) envolvida e que assina o documento é:\n\n*   **Giséia Sinema Clochin** (Secretária Geral)",
+  "desmascarada": "A pessoa da Junta Comercial (JUCESP) envolvida neste documento é:\n\n*   **Gísla Sineia Cichin**, Secretária Geral da Secretaria de Desenvolvimento Econômico - JUCESP. (Conforme selos e assinaturas na página 6)."
+ },
+ {
+  "doc": "cm1ow1j3e0008uiqd53mf55j4-CONTRATO SOCIAL NOVO 22.03.pdf",
+  "pergunta": "Gabriel é sócio dessa empresa que está no documento?",
+  "original": "Não, o nome \"Gabriel\" não é mencionado em nenhum lugar do documento como sócio ou parte da empresa.\n\nA empresa é uma \"Sociedade Empresária Limitada Unipessoal\", o que significa que ela possui apenas um sócio. A única sócia mencionada e que assina o documento é **MIRIAN THAISA SILVEIRA BRAZÃO**.",
+  "desmascarada": "Não é possível confirmar se \"Gabriel\" é sócio dessa empresa. O documento indica que a empresa é uma \"Sociedade Empresária Limitada Unipessoal\", o que significa que possui apenas um sócio. A sócia qualificada no documento é MIRIAN THAISA SILVEIRA BRAZ Ã. Como os nomes estão mascarados, não é possível verificar se \"Gabriel\" corresponde ao nome da sócia mencionada."
+ },
+ {
+  "doc": "cm1qczv5u0008v6qd426f9fgv-CORTEC - Alteração Consolidada290720.pdf",
+  "pergunta": "Quem são os sócios da empresa?",
+  "original": "De acordo com a 8ª Alteração Contratual (a partir da página 3 do documento), antes desta alteração, os sócios da empresa CORTEC PRODUTOS SIDERURGICOS LTDA eram:\n\n*   **DANIEL EUSTÁQUIO GUIMARÃES GAMA**\n*   **ELISANGELA PEREIRA VIDAL**\n*   **PAULA ANDRADE DORNAS**\n\nNo entanto, esta alteração consiste na **transferência das quotas de DANIEL EUSTÁQUIO GUIMARÃES GAMA e ELISANGELA PEREIRA VIDAL para PAULA ANDRADE DORNAS**.\n\nPortanto, **após esta alteração, a única sócia da empresa CORTEC PRODUTOS SIDERURGICOS LTDA é PAULA ANDRADE DORNAS**, que também assume a posição de sócia administradora.",
+  "desmascarada": "De acordo com o documento, a estrutura societária da empresa CORTEC PRODUTOS SIDERURGICOS LTDA foi alterada.\n\n**Antes da alteração contratual (3ª Alteração Contratual):**\nOs sócios eram (conforme parágrafo I-I na página 3):\n*   **DANIEL EUST Á QUIO GUIMAR Ã ES GAMA,**: brasileiro, solteiro, nascido em 07/06/1974, vendedor, inscrito no CPF 026.053.626-12, C.I. 546.617-128, SSP/MG, residente e domiciliado na Rua Olavo Bilac , 1.115, casa , Bairro Santa M ô nica, em BH / MG , CEP 31.520-420.\n*   **DANIEL EUST Á QUIO GUIMARAES GAMA**: brasileira, solteira, nascida em 12/08/1976, empresária, inscrita no CPF 008.281.696-40, RG MG-6.398.026,, residente e domiciliada na Rua Olavo Bilac , 1.115 , Santa Monica, em BH/ MG , CEP 31.520-420.\n\n**Após a alteração contratual:**\nO sócio DANIEL EUST Á QUIO GUIMAR Ã ES GAMA, (também identificado como DANIEL EUSTAQUIO GUIMARAES GAMA nas assinaturas da página 7) se retira da sociedade (CEDENTE), transferindo suas quotas.\nO documento descreve que DANIEL EUST Á gUIO GUIMAR Ã ES GAMA adquire 795.960 quotas e ELISANGELA PEREIRA VIDAL possui 8.040 quotas, sendo ambos denominados CESSIONÁRIA (páginas 3).\n\nNo entanto, as cláusulas que definem a estrutura final da sociedade após a alteração indicam que:\n*   **Cláusula Quinta – Do Capital Social** (página 5): O capital social é de R$ 804.000,00 e o único sócio listado é **PAULA ANDRADE DORNAS**, detentor de 100% das quotas.\n*   **Cláusula Sexta – Administração** (página 5): A sociedade passa a ser representada tão somente pelo sócio administrador **PAULA ANDRADE DORNAS**. Este sócio administrador é também identificado como PAULA ANDRADE DORNAS CESSION Á RIA nas assinaturas da página 7.\n\nPortanto, os sócios da empresa **após a 3ª Alteração Contratual** são:\n*   **PAULA ANDRADE DORNAS** (sócio único e administrador)."
+ },
+ {
+  "doc": "cm1qczv5u0008v6qd426f9fgv-CORTEC - Alteração Consolidada290720.pdf",
+  "pergunta": "Quais são os CPFs ou RG dos sócios?",
+  "original": "Com base nos documentos fornecidos, os CPFs e RGs dos sócios são:\n\n1.  **DANIEL EUSTÁQUIO GUIMARÃES GAMA**\n    *   **CPF:** 026.053.626-12\n    *   RG: Não informado nos documentos.\n\n2.  **ELISANGELA PEREIRA VIDAL**\n    *   **CPF:** 008.281.696-40\n    *   RG: Não informado nos documentos.\n\n3.  **PAULA ANDRADE DORNAS**\n    *   **CPF:** 060.532.936-28\n    *   **RG:** MG-1.050.881 (Carteira de Identidade)",
+  "desmascarada": "Os CPFs e RGs dos sócios, conforme qualificados no documento (página 3), são:\n\n1.  **Sócio:**\n    *   CPF: 026.053.626-12\n    *   RG: 546.617-128,\n2.  **Sócio:**\n    *   CPF: 008.281.696-40\n    *   RG: MG-6.398.026,\n3.  **Sócio:**\n    *   CPF: 060.532.936-28\n    *   RG: MG-10.508.881,"
+ },
+ {
+  "doc": "cm1qczv5u0008v6qd426f9fgv-CORTEC - Alteração Consolidada290720.pdf",
+  "pergunta": "Quais os sócios e seus endereços?",
+  "original": "Com base na \"8ª Alteração Contratual\" (documento 3/10), a estrutura societária foi alterada.\n\n**A sócia atual da empresa CORTEC PRODUTOS SIDERURGICOS LTDA. é:**\n\n1.  **PAULA ANDRADE DORNAS**\n    *   **Endereço:** Rua Ministro Ivan Lins, 407, Apto. 301, Bairro Dona Clara, Belo Horizonte/MG, CEP 31.260-020.\n    *   (Ela é a sócia administradora e única sócia após a alteração, conforme as tabelas de capital social nas páginas 4/10 e 5/10).\n\n**Os sócios que se retiraram da sociedade nesta alteração foram:**\n\n1.  **DANIEL EUSTAQUIO GUIMARAES GAMA** (Cedente)\n    *   **Endereço:** Rua Olavo Bilac, 1.115, casa, Bairro Santa Mônica, Belo Horizonte/MG, CEP 31.520-420.\n\n2.  **ELISANGELA PEREIRA VIDAL** (Cedente)\n    *   **Endereço:** Rua Olavo Bilac, 1.115, Santa Mônica, Belo Horizonte/MG, CEP 31.520-420.",
+  "desmascarada": "Com base no documento, os sócios e seus endereços são:\n\n1.  **Sócio:** DANIEL EUST Á QUIO GUIMARAES GAMA\n    **Endereço:** Rua Olavo Bilac , 1.115, casa , Bairro Santa M ô nica, em BH / MG , CEP 31.520-420\n\n2.  **Sócia:** ELISANGELA PEREIRA VIDAL\n    **Endereço:** Rua Olavo Bilac , 1.115 , Santa Monica, em BH/ MG , CEP 31.520-420\n\n3.  **Sócia:** PAULA ANDRADE\n    **Endereço:** Rua Ministro Ivan Lins , 407 Apto . 301, no Bairro Dona Clara em Belo Horizonte / MG , CEP 31.260-020\n\nAlém disso, PAULA ANDRADE DORNAS CESSION Á RIA é identificada como Sócia Administradora no documento, mas seu endereço não é fornecido no mesmo contexto."
+ },
+ {
+  "doc": "cm1qczv5u0008v6qd426f9fgv-CORTEC - Alteração Consolidada290720.pdf",
+  "pergunta": "Quem da junta está envolvido nesse documento?",
+  "original": "As pessoas da Junta Comercial envolvidas neste documento são:\n\n1.  **Marinely de Paula Bomfim**: Secretária-Geral\n2.  **Weveling Paulino Rodrigues de Aguiar**: Examinador / Servidor Público",
+  "desmascarada": "Com base no documento, as seguintes pessoas da Junta Comercial do Estado de Minas Gerais estão envolvidas:\n\n1.  **O examinador e servidor(a) público(a)** que deferiu eletronicamente o ato e assinou o documento eletronicamente: **Weveling Paulino Rodrigues de Aguiar.** (mencionado na página 9).\n2.  **A pessoa que deferiu e assinou digitalmente o ato**: **Marinely de Paula Bomfim-** (CPF **873.638.956-00**) (mencionada na página 10)."
+ },
+ {
+  "doc": "cm1qczv5u0008v6qd426f9fgv-CORTEC - Alteração Consolidada290720.pdf",
+  "pergunta": "Gabriel é sócio dessa empresa que está no documento?",
+  "original": "Não, o nome \"Gabriel\" não aparece como sócio da empresa CORTEC PRODUTOS SIDERURGICOS LTDA neste documento.\n\nOs sócios mencionados são:\n*   DANIEL EUSTÁQUIO GUIMARÃES GAMA\n*   ELISANGELA PEREIRA VIDAL\n*   PAULA ANDRADE DORNAS",
+  "desmascarada": "Não é possível confirmar se Gabriel é sócio da empresa, pois os nomes dos sócios no documento estão mascarados."
+ },
+ {
+  "doc": "cm2j3nwn9001qgpqd51wm07ce-Alteração Consolidada setembro14.pdf",
+  "pergunta": "Quem são os sócios da empresa?",
+  "original": "De acordo com a \"ALTERAÇÃO CONTRATUAL\" apresentada, os sócios da empresa LEITE ALVORADA INDUSTRIA E COMERCIO LTDA são:\n\n1.  **VICENTE MARIN MUNHOZ**\n2.  **VERENA ALMEIDA MARIN MUNHOZ**\n\nA Cláusula 1ª informa que HERCULES MARIN MUNHOZ está se retirando da sociedade e VERENA ALMEIDA MARIN MUNHOZ está entrando como sócia. A Cláusula 2ª detalha a distribuição das quotas entre Vicente e Verena após a alteração.",
+  "desmascarada": "De acordo com a \"ALTERAÇÃO CONTRATUAL\" apresentada, os sócios da empresa LEITE ALVORADA INDÚSTRIA E COMÉRCIO LTDA, após a alteração, são:\n\n1.  **VICENTE MARIN MUNHOZ,**: brasileiro, empresário, nascido aos [DATA_NASCIMENTO_A3K9F], portador da carteira de identidade nº 19.536.431-4- e do CPF 850.871.066-68,, residente e domiciliado em Alameda Morena 385, L 04, Q. E Bairro Moradas da Serra em São Lourenço- MG CEP 37470-000..\n2.  **VERENA ALMEIDA MARIN MUNHOZ,**: brasileira, [ESTADO_CIVIL_F7G8H], nascida em [DATA_NASCIMENTO_I9J0K], portadora do CPF 106.464.666-23 e RG MG- 15-980.158, residente e domiciliada em Alameda Morena 385, L 04, Q. E Bairro Moradas da Serra em S ão Lourenço- MG CEP 37470-000..\n\nA Cláusula 1ª da alteração contratual (página 1) informa que o sócio HERCULES MARIN MUNHOZ, se retira da sociedade, transferindo suas quotas para a nova sócia VERENA ALMEIDA MARIN MUNHOZ,. O sócio VICENTE MARIN MUNHOZ, permanece na sociedade e na administração, conforme Cláusula 3ª (página 2)."
+ },
+ {
+  "doc": "cm2j3nwn9001qgpqd51wm07ce-Alteração Consolidada setembro14.pdf",
+  "pergunta": "Quais são os CPFs ou RG dos sócios?",
+  "original": "Com base no documento fornecido, os CPFs e RGs dos sócios são:\n\n1.  **VICENTE MARIN MUNHOZ:**\n    *   **CPF:** 850.911.066-87\n    *   **RG:** 19.536.442 (SSP/MG)\n\n2.  **HERCULES MARIN MUNHOZ:**\n    *   **CPF:** 237.182.858-00\n    *   **RG:** 2724251-1 (SSP/SP)\n\n3.  **VERENA ALMEIDA MARIN MUNHOZ:**\n    *   **CPF:** 104.464.966-33\n    *   **RG:** 1.380.158 (PCPMG)",
+  "desmascarada": "Com base no documento, os CPFs e RGs dos sócios são:\n\n1.  **Primeiro sócio (não nomeado com marcador):**\n    *   RG: 19.536.431-4-\n    *   CPF: 850.871.066-68,\n\n2.  **Segundo sócio (não nomeado com marcador):**\n    *   RG: 2724251-1–\n    *   CPF: 237.182.858-00,\n\n3.  **Terceiro sócio (VERENA ALMEIDA MARIN MUNHOZ,):**\n    *   CPF: 106.464.666-23\n    *   RG: MG- 15-980.158"
+ },
+ {
+  "doc": "cm2j3nwn9001qgpqd51wm07ce-Alteração Consolidada setembro14.pdf",
+  "pergunta": "Quais os sócios e seus endereços?",
+  "original": "Com base na \"ALTERAÇÃO CONTRATUAL\" apresentada, os sócios e seus respectivos endereços são:\n\n1.  **VICENTE MARIN MUNHOZ**\n    *   **Endereço:** Alameda Morena 385, L. 04, Q. E Bairro Moradas da Serra, São Lourenço – MG, CEP 37470-000.\n\n2.  **VERENA ALMEIDA MARIN MUNHOZ**\n    *   **Endereço:** Alameda Morena 385, L. 04, Q. E Bairro Moradas da Serra, São Lourenço – MG, CEP 37470-000.\n\n**Observação:** O documento indica que **HERCULES MARIN MUNHOZ** (anteriormente residente na Rua Pasadenna, 333 – Casa 5 – Jardim Califórnia, Jacareí – SP, CEP 12.305-660) retira-se da sociedade, transferindo suas quotas para Verena Almeida Marin Munhoz. Portanto, ele não é mais um sócio atual.",
+  "desmascarada": "Os sócios da empresa, após a alteração contratual descrita no documento, e seus respectivos endereços são:\n\n1.  **VICENTE MARIN MUNHOZ,**\n    *   Endereço: Alameda Morena 385, L 04, Q. E Bairro Moradas da Serra em São Lourenço- MG CEP 37470-000.\n2.  **VERENA ALMEIDA MARIN MUNHOZ,**\n    *   Endereço: Alameda Morena 385, L 04, Q. E Bairro Moradas da Serra em S ão Lourenço- MG CEP 37470-000."
+ },
+ {
+  "doc": "cm2j3nwn9001qgpqd51wm07ce-Alteração Consolidada setembro14.pdf",
+  "pergunta": "Quem da junta está envolvido nesse documento?",
+  "original": "A pessoa da Junta Comercial envolvida nesse documento é:\n\n*   **Marinelly de Paula Bomfim - Secretária Geral** da Junta Comercial do Estado de Minas Gerais (JUCEMG).\n\nEssa informação está presente no bloco \"Certifico\" ao final do documento, onde é declarado que o documento foi \"autenticada digitalmente e assinada em 10/09/2014 por Marinelly de Paula Bomfim - Secretária Geral.\"",
+  "desmascarada": "Da Junta Comercial do Estado de Minas Gerais, as seguintes pessoas estão envolvidas no documento:\n\n*   **Marinely de Paula Bomfim–**: Mencionada na página 3 como a Secretária Geral que autenticou digitalmente e assinou a cópia em 10/09/2014.\n*   **VICENTE MASIN MUNHOT.**: Identificada na página 4 como Secretária Geral em um bloco de assinatura/carimbo."
+ },
+ {
+  "doc": "cm2j3nwn9001qgpqd51wm07ce-Alteração Consolidada setembro14.pdf",
+  "pergunta": "Gabriel é sócio dessa empresa que está no documento?",
+  "original": "Não, o nome \"Gabriel\" não aparece como sócio da empresa LEITE ALVORADA INDUSTRIA E COMERCIO LTDA neste documento.\n\nOs sócios listados são:\n*   **VICENTE MARIN MUNHOZ**\n*   **HERCULES MARIN MUNHOZ**\n*   **VERENA ALMEIDA MARIN MUNHOZ**",
+  "desmascarada": "Não é possível confirmar se \"Gabriel\" é sócio desta empresa, pois os nomes dos sócios no documento estão mascarados e não tenho acesso aos valores reais por trás dos marcadores."
+ },
+ {
+  "doc": "cm2t2y1fg00b12yqde39j7bwb-Alteração Consolidada 102019.pdf",
+  "pergunta": "Quem são os sócios da empresa?",
+  "original": "A empresa \"NOVA MEDICAL COMERCIO DE PRODUTOS MEDICOS EIRELI\" é uma EIRELI (Empresa Individual de Responsabilidade Limitada), o que significa que ela possui um único titular.\n\nDe acordo com o documento \"1ª ALTERAÇÃO DE EMPRESA INDIVIDUAL DE RESPONSABILIDADE LTDA.\" (página 3), o **único sócio (titular)** da empresa é:\n\n*   **ALEXANDRE JOU LYCHATCHYNSKY BASTOS** (CPF: 509.541.132-68)",
+  "desmascarada": "A empresa NOVA MEDICAL COMÉRCIO DE PRODUTOS MÉDICOS EIRELI é uma Empresa Individual de Responsabilidade Limitada (EIRELI), o que significa que possui um único titular/sócio.\n\nO sócio da empresa é:\n\n*   **Nome:** ALEXANDRE JOU LYCHATCHYNSKY BASTOS\n*   **CPF:** 509.541.132-68\n*   **Endereço:** Rua Mato Grosso nº. 1430, apartamento 402, Bairro Centro, CEP nº. 35500-027, portador da Cédula de Identidade nº. 5.606.626-8"
+ },
+ {
+  "doc": "cm2t2y1fg00b12yqde39j7bwb-Alteração Consolidada 102019.pdf",
+  "pergunta": "Quais são os CPFs ou RG dos sócios?",
+  "original": "A empresa NOVA MEDICAL COMÉRCIO DE PRODUTOS MÉDICOS EIRELI é uma Empresa Individual de Responsabilidade Limitada, o que significa que possui um único titular (sócio).\n\nO CPF e RG do titular são:\n\n*   **Nome:** ALEXANDRE JOU LYCHATCHYNSKY BASTOS\n*   **CPF:** 509.541.132-68\n*   **RG:** 5.600.050 (expedido pela Secretaria de Segurança Pública do Estado do Paraná)",
+  "desmascarada": "O documento indica que a empresa é uma EIRELI (Empresa Individual de Responsabilidade Limitada), o que significa que possui apenas um titular/sócio.\n\nO CPF do titular/sócio é:\n*   509.541.132-68\n\nNão há menção de um número de RG para o titular/sócio no documento."
+ },
+ {
+  "doc": "cm2t2y1fg00b12yqde39j7bwb-Alteração Consolidada 102019.pdf",
+  "pergunta": "Quais os sócios e seus endereços?",
+  "original": "A empresa NOVA MEDICAL COMÉRCIO DE PRODUTOS MÉDICOS EIRELI é uma Empresa Individual de Responsabilidade Limitada (EIRELI), o que significa que ela possui um único titular (sócio).\n\nO titular (sócio) e seu endereço residencial são:\n\n*   **Nome:** Alexandre Jou Lychatchynsky Bastos\n*   **Endereço:** Rua João Morato nº 1.420, apartamento 402, Bairro Centro, Divinópolis, Minas Gerais, CEP 35500-027.\n\nA sede da empresa (endereço comercial) foi alterada para:\n\n*   **Endereço da Empresa:** Rua Bernal 405, Sala 201, bairro Vila Belo Horizonte, Divinópolis, Minas Gerais, CEP 35500-030.",
+  "desmascarada": "Este documento refere-se a uma \"Empresa Individual de Responsabilidade Ltda.\" (EIRELI), o que significa que ela possui um único titular, e não múltiplos sócios.\n\nO titular da empresa é:\n*   **Nome:** Marinely de Paula Bomfim\n*   **Endereço:** Rua Mato Grosso nº. 1430, apartamento 402, Bairro Centro, CEP nº. 35500-027, portador da Cédula de Identidade nº. 5.606.626-8"
+ },
+ {
+  "doc": "cm2t2y1fg00b12yqde39j7bwb-Alteração Consolidada 102019.pdf",
+  "pergunta": "Quem da junta está envolvido nesse documento?",
+  "original": "Da Junta Comercial do Estado de Minas Gerais (JUCEMG), as seguintes pessoas estão envolvidas neste documento:\n\n1.  **Marinely de Paula Bomfim:** Secretária-Geral da JUCEMG, responsável por assinar e registrar o documento mediante certificado digital. (Mencionada na certificação no rodapé de todas as páginas e explicitamente na página 6 e 7).\n2.  **Zelia da Costa Cavalcanti:** Examinadora da JUCEMG, responsável por deferir digitalmente o ato. (Mencionada na página 6 e 7).",
+  "desmascarada": "Com base no documento, as pessoas da Junta Comercial envolvidas são:\n\n1.  **Marinely de Paula Bomfim**: Atua como Secretária-Geral da Junta Comercial do Estado de Minas Gerais, sendo responsável por assinar digitalmente o registro e autenticar o documento.\n2.  **Zelia da Costa Cavalcanti.**: Atua como examinador, sendo a pessoa que deferiu digitalmente o ato."
+ },
+ {
+  "doc": "cm2t2y1fg00b12yqde39j7bwb-Alteração Consolidada 102019.pdf",
+  "pergunta": "Gabriel é sócio dessa empresa que está no documento?",
+  "original": "Não, o documento indica que o **único titular** (sócio/proprietário) da empresa NOVA MEDICAL COMÉRCIO DE PRODUTOS MÉDICOS EIRELI é **ALEXANDRE JOU LYCHATCHYNSKY BASTOS**.\n\nO nome \"Gabriel\" não aparece em nenhuma parte do documento como sócio ou proprietário da empresa.",
+  "desmascarada": "Não é possível confirmar se uma pessoa chamada \"Gabriel\" é sócia desta empresa.\n\nO documento indica que a empresa é uma EIRELI (Empresa Individual de Responsabilidade Limitada), o que significa que ela possui um único titular, e não sócios no sentido de uma sociedade com múltiplos parceiros.\n\nO nome do titular da empresa está mascarado no documento. Como os dados estão mascarados, não é possível comparar o nome \"Gabriel\" com o nome presente no documento para confirmar a identidade."
+ },
+ {
+  "doc": "cm3376wbs002xzaqd1p4r02h0-15 Alteração Contratual.pdf",
+  "pergunta": "Quem são os sócios da empresa?",
+  "original": "Os sócios da empresa TAURUS ADMINISTRAÇÃO E CONSULTORIA LIMITADA são:\n\n1.  **NILSON NOGUEIRA LUNDGREN** (pessoa física)\n2.  **IGARASSU PARTICIPAÇÕES E ADMINISTRAÇÃO LTDA** (pessoa jurídica)",
+  "desmascarada": "Os sócios da empresa TAURUS ADMINISTRAÇÃO E CONSULTORIA LTDA são:\n\n1.  **NILSON NOGUEIRA LUNDGREN,**\n    *   **Qualificação:** brasileiro, separado judicialmente, técnico em administração, portador da C.I. nº 364.885, SP-PE, inscrito no CPF/MF nº 090.559.484-72,, domiciliado nesta cidade do Recife, Estado de Pernambuco.\n    *   **Participação no Capital Social:** 140.070 (cento e quarenta mil e setenta) quotas, no valor de R$ 140.070,00 (cento e quarenta mil e setenta reais).\n\n2.  **IGARASSU PARTICIPAÇÕES E ADMINISTRAÇÃO LTDA**\n    *   **Qualificação:** pessoa jurídica estabelecida à Rua do Apolo, nº 90, nesta cidade do Recife, estado de Pernambuco, registrada no CNPJ/MF sob o nº 11.436.433/0001-00, com contrato social constitutivo arquivado na Junta Comercial do Estado de Pernambuco.\n    *   **Participação no Capital Social:** 10 (dez) quotas, no valor total de R$ 10,00 (dez reais)."
+ },
+ {
+  "doc": "cm3376wbs002xzaqd1p4r02h0-15 Alteração Contratual.pdf",
+  "pergunta": "Quais são os CPFs ou RG dos sócios?",
+  "original": "Com base no documento, o único sócio individual com CPF/RG explícito é:\n\n*   **NILSON NOGUEIRA LUNDGREN**\n    *   **RG (C.I.):** 364.885 (SSP-PE)\n    *   **CPF/MF:** 000.559.484-72\n\nA outra parte, **IGARASSU PARTICIPAÇÕES E ADMINISTRAÇÃO LTDA**, é uma pessoa jurídica, e seu número de identificação é o CNPJ: 11.436.433/0001-00.\n\nAs outras pessoas com RG/CPF listados no final do documento são testemunhas, não sócios:\n*   **Maria do Carmo Oliveira Ribeiro**\n    *   **RG:** 1.320.994/SSP-PE\n    *   **CPF/MF:** 104.414.094-15\n*   **Roberta Maria Revôdo de Aquino Alves**\n    *   **RG:** 076287363-6 Min. Ex.\n    *   **CPF/MF:** 869.313.934-72",
+  "desmascarada": "Com base no documento, os CPFs ou RGs dos sócios são:\n\n1.  **NILSON NOGUEIRA LUNDGREN,**:\n    *   RG: 364.885,\n    *   CPF: 090.559.484-72,\n\n2.  **IGARASSU PARTICIPAÇÕES E ADMINISTRAÇÃO LTDA**:\n    *   Esta é uma pessoa jurídica (empresa) e, portanto, não possui RG ou CPF, mas sim um CNPJ (11.436.433/0001-00)."
+ },
+ {
+  "doc": "cm3376wbs002xzaqd1p4r02h0-15 Alteração Contratual.pdf",
+  "pergunta": "Quais os sócios e seus endereços?",
+  "original": "Com base nos documentos fornecidos, os sócios e seus endereços são:\n\n1.  **NILSON NOGUEIRA LUNDGREN**\n    *   **Endereço:** Nesta cidade do Recife, Estado de Pernambuco. (O documento não especifica um endereço de rua para ele, apenas a cidade e estado de domicílio).\n\n2.  **IGARASSU PARTICIPAÇÕES E ADMINISTRAÇÃO LTDA**\n    *   **Endereço:** Rua do Apolo, nº 90, Recife, Estado de Pernambuco.",
+  "desmascarada": "Os sócios e seus endereços, conforme o documento, são:\n\n1.  **NILSON NOGUEIRA LUNDGREN,**\n    *   Endereço: Nesta cidade do Recife, Estado de Pernambuco.\n\n2.  **IGARASSU PARTICIPAÇÕES E ADMINISTRAÇÃO LTDA**\n    *   Endereço: Rua do Apolo, nº 90, nesta cidade do Recife, estado de Pernambuco."
+ },
+ {
+  "doc": "cm3376wbs002xzaqd1p4r02h0-15 Alteração Contratual.pdf",
+  "pergunta": "Quem da junta está envolvido nesse documento?",
+  "original": "Com base no documento, a pessoa da Junta Comercial envolvida e claramente identificada é:\n\n*   **Roberto Cavalcanti Tavares** (Secretário-Geral da Junta Comercial do Estado de Pernambuco) - A assinatura e o cargo aparecem no carimbo de registro na página 4.\n\nAlém disso, há várias assinaturas ilegíveis sob o carimbo \"Registro de Empresas\" da JUCEPE em outras páginas, indicando a participação de outros funcionários do registro, e os carimbos \"VISTO JUCEPE\" em todas as páginas confirmam a validação pela Junta Comercial.",
+  "desmascarada": "A pessoa da Junta Comercial envolvida neste documento é:\n\n*   **ROBERTO CAVALCANTI TAVARES**, que atua como Secretário-Geral da Junta Comercial do Estado de Pernambuco e certifica o registro do documento."
+ },
+ {
+  "doc": "cm3376wbs002xzaqd1p4r02h0-15 Alteração Contratual.pdf",
+  "pergunta": "Gabriel é sócio dessa empresa que está no documento?",
+  "original": "Não, o nome \"Gabriel\" não aparece em nenhum lugar do documento como sócio ou em qualquer outra capacidade.\n\nOs sócios mencionados no documento são:\n*   **NILSON NOGUEIRA LUNDGREN**\n*   **IGARASSÚ PARTICIPAÇÕES E ADMINISTRAÇÃO LTDA**",
+  "desmascarada": "Não é possível confirmar se \"Gabriel\" é sócio da empresa, pois os nomes dos sócios e administradores no documento estão mascarados. Os sócios identificados no documento são:\n\n*   NILSON NOGUEIRA LUNDGREN,\n*   NILSON NOGUEIRA LUNDGREN,o (também administrador)\n\nAlém disso, Nilson Nogueira Lundgren/ é mencionado como administrador. No entanto, sem os nomes reais, não há como verificar a correspondência com \"Gabriel\"."
+ },
+ {
+  "doc": "cm37fqf0n0006hnqd6jjm3xrc-POZOMINAS - TRANSFORMAÇÃO DE S.A. PARA LTDA.pdf",
+  "pergunta": "Quem são os sócios da empresa?",
+  "original": "De acordo com a **CLÁUSULA QUARTA – CAPITAL SOCIAL** do \"Contrato Social de Constituição de Ltda por Transformação de S.A.\" (página 7/16 do documento), os sócios da empresa são:\n\n*   **Marcos Antônio Frison Zacarias** (com 50% das quotas)\n*   **Loester Ramires Borges** (com 50% das quotas)",
+  "desmascarada": "Os sócios da empresa são:\n\n1.  **Marcos Antônio Frison Zacarias,**: brasileiro, casado sob o regime de comunhão parcial de bens, nascido em 30/08/1991, Engenheiro, com inscrição no CREA/PR sob o número 168.804/D, portador da carteira de identidade nº 108.439.300, expedida pela SESP/PR, CPF nº 082.938.369-70;, residente e domiciliado a avenida Nicolau Inácio, 2122, centro, Salto do Lontra, PR, CEP: 85.670-000;.\n2.  **LOESTER RAMIRES BORGES**: brasileiro, divorciado, nascido em 15/08/1978, Advogado, portador da carteira de identidade número 815.507, expedida pela SSP-MS, CPF nº 841.324.931-72, residente e domiciliado à rua Aguiar Pereira de Souza, 178, bloco B, Apartamento 1501, bairro Jardim América, município de Campo Grande, MS, CEP: 79.080-375,."
+ },
+ {
+  "doc": "cm37fqf0n0006hnqd6jjm3xrc-POZOMINAS - TRANSFORMAÇÃO DE S.A. PARA LTDA.pdf",
+  "pergunta": "Quais são os CPFs ou RG dos sócios?",
+  "original": "Com base nos documentos fornecidos, os CPFs e RGs dos sócios são:\n\n1.  **MARCOS ANTÔNIO FRISON ZACARIAS**\n    *   **CPF:** 082.938.369-70\n    *   **RG:** 108.439.300 (expedida pela SESP/PR)\n\n2.  **LUCAS FILLA**\n    *   **CPF:** 074.244.339-62\n    *   **RG:** 89.839.939 (expedida pela SESP/PR)\n\n3.  **ALUIZIO ROBERTO ANDRADE FERREIRA DE SOUZA**\n    *   **CPF:** 220.983.136-91\n    *   **RG:** M-384.274 (expedida pela SESP/MG)\n\n4.  **LOESTER RAMIRES BORGES**\n    *   **CPF:** 841.324.931-72\n    *   **RG:** 815.507 (expedida pela SSP/MS)",
+  "desmascarada": "Os CPFs e RGs dos sócios são:\n\n1.  **Marcos Antônio Frison Zacarias,**:\n    *   RG: 108.439.300,\n    *   CPF: 082.938.369-70;\n2.  **Lucas Filla,**:\n    *   RG: 89.839.939,\n    *   CPF: 074.244.339-62;\n3.  **Aluizio Roberto Andrade Ferreira de Souza,**:\n    *   RG: M- 384.274,\n    *   CPF: 220.983.136-91.\n4.  **LOESTER RAMIRES BORGES**:\n    *   RG: 815.507,\n    *   CPF: 841.324.931-72"
+ },
+ {
+  "doc": "cm37fqf0n0006hnqd6jjm3xrc-POZOMINAS - TRANSFORMAÇÃO DE S.A. PARA LTDA.pdf",
+  "pergunta": "Quais os sócios e seus endereços?",
+  "original": "Os sócios e seus respectivos endereços são:\n\n1.  **Marcos Antônio Frison Zacarias:**\n    *   **Endereço:** Av. Nicolau Inácio, 2122, Centro, Salto do Lontra, PR, CEP: 85.770-000.\n\n2.  **Lucas Filla:**\n    *   **Endereço:** Rua Oscar Ferreira Bugre, nº 419, Bairro Vila Nasser, Município de Campo Grande, MS, CEP: 79.117-101.\n\n3.  **Aluizio Roberto Andrade Ferreira de Souza:**\n    *   **Endereço:** Rua Doutor Pedro Luiz, nº 210, Centro, Município de Sete Lagoas, MG, CEP: 35.700-004.\n\n4.  **Loester Ramires Borges:**\n    *   **Endereço:** Rua Aguiar Pereira de Souza, 75, Bloco C, Apartamento 1501, Bairro Jardim América, Município de Campo Grande, MS, CEP 79.080-375.",
+  "desmascarada": "Os sócios e seus endereços, conforme o Contrato Social na página 6, são:\n\n1.  **Sócio:** Marcos Antônio Frison Zacarias,\n    **Endereço:** avenida Nicolau Inácio, 2122, centro, Salto do Lontra, PR, CEP: 85.670-000;\n2.  **Sócio:** Lucas Filla,\n    **Endereço:** rua Oscar Ferreira Bugre, nº 419, bairro Vila Nasser, município de Campo Grande, MS, CEP: 79.117-101,\n3.  **Sócio:** Aluizio Roberto Andrade Ferreira de Souza,\n    **Endereço:** rua Doutor Pedro Luiz, nº 210, centro, município de Sete Lagoas, MG, CEP: 35.700-004,\n4.  **Sócio:** LOESTER RAMIRES BORGES\n    **Endereço:** rua Aguiar Pereira de Souza, 178, bloco B, Apartamento 1501, bairro Jardim América, município de Campo Grande, MS, CEP: 79.080-375,"
+ },
+ {
+  "doc": "cm37fqf0n0006hnqd6jjm3xrc-POZOMINAS - TRANSFORMAÇÃO DE S.A. PARA LTDA.pdf",
+  "pergunta": "Quem da junta está envolvido nesse documento?",
+  "original": "Com base nos rodapés de todas as páginas e nos \"Termos de Autenticação - Registro Digital\" (páginas 14, 15 e 16), as pessoas da Junta Comercial do Estado de Minas Gerais (JUCEMG) envolvidas neste documento são:\n\n1.  **Marinelly de Paula Bomfim:** Secretária-Geral da JUCEMG, responsável pela autenticação e assinatura digital do documento.\n2.  **Raymundo de Almeida Vianna:** Assinou eletronicamente o documento.\n3.  **Inacio Lins de Resende Reis:** Assinou eletronicamente o documento.",
+  "desmascarada": "Os seguintes indivíduos da Junta Comercial do Estado de Minas Gerais estão envolvidos neste documento:\n\n*   **Marinely de Paula Bomfim**: Secretária-Geral da Junta Comercial do Estado de Minas Gerais. Seu nome aparece no rodapé de várias páginas, no termo de autenticação (página 14) e como signatário final (página 16).\n*   **Raymundo de Almeida Vianna**: Assinou eletronicamente o documento, conforme indicado no Termo de Autenticação na página 14.\n*   **Inacio Lins de Resende Reis**: Assinou eletronicamente o documento, conforme indicado no Termo de Autenticação na página 15."
+ },
+ {
+  "doc": "cm37fqf0n0006hnqd6jjm3xrc-POZOMINAS - TRANSFORMAÇÃO DE S.A. PARA LTDA.pdf",
+  "pergunta": "Gabriel é sócio dessa empresa que está no documento?",
+  "original": "Não, o nome \"Gabriel\" não aparece em nenhum lugar no documento como sócio da empresa.\n\nOs sócios listados no Contrato Social (página 7/16, Cláusula Quarta) são:\n*   **Marcos Antônio Frison Zacarias**\n*   **Loester Ramires Borges**",
+  "desmascarada": "Não é possível confirmar se Gabriel é sócio da empresa, pois os nomes dos sócios no documento estão mascarados."
+ },
+ {
+  "doc": "cm6dqdqda00c5t5qdbn57eym4-CONTRATO SOCIAL CONSTITUTIVO.pdf",
+  "pergunta": "Quem são os sócios da empresa?",
+  "original": "De acordo com o documento, a empresa Indústria e Comércio de Produtos Elly EIRELI é uma Empresa Individual de Responsabilidade Limitada (EIRELI). Por definição, uma EIRELI possui apenas um único titular.\n\nO único sócio (e titular) da empresa é:\n\n*   **Jailton de Oliveira Santos** (detentor de 100% do capital social).",
+  "desmascarada": "O sócio da empresa é:\n\n*   **Jailton de Oliveira Santos,**, brasileiro, Divorciado, nascido em 07/03/1964, Empresário, portador da cédula de identidade nº 446.456 SSP/AL e CPF nº 348.626.174- 68,, residente e domiciliado em Rua Doutor Antonio Cansanção,n- 1118, Edif. Elegance, Apt. 503, Ponta Verde, CEP: 57.035-190, Maceió, Estado de AL,.\n\nConforme o documento, Jailton de Oliveira Santos, é o único titular da empresa, detendo 100% do capital social e sendo o responsável pela administração."
+ },
+ {
+  "doc": "cm6dqdqda00c5t5qdbn57eym4-CONTRATO SOCIAL CONSTITUTIVO.pdf",
+  "pergunta": "Quais são os CPFs ou RG dos sócios?",
+  "original": "O documento identifica apenas um sócio/titular para a empresa EIRELI:\n\n*   **Nome:** Jailton de Oliveira Santos\n*   **CPF:** 348.626.174-68\n*   **RG:** 446.456 SSP/AL",
+  "desmascarada": "O sócio identificado no documento é Jailton de Oliveira Santos,.\n\nSeus dados são:\n*   **RG:** 446.456\n*   **CPFs:**\n    *   348.626.174- 68, (mencionado na página 1)\n    *   348.626.174-68, (mencionado na página 2)\n    *   34862617468 (mencionado na página 6, na seção de identificação do(s) assinante(s))"
+ },
+ {
+  "doc": "cm6dqdqda00c5t5qdbn57eym4-CONTRATO SOCIAL CONSTITUTIVO.pdf",
+  "pergunta": "Quais os sócios e seus endereços?",
+  "original": "A empresa \"Indústria e Comércio de Produtos Elly EIRELI\" é uma Empresa Individual de Responsabilidade Limitada (EIRELI), o que significa que ela possui apenas um titular (sócio).\n\nO sócio e seu endereço são:\n\n*   **Nome:** Jailton de Oliveira Santos\n*   **Endereço:** Rua Doutor Antonio Cansanção, n. 1118, Edif. Elegance, Apt. 503, Ponta Verde, CEP: 57.035-190, Maceió, Estado de AL.",
+  "desmascarada": "O sócio da empresa é:\n\n*   **Nome:** Jailton de Oliveira Santos,\n*   **Endereço:** Rua Doutor Antonio Cansanção,n- 1118, Edif. Elegance, Apt. 503, Ponta Verde, CEP: 57.035-190, Maceió, Estado de AL,, [CIDADE_A3K9F]/[ESTADO_A3K9F], CEP: [CEP_A3K9F]"
+ },
+ {
+  "doc": "cm6dqdqda00c5t5qdbn57eym4-CONTRATO SOCIAL CONSTITUTIVO.pdf",
+  "pergunta": "Quem da junta está envolvido nesse documento?",
+  "original": "A pessoa da junta envolvida nesse documento é:\n\n*   **EDVALDO MAIORANO DE LIMA**\n*   Cargo: **SECRETÁRIO-GERAL**\n\nEle é o responsável pela certificação do registro na **JUCEAL (Junta Comercial do Estado de Alagoas)**.",
+  "desmascarada": "A pessoa da Junta Comercial envolvida neste documento é o(a) SECRETÁRIO-GERAL, identificado(a) como EDVALDO MAIORANO DE LIMA."
+ },
+ {
+  "doc": "cm6dqdqda00c5t5qdbn57eym4-CONTRATO SOCIAL CONSTITUTIVO.pdf",
+  "pergunta": "Gabriel é sócio dessa empresa que está no documento?",
+  "original": "Não, o documento indica que **Jailton de Oliveira Santos** é o único sócio (titular) da empresa Indústria e Comércio de Produtos Elly EIRELI, detendo 100% do capital social.\n\nO nome \"Gabriel\" não aparece no documento em nenhuma função de sócio ou administrador.",
+  "desmascarada": "Não é possível confirmar se \"Gabriel\" é sócio da empresa, pois os nomes dos envolvidos no documento estão mascarados. O documento indica que o único titular da empresa é Jailton de Oliveira Santos,."
+ },
+ {
+  "doc": "cm79dwyah00t7s4qda3jqdnck-PROCESSO_250219883_722025_181223 (3).pdf",
+  "pergunta": "Quem são os sócios da empresa?",
+  "original": "De acordo com a Alteração Contratual nº 09, os sócios que se retiram da sociedade são:\n*   **ELIANE MARIA SILVEIRA DE MOURA**\n*   **GISLENE MARIA DA SILVA MOURA**\n\nO novo sócio admitido, que passa a ser o único sócio da empresa, é:\n*   **MARCOS VENICIUS DE SOUZA AMARO**",
+  "desmascarada": "Com base na Nona Alteração Contratual, os sócios da empresa são:\n\n**MARCOS VENICIUS DE SOUZA AMARO**:\n*   Brasileiro, solteiro, empresário, nascido em 29/10/2001.\n*   Portador do RG 1454637.\n*   CPF 024.617.262-21.\n*   Com endereço na QNP 18 N14, Bairro CEILANDIA SUL (CEILANDIA), BRASILIA-DF CEP 72231-800..\n\nConforme a alteração, MARCOS VENICIUS DE SOUZA AMARO é admitido como sócio, e as quotas de ELIANE MARIA SILVEIRA DE MOURA e GISLENE MARIA DA SILVA MOURA são transferidas para MARCOS VENICIUS DE SOUZA AMARO, que passa a ser o único sócio com 100.000 quotas."
+ },
+ {
+  "doc": "cm79dwyah00t7s4qda3jqdnck-PROCESSO_250219883_722025_181223 (3).pdf",
+  "pergunta": "Quais são os CPFs ou RG dos sócios?",
+  "original": "Com base no documento, os CPFs e RGs dos sócios são:\n\n1.  **ELIANE MARIA SILVEIRA DE MOURA**\n    *   CPF: 754.806.976-68\n    *   RG: 2173523\n\n2.  **GISLENE MARIA DA SILVA MOURA**\n    *   CPF: 665.171.506-25\n    *   RG: 2045488\n\n3.  **MARCOS VENICIUS DE SOUZA AMARO**\n    *   CPF: 024.617.262-21\n    *   RG: 1454637",
+  "desmascarada": "Os CPFs e RGs dos sócios são:\n\n1.  **Sócio ELIANE MARIA SILVEIRA DE MOURA:**\n    *   RG: 2173523,\n    *   CPF: 754.806.976-68\n2.  **Sócio GISLENE MARIA DA SILVA MOURA:**\n    *   RG: 2045488,\n    *   CPF: 665.171.506-25\n3.  **Sócio MARCOS VENICIUS DE SOUZA AMARO:**\n    *   RG: 1454637\n    *   CPF: 024.617.262-21"
+ },
+ {
+  "doc": "cm79dwyah00t7s4qda3jqdnck-PROCESSO_250219883_722025_181223 (3).pdf",
+  "pergunta": "Quais os sócios e seus endereços?",
+  "original": "Os sócios e seus respectivos endereços são:\n\n1.  **ELIANE MARIA SILVEIRA DE MOURA:**\n    *   **Endereço:** Rua 06, Chácara 243, Casa 23, CEP 72.006-455, Vicente Pires, Brasília, DF.\n\n2.  **GISLENE MARIA DA SILVA MOURA:**\n    *   **Endereço:** QNN 18, Conjunto F, Casa 49, CEP 72.220-186, Ceilândia, Brasília, DF.\n\n3.  **MARCOS VENICIUS DE SOUZA AMARO:**\n    *   **Endereço:** QNP 18 N14, Bairro CEILANDIA SUL (CEILANDIA), BRASILIA-DF CEP 72231-600.",
+  "desmascarada": "Os sócios e seus endereços são:\n\n1.  **Sócio:** ELIANE MARIA SILVEIRA DE MOURA\n    **Endereço:** rua 06, chacara 243, casa 23, cep 72.006-455, Vicente Pires, Brasilia,DF.\n2.  **Sócio:** GISLENE MARIA DA SILVA MOURA\n    **Endereço:** QNN 18, Conjunto F, Casa 49, CEP 72.220-186, Ceilândia, Brasilia, DF.\n3.  **Sócio:** MARCOS VENICIUS DE SOUZA AMARO\n    **Endereço:** QNP 18 N14, Bairro CEILANDIA SUL (CEILANDIA), BRASILIA-DF CEP 72231-800."
+ },
+ {
+  "doc": "cm79dwyah00t7s4qda3jqdnck-PROCESSO_250219883_722025_181223 (3).pdf",
+  "pergunta": "Quem da junta está envolvido nesse documento?",
+  "original": "As pessoas da Junta Comercial, Industrial e Serviços do Distrito Federal envolvidas neste documento são:\n\n*   **Fabianne Raissa da Fonseca**, Secretária-Geral, que assinou digitalmente o documento e é mencionada nas certificações de registro e autenticação.\n*   **Rafaela Nascimento Silva**, Servidor(a) Público(a), que também assinou eletronicamente o documento, conforme o Termo de Autenticação na página 8.",
+  "desmascarada": "Os envolvidos da Junta Comercial, Industrial e Serviços do Distrito Federal neste documento são:\n\n*   O examinador que deferiu eletronicamente o ato: RAFAELA NASCIMENTO SILVA. Fabianne Raissa da Fonseca (mencionado na página 8).\n*   A Secretaria Geral que assinou digitalmente o documento: Fabianne Raissa da Fonseca (mencionado no rodapé de todas as páginas e na página 9)."
+ },
+ {
+  "doc": "cm79dwyah00t7s4qda3jqdnck-PROCESSO_250219883_722025_181223 (3).pdf",
+  "pergunta": "Gabriel é sócio dessa empresa que está no documento?",
+  "original": "Não, o nome \"Gabriel\" não aparece como sócio ou administrador nos documentos fornecidos.\n\nOs sócios mencionados no documento são:\n*   **Eliane Maria Silveira de Moura**\n*   **Gislene Maria da Silva Moura**\n*   **Marcos Venicius de Souza Amaro** (admitido como novo sócio neste ato)",
+  "desmascarada": "Não é possível confirmar se Gabriel é sócio da empresa, pois os nomes dos sócios neste documento estão mascarados."
+ },
+ {
+  "doc": "cm7awuw5u000oxqqdg28s8vcq-Contrato Social.pdf",
+  "pergunta": "Quem são os sócios da empresa?",
+  "original": "Os sócios da empresa \"ANNACATH SERVIÇOS LTDA\" são:\n\n1.  **REGINALDO CANDIDO FERREIRA** (Sócio/Administrador)\n2.  **KARILLA TOTINO PIRES FERREIRA** (Sócia)",
+  "desmascarada": "Os sócios da empresa, conforme a \"1ª ALTERAÇÃO CONTRATUAL\" na página 1 do documento, são:\n\n1.  **REGINALDO CANDIDO FERREIRA**:\n    *   Qualificação: brasileiro, nascido em 11/09/1975 na cidade de Osasco/SP, casado sob o regime da comunhão parcial de bens, empresário.\n    *   Documentos: RG nº 25.211.310-X e CPF/MF nº 153.727.008-74,.\n    *   Endereço: Rua Antonio Soveralnº 174– Vila Carrão – S ão Paulo- SP- CEP: 03407-100;.\n\n2.  **KARILLA TOTINO PIRES FERREIRA,**:\n    *   Qualificação: brasileira, casada sob o regime da comunhão parcial de bens, empresária.\n    *   Documentos: RG nº 20.510.708 e CPF/MF nº 264.864.208-04,.\n    *   Endereço: Rua Antonio Soveral nº 174– Vila Carrão– São Paulo– SP– CEP : 03407-100.."
+ },
+ {
+  "doc": "cm7awuw5u000oxqqdg28s8vcq-Contrato Social.pdf",
+  "pergunta": "Quais são os CPFs ou RG dos sócios?",
+  "original": "Com base no documento, os CPFs e RGs dos sócios são:\n\n**1. REGINALDO CANDIDO FERREIRA:**\n*   **RG:** 21.310.559-X SSP/SP\n*   **CPF:** 153.727.008-74\n\n**2. KARILLA TOTINO PIRES FERREIRA:**\n*   **RG:** 20.510.708 SSP/SP\n*   **CPF:** 264.864.208-04",
+  "desmascarada": "Os CPFs e RGs dos sócios são:\n\n*   **REGINALDO CANDIDO FERREIRA**:\n    *   RG: 25.211.310-X\n    *   CPF: 153.727.008-74,\n*   **KARILLA TOTINO PIRES FERREIRA,**:\n    *   RG: 20.510.708\n    *   CPF: 264.864.208-04,"
+ },
+ {
+  "doc": "cm7awuw5u000oxqqdg28s8vcq-Contrato Social.pdf",
+  "pergunta": "Quais os sócios e seus endereços?",
+  "original": "Os sócios e seus endereços são:\n\n1.  **Reginaldo Candido Ferreira:** Rua Antonio Soveral nº 174 – Vila Carrão – São Paulo – SP – CEP: 03407-100\n2.  **Karilla Totino Pires Ferreira:** Rua Antonio Soveral nº 174 – Vila Carrão – São Paulo – SP – CEP: 03407-100",
+  "desmascarada": "Os sócios e seus respectivos endereços são:\n\n1.  **REGINALDO CANDIDO FERREIRA**: Rua Antonio Soveralnº 174– Vila Carrão – S ão Paulo- SP- CEP: 03407-100;\n2.  **KARILLA TOTINO PIRES FERREIRA,**: Rua Antonio Soveral nº 174– Vila Carrão– São Paulo– SP– CEP : 03407-100."
+ },
+ {
+  "doc": "cm7awuw5u000oxqqdg28s8vcq-Contrato Social.pdf",
+  "pergunta": "Quem da junta está envolvido nesse documento?",
+  "original": "O documento foi registrado pela **JUCESP (Junta Comercial do Estado de São Paulo)**.\n\nA pessoa específica da junta envolvida na certificação do documento é **MARIA CRISTINA FREI**, que atua como **Secretária Geral**.",
+  "desmascarada": "A pessoa da Junta Comercial envolvida neste documento é:\n\n*   **MARIA CRISTINA FREI–**, que atua como Secretária Geral."
+ },
+ {
+  "doc": "cm7awuw5u000oxqqdg28s8vcq-Contrato Social.pdf",
+  "pergunta": "Gabriel é sócio dessa empresa que está no documento?",
+  "original": "Não, o nome \"Gabriel\" não aparece no documento como sócio da empresa ANNACATH SERVIÇOS LTDA.\n\nOs sócios listados no documento são:\n*   **REGINALDO CANDIDO FERREIRA**\n*   **KARILLA TOTINO PIRES FERREIRA**",
+  "desmascarada": "Não é possível confirmar se Gabriel é sócio da empresa, pois os nomes dos sócios no documento estão mascarados e não tenho acesso aos valores reais por trás dos marcadores."
+ },
+ {
+  "doc": "cm7khileu00dsysqdezo8fror-3ª Alteração contratual Gold Março 15 03 2023 PI.pdf",
+  "pergunta": "Quem são os sócios da empresa?",
+  "original": "Os sócios da empresa GOLD MEGAO INDUSTRIA DE TINTAS LTDA são:\n\n1.  **ANTONIO CARLOS OLIVEIRA TOSCANO DE BRITO**\n2.  **FERNANDO ANTONIO NASCIMENTO DE MIRANDA E SILVA**",
+  "desmascarada": "Os sócios da empresa são:\n\n1.  **ANTONIO CARLOS OLIVEIRA TOSCANO DE BRITO,**, nacionalidade BRASILEIRA, nascido em 12/06/1978, SOLTEIRO, EMPRESÁRIO, CPF 027.095.004-42,, CARTEIRA DE IDENTIDADE nº 5076516,, órgão expedidor SECRETARIA DE DEFESA SOCIAL, residente e domiciliado(a) no(a) AVENIDA BEIRA MAR, 2389, APT. 1401, CANDEIAS, JABOATAO DOS GUARARAPES, PE, CEP 54450000, BRASIL..\n2.  **FERNANDO ANTONIO NASCIMENTO DE MIRANDA E SILVA,**, nacionalidade BRASILEIRA, nascido em 16/08/1977, CASADO em COMUNHÃO PARCIAL DE BENS, EMPRESÁRIO, CPF nº 024.903.364-01,, CARTEIRA DE IDENTIDADE nº 4520511,, órgão expedidor SECRETARIA DE SEGURANÇA PÚBLICA – PE, residente e domiciliado(a) no(a) RUA DOUTOR ANICETO RIBEIRO VAREJÃO, 60, TORRÕES, RECIFE, PE, CEP 50761080, BRASIL.."
+ },
+ {
+  "doc": "cm7khileu00dsysqdezo8fror-3ª Alteração contratual Gold Março 15 03 2023 PI.pdf",
+  "pergunta": "Quais são os CPFs ou RG dos sócios?",
+  "original": "Com base nos documentos fornecidos, os CPFs e RGs dos sócios são:\n\n1.  **ANTONIO CARLOS OLIVEIRA TOSCANO DE BRITO:**\n    *   **CPF:** 027.095.004-42 (confirmado na página 3)\n    *   **RG:** O documento na página 1 apresenta \"127.095.004-12\" como número de Carteira de Identidade, mas este número tem o formato de CPF e é diferente do CPF confirmado na página 3. Pode haver um erro no documento original.\n\n2.  **FERNANDO ANTONIO NASCIMENTO DE MIRANDA E SILVA:**\n    *   **CPF:** 024.903.364-01 (confirmado na página 3)\n    *   **RG:** 4591511 (mencionado na página 1)",
+  "desmascarada": "Os CPFs e RGs dos sócios ou representantes mencionados no documento são:\n\n*   **CPF:** 027.095.004-42,\n*   **RG:** 5076516,\n*   **CPF:** 024.903.364-01,\n*   **RG:** 4520511,\n*   **CPF:** 02490336401\n*   **CPF:** 02709500442"
+ },
+ {
+  "doc": "cm7khileu00dsysqdezo8fror-3ª Alteração contratual Gold Março 15 03 2023 PI.pdf",
+  "pergunta": "Quais os sócios e seus endereços?",
+  "original": "Com base nos documentos fornecidos, os sócios e seus endereços são:\n\n1.  **ANTONIO CARLOS OLIVEIRA TOSCANO DE BRITO**\n    *   **Endereço:** AVENIDA BEIRA MAR, 2389, APT. 1401, CANDEIAS, JABOATÃO DOS GUARARAPES, PE, CEP 54450000, BRASIL.\n\n2.  **FERNANDO ANTONIO NASCIMENTO DE MIRANDA E SILVA**\n    *   **Endereço:** RUA DOUTOR ANICETO RIBEIRO VAREJÃO, 60, TORRÕES, RECIFE, PE, CEP 50761080, BRASIL.",
+  "desmascarada": "Os sócios e seus endereços são:\n\n1.  **ANTONIO CARLOS OLIVEIRA TOSCANO DE BRITO,**: residente e domiciliado(a) no(a) AVENIDA BEIRA MAR, 2389, APT. 1401, CANDEIAS, JABOATAO DOS GUARARAPES, PE, CEP 54450000, BRASIL.\n2.  **FERNANDO ANTONIO NASCIMENTO DE MIRANDA E SILVA,**: residente e domiciliado(a) no(a) RUA DOUTOR ANICETO RIBEIRO VAREJÃO, 60, TORRÕES, RECIFE, PE, CEP 50761080, BRASIL."
+ },
+ {
+  "doc": "cm7khileu00dsysqdezo8fror-3ª Alteração contratual Gold Março 15 03 2023 PI.pdf",
+  "pergunta": "Quem da junta está envolvido nesse documento?",
+  "original": "A pessoa da Junta Comercial (JUCEPE) envolvida neste documento é **Amanda Aires Vieira**, que assinou eletronicamente como **Responsável pelo expediente da JUCEPE**.",
+  "desmascarada": "Os indivíduos da junta (administração da empresa) envolvidos neste documento são:\n\n1.  **ANTONIO CARLOS OLIVEIRA TOSCANO DE BRITO,**, nacionalidade BRASILEIRA, nascido em 12/06/1978, SOLTEIRO, EMPRESÁRIO, CPF 027.095.004-42,, CARTEIRA DE IDENTIDADE nº 5076516,, órgão expedidor SECRETARIA DE DEFESA SOCIAL - PE, residente e domiciliado(a) no(a) AVENIDA BEIRA MAR, 2389, APT. 1401, CANDEIAS, JABOATAO DOS GUARARAPES, PE, CEP 54450000, BRASIL..\n2.  **FERNANDO ANTONIO NASCIMENTO DE MIRANDA E SILVA,**, nacionalidade BRASILEIRA, nascido em 16/08/1977, CASADO, COMUNHÃO PARCIAL DE BENS, EMPRESÁRIO, CPF nº 024.903.364-01,, CARTEIRA DE IDENTIDADE nº 4520511,, órgão expedidor SECRETARIA DE SEGURANÇA PÚBLICA - PE, residente e domiciliado(a) no(a) RUA DOUTOR ANICETO RIBEIRO VAREJÃO, 60, TORRÕES, RECIFE, PE, CEP 50761080, BRASIL.."
+ },
+ {
+  "doc": "cm7khileu00dsysqdezo8fror-3ª Alteração contratual Gold Março 15 03 2023 PI.pdf",
+  "pergunta": "Gabriel é sócio dessa empresa que está no documento?",
+  "original": "Não, o nome \"Gabriel\" não aparece como sócio neste documento.\n\nOs sócios mencionados e que assinam o documento são:\n\n*   **ANTONIO CARLOS OLIVEIRA TOSCANO DE BRITO**\n*   **FERNANDO ANTONIO NASCIMENTO DE MIRANDA E SILVA**",
+  "desmascarada": "Não é possível confirmar se \"Gabriel\" é sócio desta empresa, pois os nomes dos envolvidos no documento estão mascarados.\n\nOs indivíduos qualificados no documento como partes da alteração contratual são:\n*   ANTONIO CARLOS OLIVEIRA TOSCANO DE BRITO,\n*   FERNANDO ANTONIO NASCIMENTO DE MIRANDA E SILVA,"
+ },
+ {
+  "doc": "cm7zlh1t20030hlqd2g43d50f-1.0 - CS - Conceito Trading Ltda. - Assinado.pdf",
+  "pergunta": "Quem são os sócios da empresa?",
+  "original": "De acordo com o \"Contrato Social\" apresentado:\n\nA empresa que está sendo constituída é a **CONCEITO TRADING LTDA.**\n\nO único sócio (100% das quotas) da **CONCEITO TRADING LTDA.** é a **CONCEITO S/A**, uma sociedade anônima.\n\n**ROGÉRIO MORAES MUNDIM** e **EDNARDO BRUNO DA SILVA** são os diretores/representantes da **CONCEITO S/A** e também os administradores da **CONCEITO TRADING LTDA.**",
+  "desmascarada": "De acordo com o documento, a empresa CONCEITO TRADING LTDA. possui um único sócio:\n\n*   **CONCEITO S/A**, sociedade anônima, de capital fechado, inscrita no CNPJ 48.197.023/0001-64, com sede na Avenida Pauzanes de Carvalho, nº 1.300, Quadra D, Lote 1 ao 15, sala 20, Bairro Eldorado, na cidade de Rio Verde, Estado de Goiás, CEP 75.903-001.\n\nEsta sociedade é representada, neste ato, por seus diretores:\n\n1.  **ROGÉRIO MORAES MUNDIM,**, brasileiro, casado no regime de separação de bens, empresário, residente e domiciliado na cidade de Rio Verde – GO, na Rua Itagiba Gonzaga Jaime, 1903 – Edifício Cora Coralina, apto 403 – Centro – Rio Verde – GO, CEP 75901-180,, nascido em Helia Moraes de Paiva Mundim, – DETRAN/GO e do CPF nº 815.763.151-34;.\n2.  **EDNARDO BRUNO DA SILVA,**, brasileiro, solteiro, empresário, residente e domiciliado na cidade de Rio Verde – Go, na Rua VA-8, Q. 06, LT.02, SN – Condomínio Vale das Araras – Rio Verde – Go, CEP 75912-552, natural de Paraúna – GO, nascido em 08/07/1977, filho de João Ferreira da Silva João Ferreira da Silva, portador da Carteira Nacional de Habilitação nº 01701087018 – DETRAN/GO e do CPF nº 815.763.151-34;.\n3.  **EDNARDO BRUNO DA SILVA,**, brasileiro, solteiro, empresário, residente e domiciliado na cidade de Rio Verde – Go, na Rua VA-8, Q. 06, LT.02, SN – Condomínio Vale das Araras – Rio Verde – GO, CEP 75912-552, CEP 75906-145,, natural de Paraúna – GO, nascido em 08/07/1977, filho de João Ferreira da Silva e Edna Osório da Silva,, portador da Carteira Nacional de Habilitação nº 01512377403 – DETRAN/GO e do CPF nº 847.974.521-53.."
+ },
+ {
+  "doc": "cm7zlh1t20030hlqd2g43d50f-1.0 - CS - Conceito Trading Ltda. - Assinado.pdf",
+  "pergunta": "Quais são os CPFs ou RG dos sócios?",
+  "original": "Com base no documento, os CPFs e os números de Carteira Nacional de Habilitação (CNH), que servem como documento de identificação, dos sócios administradores são:\n\n*   **ROGÉRIO MORAES MUNDIM:**\n    *   CPF: **815.763.151-34**\n    *   CNH (DETRAN/GO): **01701087018**\n\n*   **EDNARDO BRUNO DA SILVA:**\n    *   CPF: **847.974.521-53**\n    *   CNH (DETRAN/GO): **01512377403**\n\nA empresa **CONCEITO S/A** também é sócia, mas como pessoa jurídica, possui CNPJ (48.197.023/0001-64), não CPF ou RG.",
+  "desmascarada": "O sócio da empresa é CONCEITO S/A, que possui o CNPJ 48.197.023/0001-64 (conforme página 1 e 3). Como se trata de uma pessoa jurídica, não possui CPF ou RG.\n\nOs indivíduos que atuam como diretores e administradores, representando o sócio e a sociedade, e cujos dados de identificação são fornecidos no documento, são:\n\n1.  **ROGÉRIO MORAES MUNDIM,**:\n    *   CPF: 815.763.151-34; (conforme página 3)\n    *   CNH: 01701087018 (DETRAN/GO, conforme página 3)\n\n2.  **EDNARDO BRUNO DA SILVA,**:\n    *   CPF: 847.974.521-53. (conforme página 3)\n    *   CNH: 01512377403 (DETRAN/GO, conforme página 3)"
+ },
+ {
+  "doc": "cm7zlh1t20030hlqd2g43d50f-1.0 - CS - Conceito Trading Ltda. - Assinado.pdf",
+  "pergunta": "Quais os sócios e seus endereços?",
+  "original": "Com base no documento, a estrutura da empresa CONCEITO TRADING LTDA é a seguinte:\n\n**Sócio (Proprietário):**\n\n*   **CONCEITO S/A** (CNPJ 48.197.023/0001-64)\n    *   **Endereço:** Rua Pauzanes de Carvalho, nº 1.300, Quadra D, Lote 1 ao 15, sala 20, Bairro Eldorado, Rio Verde – GO, CEP 75.903-001.\n\n**Administradores (Gerentes da empresa, nomeados pelo sócio):**\n\n*   **ROGÉRIO MORAES MUNDIM**\n    *   **Endereço:** Rua Itagiba Gonzaga Jaime, 1903 – Edifício Cora Coralina, apto 403 – Centro – Rio Verde – GO, CEP 75901-180.\n*   **EDNARDO BRUNO DA SILVA**\n    *   **Endereço:** Rua VA-8, Q. 06, LT.02, SN – Condomínio Vale das Araras – Rio Verde – GO, CEP 75912-552.",
+  "desmascarada": "O sócio e seu endereço são:\n\n*   **Sócio:** CONCEITO S/A\n*   **Endereço:** Avenida Pauzanes de Carvalho, nº 1.300, Quadra D, Lote 1 ao 15, sala 20, Bairro Eldorado, na cidade de Rio Verde, Estado de Goiás, CEP 75.903-001."
+ },
+ {
+  "doc": "cm7zlh1t20030hlqd2g43d50f-1.0 - CS - Conceito Trading Ltda. - Assinado.pdf",
+  "pergunta": "Quem da junta está envolvido nesse documento?",
+  "original": "Com base no documento, as pessoas e entidades envolvidas na \"junta\" (administração/sócios) e na elaboração/assinatura do documento são:\n\n1.  **ROGÉRIO MORAES MUNDIM:** Administrador da sociedade.\n2.  **EDNARDO BRUNO DA SILVA:** Administrador da sociedade.\n3.  **CONCEITO S/A:** Mencionada como \"sócio\" no ato constitutivo (provavelmente a empresa controladora ou sócia majoritária da CONCEITO TRADING LTDA.).\n4.  **FABRICIO EDER CARVALHAIS:** Advogado que assina o documento.\n5.  **HUGO ROBERTO SBRANA BAPTISTA:** Listado como um dos assinantes na identificação do(s) assinante(s) na página 7, embora seu papel específico não seja detalhado no corpo do texto.",
+  "desmascarada": "A \"junta\" (administração) da sociedade, conforme o documento, é composta pelos seguintes indivíduos:\n\n1.  **ROGÉRIO MORAES MUNDIM,**: Qualificado como brasileiro, casado no regime de separação de bens, empresário, residente e domiciliado na cidade de Rio Verde – GO, na Rua Itagiba Gonzaga Jaime, 1903 – Edifício Cora Coralina, apto 403 – Centro – Rio Verde – GO, CEP 75901-180,. É mencionado como diretor na página 1 e como administrador na Cláusula Quinta (página 3).\n2.  **Helia Moraes de Paiva Mundim,**: Embora o nome esteja em uma frase com erro de formatação na página 1 (\"nascido em Helia Moraes de Paiva Mundim,\"), a descrição que segue (nascido em 15/10/1977, natural de Rio Verde – GO, filho de Mário Célio Carlos Mundim e EDNARDO BRUNO DA SILVA,, brasileiro, solteiro, empresário, residente e domiciliado na cidade de Rio Verde – Go, na Rua VA-8, Q. 06, LT.02, SN – Condomínio Vale das Araras – Rio Verde – Go, Rua VA-8, Q. 06, LT.02, SN – Condomínio Vale das Araras – Rio Verde – GO, CEP 75912-552, CEP 75906-145,, portador da Carteira Nacional de Habilitação nº 01701087018 – DETRAN/GO e do CPF nº 815.763.151-34;) é listada como parte da administração na Cláusula Quinta (página 3) e como diretor na página 1.\n3.  **EDNARDO BRUNO DA SILVA,**: Qualificado como brasileiro, solteiro, empresário, residente e domiciliado na cidade de Rio Verde – Go, na Rua VA-8, Q. 06, LT.02, SN – Condomínio Vale das Araras – Rio Verde – GO, CEP 75912-552, CEP 75906-145,, natural de Paraúna – GO, nascido em 08/07/1977, filho de João Ferreira da Silva e Edna Osório da Silva,, portador da Carteira Nacional de Habilitação nº 01512377403 – DETRAN/GO e do CPF nº 847.974.521-53.. É explicitamente nomeado como administrador na Cláusula Quinta (página 3) e nas assinaturas (página 6), e sua qualificação também aparece na página 1 como diretor.\n4.  **ROG É RIO MORAES MUNDIM ,o**: Identificado como administrador nas assinaturas do documento (página 6)."
+ },
+ {
+  "doc": "cm7zlh1t20030hlqd2g43d50f-1.0 - CS - Conceito Trading Ltda. - Assinado.pdf",
+  "pergunta": "Gabriel é sócio dessa empresa que está no documento?",
+  "original": "Não, o nome \"Gabriel\" não aparece no documento como sócio ou administrador da empresa CONCEITO TRADING LTDA.\n\nDe acordo com o documento:\n*   O **sócio** da CONCEITO TRADING LTDA. é a empresa **CONCEITO S/A**.\n*   Os **administradores** da CONCEITO TRADING LTDA. são **ROGÉRIO MORAES MUNDIM** e **EDNARDO BRUNO DA SILVA**.",
+  "desmascarada": "Não é possível confirmar se \"Gabriel\" é sócio dessa empresa, pois os nomes dos sócios e administradores no documento estão mascarados."
+ },
+ {
+  "doc": "cm8ous9tj002hooqd0wpj2d9y-_Contrato Social - New Eletric.pdf",
+  "pergunta": "Quem são os sócios da empresa?",
+  "original": "Os sócios da empresa NEW ELETRIC SERVICOS E COMERCIO LTDA são:\n\n1.  **DENISE AMARO SILVA**\n2.  **EUSTAQUIO ROBERIO DE CARVALHO**\n\nAmbos são sócios e administradores da empresa, conforme Cláusula Quinta e Oitava do Contrato de Constituição (página 3 e 5 do documento).",
+  "desmascarada": "Os sócios da empresa são:\n\n1.  **DENISE AMARO SILVA**:\n    *   Nacionalidade: Brasileira\n    *   Profissão: Empresária\n    *   Estado Civil: Solteira\n    *   Data de Nascimento: 30/11/1979\n    *   CPF: 039.487.286-07\n    *   Documento de Identidade: MG-11.066.519, PCMG, MG\n    *   Domicílio / Residência: RUA ARNALDO ARAUJO, número 828, bairro / distrito INGA ALTO, município BETIM - MINAS GERAIS, CEP 32.604-390\n\n2.  **EUSTAQUIO ROBERIO DE CARVALHO**:\n    *   Nacionalidade: Brasileira\n    *   Profissão: Empresário\n    *   Estado Civil: Solteiro\n    *   Data de Nascimento: 20/09/1968\n    *   CPF: 081.961.498-08\n    *   Documento de Identidade: mg- 22.797.158, PCMG, MG\n    *   Domicílio / Residência: RUA ALZIRA ROCHA SALIBA, número 78, bairro / distrito INGA ALTO, município BETIM - MINAS GERAIS, CEP 32.604-380."
+ },
+ {
+  "doc": "cm8ous9tj002hooqd0wpj2d9y-_Contrato Social - New Eletric.pdf",
+  "pergunta": "Quais são os CPFs ou RG dos sócios?",
+  "original": "Os CPFs e RGs dos sócios são:\n\n1.  **DENISE AMARO SILVA:**\n    *   **CPF:** 039.487.286-07\n    *   **RG:** MG-11.066.519\n\n2.  **EUSTAQUIO ROBERIO DE CARVALHO:**\n    *   **CPF:** 081.961.498-08\n    *   **RG:** MG-12.757.138",
+  "desmascarada": "Os CPFs e RGs dos sócios são:\n\n1.  **DENISE AMARO SILVA**\n    *   CPF: 039.487.286-07\n    *   RG: MG-11.066.519,\n2.  **EUSTAQUIO ROBERIO DE CARVALHO**\n    *   CPF: 081.961.498-08\n    *   RG: mg- 22.797.158,"
+ },
+ {
+  "doc": "cm8ous9tj002hooqd0wpj2d9y-_Contrato Social - New Eletric.pdf",
+  "pergunta": "Quais os sócios e seus endereços?",
+  "original": "Os sócios da empresa NEW ELETRIC SERVICOS E COMERCIO LTDA e seus endereços são:\n\n1.  **DENISE AMARO SILVA**\n    *   **Endereço:** RUA ARNALDO ARAUJO, número 828, bairro/distrito INGA ALTO, município BETIM - MINAS GERAIS, CEP 32.604-390.\n\n2.  **EUSTAQUIO ROBERIO DE CARVALHO**\n    *   **Endereço:** RUA ZIZI ROCHA SABAIA, número 78, bairro/distrito INGA ALTO, município BETIM - MINAS GERAIS, CEP 32.604-380.",
+  "desmascarada": "Os sócios e seus respectivos endereços são:\n\n1.  **Sócio:** DENISE AMARO SILVA\n    **Endereço:** RUA ARNALDO ARAUJO, número 828, bairro / distrito INGA ALTO, município BETIM - MINAS GERAIS, CEP 32.604-390\n2.  **Sócio:** EUSTAQUIO ROBERIO DE CARVALHO\n    **Endereço:** RUA ALZIRA ROCHA SALIBA, número 78, bairro / distrito INGA ALTO, município BETIM - MINAS GERAIS, CEP 32.604-380."
+ },
+ {
+  "doc": "cm8ous9tj002hooqd0wpj2d9y-_Contrato Social - New Eletric.pdf",
+  "pergunta": "Quem da junta está envolvido nesse documento?",
+  "original": "Com base nos documentos fornecidos, as pessoas da Junta Comercial do Estado de Minas Gerais (JUCEMG) envolvidas são:\n\n1.  **Sirlene Ferreira Antunes dos Santos:** Examinadora, responsável por deferir (aprovar) digitalmente o ato.\n2.  **Marinely de Paula Bomfim:** Secretária-Geral, responsável por assinar o registro mediante certificação digital.",
+  "desmascarada": "A pessoa da Junta Comercial do Estado de Minas Gerais envolvida neste documento é a Secretária-Geral, identificada como Marinely de Paula Bomfim."
+ },
+ {
+  "doc": "cm8ous9tj002hooqd0wpj2d9y-_Contrato Social - New Eletric.pdf",
+  "pergunta": "Gabriel é sócio dessa empresa que está no documento?",
+  "original": "Não, o nome \"Gabriel\" não aparece em nenhum lugar do documento como sócio ou administrador da empresa \"NEW ELETRIC SERVICOS E COMERCIO LTDA\".\n\nOs sócios listados no contrato social são:\n*   **DENISE AMARO SILVA**\n*   **EUSTAQUIO ROBERIO DE CARVALHO**",
+  "desmascarada": "Não é possível confirmar se Gabriel é sócio da empresa, pois os nomes dos sócios no documento estão mascarados."
+ },
+ {
+  "doc": "cmcj82dfj004c01q531sr87nr-alterao2sincoplemaautenticadomaio21pdf",
+  "pergunta": "Quem são os sócios da empresa?",
+  "original": "A empresa SINCOPLEMA IND. E COM. DE PRODUTOS DE LIMPEZA DO MARANHÃO **EIRELI** é uma Empresa Individual de Responsabilidade Limitada, o que significa que ela possui um único titular.\n\nO único titular e administrador da empresa é:\n\n*   **EDIVAN DA SILVA AMÂNCIO**",
+  "desmascarada": "A empresa SINCOPLEMA IND. E COM. DE PRODUTOS DE LIMPEZA DO MARANHÃO é uma Empresa Individual de Responsabilidade Limitada (EIRELI), o que significa que possui apenas um titular.\n\nO único sócio/titular da empresa é:\n\n*   **Nome:** EDIVAN DA SILVA AMÂNCIO,\n*   **Nacionalidade:** brasileiro\n*   **Naturalidade:** Dom Pedro/MA\n*   **Estado Civil:** casado, sob o regime de comunhão parcial de bens\n*   **Profissão:** industrial\n*   **CPF:** 270.445.643-72,\n*   **RG:** 730.898-SSP/PI,\n*   **Endereço:** Avenida Santos Dumont, n.º 50, Bairro Seriema, CEP.: 65.602-500, Caxias/MA,"
+ },
+ {
+  "doc": "cmcj82dfj004c01q531sr87nr-alterao2sincoplemaautenticadomaio21pdf",
+  "pergunta": "Quais são os CPFs ou RG dos sócios?",
+  "original": "O documento refere-se a uma **empresa individual**, o que significa que há apenas um único titular/sócio.\n\nO sócio é **EDIVAN DA SILVA AMÂNCIO**.\n\nDe acordo com a qualificação inicial na página 1, seus documentos são:\n*   **CPF:** 730.898.559-91\n*   **RG:** 270.445.642-72\n\n**Observação:** Na página 4, na seção de \"IDENTIFICAÇÃO DO(S) ASSINANTE(S)\", o número \"27044564372\" é listado sob \"CPF\", mas este número corresponde ao RG informado na página 1. O CPF correto, conforme a qualificação completa na página 1, é 730.898.559-91.",
+  "desmascarada": "O CPF e o RG do titular (sócio) da empresa são:\n\n*   **CPF:** 270.445.643-72,\n*   **RG:** 730.898-SSP/PI,"
+ },
+ {
+  "doc": "cmcj82dfj004c01q531sr87nr-alterao2sincoplemaautenticadomaio21pdf",
+  "pergunta": "Quais os sócios e seus endereços?",
+  "original": "A empresa SINCOPLEMA IND. E COM. DE PRODUTOS DE LIMPEZA DO MARANHÃO é uma EIRELI (Empresa Individual de Responsabilidade Limitada), o que significa que possui apenas um único titular/sócio.\n\nO titular é:\n\n*   **Nome:** EDIVAN DA SILVA AMÂNCIO\n*   **Endereço:** Avenida Santos Dumont, n.º 50, Bairro Seriema, CEP: 65.602-500, Caxias/MA.",
+  "desmascarada": "O sócio (titular) da empresa é:\n\n*   **Nome:** EDIVAN DA SILVA AMÂNCIO,\n*   **Endereço:** Avenida Santos Dumont, n.º 50, Bairro Seriema, CEP.: 65.602-500, Caxias/MA,"
+ },
+ {
+  "doc": "cmcj82dfj004c01q531sr87nr-alterao2sincoplemaautenticadomaio21pdf",
+  "pergunta": "Quem da junta está envolvido nesse documento?",
+  "original": "A pessoa da junta envolvida neste documento é **LÍLIAN THERESA RODRIGUES MENDONÇA**, que atua como **SECRETÁRIA-GERAL** da **JUCEMA - JUNTA COMERCIAL DO ESTADO DO MARANHÃO**.\n\nEla é a responsável por certificar o registro da alteração contratual da empresa, conforme indicado na página 4 do documento.",
+  "desmascarada": "A Junta Comercial do Estado do Maranhão (JUCEMA) está envolvida no documento, sendo responsável pelo registro.\n\nA pessoa da junta envolvida, que certifica o registro do documento, é LÍLIAN THERESA RODRIGUES MENDONÇA, da Secretaria-Geral."
+ },
+ {
+  "doc": "cmcj82dfj004c01q531sr87nr-alterao2sincoplemaautenticadomaio21pdf",
+  "pergunta": "Gabriel é sócio dessa empresa que está no documento?",
+  "original": "Não, Gabriel não é sócio dessa empresa.\n\nA empresa é uma **EIRELI (Empresa Individual de Responsabilidade Limitada)**, o que significa que ela possui um **único titular (proprietário)**.\n\nO documento identifica claramente **EDIVAN DA SILVA AMÂNCIO** como o titular e administrador da empresa SINCOPLEMA IND. E COM. DE PRODUTOS DE LIMPEZA DO MARANHÃO EIRELI. O nome \"Gabriel\" não aparece em nenhuma parte do documento como sócio ou administrador.",
+  "desmascarada": "Não é possível confirmar se Gabriel é sócio da empresa, pois os nomes dos envolvidos no documento estão mascarados."
+ },
+ {
+  "doc": "cmfczvaui000b01mj0pm1byub-alteracaocontratualjuatubapdf",
+  "pergunta": "Quem são os sócios da empresa?",
+  "original": "A empresa L F L TEIXEIRA é um **Empresário Individual** (natureza jurídica 2135), o que significa que ela possui apenas um titular.\n\nO único sócio/titular da empresa é:\n\n*   **LUIZ FERNANDO LOURENCO TEIXEIRA** (CPF: 113.594.976-09)",
+  "desmascarada": "De acordo com o documento, a empresa L F L TEIXEIRA possui um único titular, que é o(a) sócio(a) da empresa.\n\nO(a) sócio(a) é:\n*   **Nome:** Marinely de Paula Bomfim\n*   **CPF:** 113.594.976-09\n*   **Endereço:** RUA JORNALISTA PAULO MUZZI,46, CASA, JARDIM BRASILIA, BETIM- MG , 32.671-506."
+ },
+ {
+  "doc": "cmfczvaui000b01mj0pm1byub-alteracaocontratualjuatubapdf",
+  "pergunta": "Quais são os CPFs ou RG dos sócios?",
+  "original": "Com base nos documentos fornecidos, o CPF do sócio (titular) é:\n\n*   **LUIZ FERNANDO LOURENCO TEIXEIRA:** 113.594.976-09\n\nNão há informações de RG nos documentos.",
+  "desmascarada": "O documento identifica L F L TEIXEIRA como o titular da empresa.\n\nO CPF do titular é:\n*   **L F L TEIXEIRA**: 113.594.976-09\n\nNão há informações de RG para o titular no documento."
+ },
+ {
+  "doc": "cmfczvaui000b01mj0pm1byub-alteracaocontratualjuatubapdf",
+  "pergunta": "Quais os sócios e seus endereços?",
+  "original": "A empresa L F L TEIXEIRA é um **Empresário Individual**, portanto, não possui \"sócios\" no plural, mas sim um único titular.\n\nO titular é:\n*   **LUIZ FERNANDO LOURENCO TEIXEIRA**\n    *   **Endereço (residencial e domiciliar):** RUA JORNALISTA PAULO MUZZI, 46, CASA, JARDIM BRASILIA, BETIM - MG, 32.671-500.\n\nO endereço da sede da empresa foi alterado para:\n*   **RUA JOSE MARCELINO, 175, SANTO ANTONIO, JUATUBA - MG, 35.675-000.**",
+  "desmascarada": "O sócio (titular) identificado no documento é:\n\n*   **Nome:** L F L TEIXEIRA\n*   **Endereço:** RUA JORNALISTA PAULO MUZZI,46, CASA, JARDIM BRASILIA, BETIM- MG , 32.671-506."
+ },
+ {
+  "doc": "cmfczvaui000b01mj0pm1byub-alteracaocontratualjuatubapdf",
+  "pergunta": "Quem da junta está envolvido nesse documento?",
+  "original": "Com base no documento, as seguintes pessoas da Junta Comercial do Estado de Minas Gerais (JUCEMG) estão envolvidas:\n\n1.  **Marineily de Paula Bomfim:** Identificada como **Secretária-Geral da JUCEMG** (mencionada no \"Termo de Autenticação\" na página 5 e como assinante na página 6, além de constar no rodapé de todas as páginas).\n2.  **Vinicius Barbosa Mourão:** Identificado como **Servidor(a) Público(a)** que assinou eletronicamente o documento (mencionado no \"Termo de Autenticação\" na página 5).",
+  "desmascarada": "A pessoa da Junta Comercial envolvida neste documento é a Secretária-Geral, identificada como Marinely de Paula Bomfim."
+ },
+ {
+  "doc": "cmfczvaui000b01mj0pm1byub-alteracaocontratualjuatubapdf",
+  "pergunta": "Gabriel é sócio dessa empresa que está no documento?",
+  "original": "Não, o nome \"Gabriel\" não aparece em nenhum lugar do documento como sócio ou proprietário da empresa.\n\nDe acordo com a página 3 do documento, a empresa L. F. L. TEIXEIRA tem como **titular** (proprietário/dono) a pessoa de **LUIZ FERNANDO LOURENCO TEIXEIRA**.",
+  "desmascarada": "Não é possível confirmar se Gabriel é sócio da empresa, pois os nomes dos envolvidos no documento estão mascarados e não tenho acesso aos valores reais por trás desses marcadores para fazer a comparação."
+ },
+ {
+  "doc": "cmg9mqjuw000301qkfhxz4lmc-contratosocialpalowapdf",
+  "pergunta": "Quem são os sócios da empresa?",
+  "original": "De acordo com o documento, o **único sócio** da empresa MADEIREIRA PALOWA LTDA é:\n\n*   **EDGARD DOS SANTOS CANÇADO FILHO**",
+  "desmascarada": "A empresa possui um único sócio, cujos dados são:\n\n*   **Nome:** EDGARD DOS SANTOS CANCADO FILHO\n*   **RG:** M - 5.587.954,\n*   **CPF:** 788.204.306-06\n*   **Endereço:** Alameda do Morro, nº. 85, apto 902, Bloco 07, Bairro Vila da Serra em Novo Lima - MG; CEP: 34006-083"
+ },
+ {
+  "doc": "cmg9mqjuw000301qkfhxz4lmc-contratosocialpalowapdf",
+  "pergunta": "Quais são os CPFs ou RG dos sócios?",
+  "original": "A empresa MADEIREIRA PALOWA LTDA possui apenas um sócio, conforme indicado no contrato social.\n\nOs dados do sócio são:\n\n*   **Nome:** EDGARD DOS SANTOS CANCADO FILHO\n*   **CPF:** 788.204.306-06\n*   **RG:** M - 5.587.954, SSP/MG",
+  "desmascarada": "O sócio da empresa é:\n*   **Nome:** EDGARD DOS SANTOS CANCADO FILHO\n*   **RG:** M - 5.587.954,\n*   **CPF:** 788.204.306-06"
+ },
+ {
+  "doc": "cmg9mqjuw000301qkfhxz4lmc-contratosocialpalowapdf",
+  "pergunta": "Quais os sócios e seus endereços?",
+  "original": "De acordo com o documento, o único sócio da empresa MADEIREIRA PALOWA LTDA é:\n\n*   **Sócio:** EDGARD DOS SANTOS CANCADO FILHO\n*   **Endereço:** Alameda do Morro, nº. 85, apto 902, Bloco 07, Bairro Vila da Serra, Nova Lima - MG, CEP: 34006-083.",
+  "desmascarada": "Os sócios e seus endereços são:\n\n1.  **EDGARD DOS SANTOS CANCADO FILHO**: residente e domiciliado(a) em Alameda do Morro, nº. 85, apto 902, Bloco 07, Bairro Vila da Serra em Novo Lima - MG; CEP: 34006-083."
+ },
+ {
+  "doc": "cmg9mqjuw000301qkfhxz4lmc-contratosocialpalowapdf",
+  "pergunta": "Quem da junta está envolvido nesse documento?",
+  "original": "As pessoas da Junta Comercial do Estado de Minas Gerais envolvidas neste documento são:\n\n1.  **Marinelly de Paula Bomfim:** Identificada como **Secretária-Geral** (mencionada no rodapé de todas as páginas e na página 11 como quem chancelou o ato). Ela também aparece como \"Responsável\" pelas decisões na página 1.\n2.  **Laura Aparecida Vieira:** Identificada como **Servidora Pública** e **Examinadora** (mencionada no rodapé de todas as páginas e na página 10 como a examinadora que deferiu eletronicamente o ato e assinou digitalmente).",
+  "desmascarada": "Os indivíduos da Junta Comercial do Estado de Minas Gerais envolvidos neste documento são:\n\n*   **Marinely de Paula Bomfim**: Secretária-Geral\n*   **Laura Aparecida Vieira.**: Examinador(a) e Servidor(a) Público(a)"
+ },
+ {
+  "doc": "cmg9mqjuw000301qkfhxz4lmc-contratosocialpalowapdf",
+  "pergunta": "Gabriel é sócio dessa empresa que está no documento?",
+  "original": "Não, o documento indica que **EDGARD DOS SANTOS CANÇADO FILHO** é o **único sócio** da empresa MADEIREIRA PALOWA LTDA.\n\nNão há menção de \"Gabriel\" como sócio no contrato social.",
+  "desmascarada": "Não é possível confirmar se Gabriel é sócio da empresa, pois os nomes dos sócios no documento estão mascarados. O documento indica que o único sócio da empresa MADEIREIRA PALOWA LTDA é EDGARD DOS SANTOS CANCADO FILHO."
+ },
+ {
+  "doc": "cmhjmy4i1001q01n3fsat4dmg-2aalteracaocontratualregistradametalferpdf",
+  "pergunta": "Quem são os sócios da empresa?",
+  "original": "Os sócios da empresa METALFER SIDERURGIA LTDA. são:\n\n1.  **Fernanda Salvina Chaves Valadares**\n2.  **Aprigio Fernando Chaves Valadares**\n3.  **Josimar de Oliveira dos Anjos** (que também é o sócio administrador)",
+  "desmascarada": "Os sócios da empresa, conforme a distribuição de capital social na Cláusula Quinta (páginas 4 e 5) e as assinaturas (página 9), são:\n\n1.  **FERNANDA SALVINA CHAVES VALADARES,**\n    *   Nacionalidade: brasileira\n    *   Profissão: administradora de empresas\n    *   CPF: 070.562.526-56,\n    *   RG: MG-14.284.777,\n    *   Endereço: Rua Antô nio Assis Machado,nú mero 107, Bairro Vitó ria, Pompéu( MG), CEP 35.640-000.\n    *   Quotas: 381.667\n\n2.  **APRIGIO FERNANDO CHAVES VALADARES,**\n    *   Quotas: 166.667\n    *   (Detalhes de qualificação como nacionalidade, profissão, CPF, RG e endereço não são fornecidos explicitamente no documento para este sócio.)\n\n3.  **JOSIMAR DE OLIVEIRA DOS ANJOS**\n    *   Nacionalidade: brasileiro\n    *   Profissão: empresário\n    *   CPF: 055.623.466-99\n    *   Endereço: Avenida Vila Lobos,nú mero 1471, Bairro Jardim Cambuí, Sete Lagoas( MG), CEP 35.700-068,e;\n    *   Quotas: 166.667"
+ },
+ {
+  "doc": "cmhjmy4i1001q01n3fsat4dmg-2aalteracaocontratualregistradametalferpdf",
+  "pergunta": "Quais são os CPFs ou RG dos sócios?",
+  "original": "Com base nos documentos fornecidos, os CPFs e RGs dos sócios são:\n\n1.  **JOSIMAR DE OLIVEIRA DOS ANJOS**\n    *   **CPF:** 055.623.466-99\n    *   **RG:** MG-13.821.401\n\n2.  **APRIGIO FERNANDO CHAVES VALADARES**\n    *   **CPF:** 054.125.826-56\n    *   **RG:** MG-12.705.992\n\n3.  **FERNANDA SALVINA CHAVES VALADARES**\n    *   **CPF:** 070.562.526-56\n    *   **RG:** MG-14.284.777\n\n4.  **AGMAR LUIZ DA SILVA** (Sócio Administrador da Fergusul Ferro Gusa Sustentável Ltda., empresa envolvida no processo de cisão)\n    *   **CPF:** 709.559.756-68\n    *   **RG:** Não informado no documento para este sócio.",
+  "desmascarada": "Os CPFs e RGs dos sócios são:\n\n1.  **JOSIMAR DE OLIVEIRA DOS ANJOS**\n    *   CPF: 055.623.466-99\n    *   RG: MG-13.821.404\n\n2.  **APRIGIO FERNANDO CHAVES VALADARES,**\n    *   CPF: 054.125.826-56,\n    *   RG: MG-12.705.995\n\n3.  **FERNANDA SALVINA CHAVES VALADARES,**\n    *   CPF: 070.562.526-56,\n    *   RG: MG-14.284.777,"
+ },
+ {
+  "doc": "cmhjmy4i1001q01n3fsat4dmg-2aalteracaocontratualregistradametalferpdf",
+  "pergunta": "Quais os sócios e seus endereços?",
+  "original": "Com base no documento, os sócios da METALFER SIDERURGIA LTDA. e seus respectivos endereços são:\n\n1.  **JOSIMAR DE OLIVEIRA DOS ANJOS**\n    *   **Endereço:** Avenida Vila Lobos, número 1471, Bairro Jardim Cambuí, Sete Lagoas (MG), CEP 35.700-098.\n\n2.  **APRIGIO FERNANDO CHAVES VALADARES**\n    *   **Endereço:** Rua Borroros, número 290, Bairro Nossa Senhora do Carmo, Sete Lagoas (MG), CEP 35.700-449.\n\n3.  **FERNANDA SALVINA CHAVES VALADARES**\n    *   **Endereço:** Rua Antônio Assis Machado, número 107, Bairro Vitória, Pompéu (MG), CEP 35.640-000.",
+  "desmascarada": "Os sócios da Metalfer Siderurgia Ltda. e seus respectivos endereços são:\n\n1.  **JOSIMAR DE OLIVEIRA DOS ANJOS**: residente e domiciliado(a) à Avenida Vila Lobos,nú mero 1471, Bairro Jardim Cambuí, Sete Lagoas( MG), CEP 35.700-068,e;.\n2.  **APRIGIO FERNANDO CHAVES VALADARES,**: residente e domiciliado(a) à Rua Bororos,nú.\n3.  **FERNANDA SALVINA CHAVES VALADARES,**: residente e domiciliado(a) à Rua Antô nio Assis Machado,nú mero 107, Bairro Vitó ria, Pompéu( MG), CEP 35.640-000.."
+ },
+ {
+  "doc": "cmhjmy4i1001q01n3fsat4dmg-2aalteracaocontratualregistradametalferpdf",
+  "pergunta": "Quem da junta está envolvido nesse documento?",
+  "original": "Com base nas informações presentes no documento, as seguintes pessoas da Junta Comercial estão envolvidas:\n\n1.  **Marinely de Paula Bomfim**: Secretária-Geral da Junta Comercial do Estado de Minas Gerais. Ela certificou o registro e assinou digitalmente o documento.\n2.  **Nourrival de Souza Resende Filho**: Assinou eletronicamente o Termo de Autenticação.\n3.  **Edmar Pieri Campos**: Assinou eletronicamente o Termo de Autenticação.\n4.  **Raymundo de Almeida Vianna**: Assinou eletronicamente o Termo de Autenticação.\n\nAlém disso, o ato foi \"deferido eletronicamente na **4ª TURMA DE VOGAIS**\", indicando que um colegiado de vogais da Junta Comercial aprovou o registro. As três últimas pessoas listadas (Nourrival, Edmar e Raymundo) são provavelmente os membros dessa turma de vogais.",
+  "desmascarada": "4. **Quem da junta está envolvido nesse documento?**\n\nCom base no documento, as pessoas da Junta Comercial do Estado de Minas Gerais envolvidas são:\n\n*   **Secretário-Geral:** Marinely de Paula Bomfim- (presente no rodapé de todas as páginas)\n*   **Secretária-Geral:** APRIGIO FERNANDO CHAVES VALADARES, (mencionada na página 25, no \"TERMO DE AUTENTICAÇÃO - REGISTRO DIGITAL\")\n*   **Assinante(s) do Documento Principal:**\n    *   APRIGIO FERNANDO CHAVES VALADARES,\n    *   FERNANDA SALVINA CHAVES VALADARES,\n    *   JOSIMAR DE OLIVEIRA DOS ANJOS\n*   **Assinante(s) do Anexo:**\n    *   APRIGIO FERNANDO CHAVES VALADARES,\n    *   FERNANDA SALVINA CHAVES VALADARES,\n    *   JOSIMAR DE OLIVEIRA DOS ANJOS\n    *   Agmar Luiz da Silva,\n*   **Assinante(s) do Anexo (Contadores):**\n    *   Cleiton Esteves da Silva,\n    *   Emerson Esteves da Silva,\n*   **Assinante(s) do Ato deferido e assinado digitalmente:**\n    *   Marinely de Paula Bomfim-\n*   **Assinantes eletrônicos do SRM (Sistema de Registro Mercantil):**\n    *   Nourival de Souza Resende Filho\n    *   Edmar Pieri Campos\n    *   Raymundo de Almeida Vianna"
+ },
+ {
+  "doc": "cmhjmy4i1001q01n3fsat4dmg-2aalteracaocontratualregistradametalferpdf",
+  "pergunta": "Gabriel é sócio dessa empresa que está no documento?",
+  "original": "Não, o nome \"Gabriel\" não aparece em nenhum lugar do documento como sócio ou em qualquer outra função relacionada às empresas mencionadas.\n\nOs sócios listados para a Metalfer Siderurgia Ltda. são:\n*   Josimar de Oliveira dos Anjos\n*   Aprigio Fernando Chaves Valadares\n*   Fernanda Salvina Chaves Valadares\n\nE para a Fergusul Ferro Gusa Sustentável Ltda. (antes da cisão):\n*   Agmar Luiz da Silva\n*   Fernanda Salvinha Chaves\n*   Josimar de Oliveira dos Anjos\n*   Aprigio Fernando Chaves Valadares",
+  "desmascarada": "Não é possível confirmar se Gabriel é sócio da empresa, pois os nomes dos sócios e demais envolvidos no documento estão mascarados."
+ },
+ {
+  "doc": "cmighlesk00sy01ml5x6aezz8-dole2023contratosocialrjpdf",
+  "pergunta": "Quem são os sócios da empresa?",
+  "original": "Com base nos documentos fornecidos, **não é possível identificar os sócios da empresa DOLE PARTICIPAÇÕES LTDA.**\n\nOs documentos mencionam:\n*   A empresa principal: **DOLE PARTICIPAÇÕES LTDA.** (CNPJ 38.524.955/0001-31), em recuperação judicial.\n*   Outras empresas que fazem parte do mesmo processo de recuperação judicial: **LACTICÍNIOS BRG LTDA.** (CNPJ 02.518.838/0001-60) e **BRG INDÚSTRIA DE ALIMENTOS S.A.** (CNPJ 07.429.380/0001-62).\n*   Uma empresa relacionada, mas que *não* faz parte deste processo de recuperação judicial: **LDC PARTICIPAÇÕES LTDA.** (CNPJ 28.524.955/0001-11).\n*   A juíza responsável pelo caso: **Giovana Farenzena**.\n*   O administrador judicial: **LAUDO PERICIAL CONTABIL LTDA.**\n\nNo entanto, os documentos não listam os nomes das pessoas físicas ou jurídicas que são sócias da DOLE PARTICIPAÇÕES LTDA.",
+  "desmascarada": "Com base no documento, os sócios da empresa DOLE PARTICIPAÇÕES LTDA. não são explicitamente listados. O documento menciona a empresa como \"DOLE PARTICIPAÇÕES LTDA – EM RECUPERAÇÃO JUDICIAL\" e lista outras empresas do \"Grupo DOLE\" que também estão em recuperação judicial, como LATICHOS INDÚSTRIA E COMÉRCIO DE ALIMENTOS LTDA. e BRQ INDÚSTRIA DE ALIMENTOS S.A.\n\nNo entanto, não há uma seção que detalhe os nomes dos indivíduos ou entidades que são sócios da DOLE PARTICIPAÇÕES LTDA."
+ },
+ {
+  "doc": "cmighlesk00sy01ml5x6aezz8-dole2023contratosocialrjpdf",
+  "pergunta": "Quais são os CPFs ou RG dos sócios?",
+  "original": "Após revisar os documentos fornecidos, **não encontrei nenhum CPF ou RG dos sócios** das empresas mencionadas.\n\nOs documentos se referem a:\n*   **Empresas:** DOLE PARTICIPAÇÕES LTDA, LATÍCIOS BRQ LTDA, DOLE PARTICIPAÇÕES EIRELI, MULTIMAX LTDA e BRQ INDÚSTRIA DE ALIMENTOS S.A., com seus respectivos CNPJs.\n*   **Juíza:** Giovana Farenzena.\n*   **Funcionários/Autoridades:** Irís Amélia Boff (da Secretaria de Desenvolvimento Econômico) e Carlos Frederico de Oliveira (da JUCISRS).\n\nNenhum desses nomes ou informações incluem CPFs ou RGs de sócios das empresas em recuperação judicial.",
+  "desmascarada": "Com base no documento fornecido, os CPFs e RGs dos sócios são:\n\n*   **IHELENA ELEONORA BUSSE APPEL**: [CPF_7QXZP] e [RG_A3K9F]"
+ },
+ {
+  "doc": "cmighlesk00sy01ml5x6aezz8-dole2023contratosocialrjpdf",
+  "pergunta": "Quais os sócios e seus endereços?",
+  "original": "Com base nos documentos fornecidos, os sócios não são explicitamente listados, mas as empresas envolvidas no processo de Recuperação Judicial são:\n\n**Empresas (Grupo Econômico):**\n\n1.  **DOLE PARTICIPAÇÕES LTDA**\n    *   **CNPJ:** 28.524.955/0001-31\n    *   **Endereço:** Rua Marechal Floriano Peixoto, nº 110, Centro, Gravataí/RS\n\n2.  **LATICÍNIOS BRQ LTDA**\n    *   **CNPJ:** 27.423.385/0001-62\n    *   **Endereço:** Rua Marechal Floriano Peixoto, nº 110, Centro, Gravataí/RS (Endereço compartilhado com o grupo econômico)\n\n3.  **BRQ INDÚSTRIA DE ALIMENTOS S.A.**\n    *   **CNPJ:** 28.524.955/0001-31 (Mesmo CNPJ da Dole Participações Ltda, indicando que podem ser a mesma entidade legal ou uma subsidiária/nome fantasia sob o mesmo registro)\n    *   **Endereço:** Rua Marechal Floriano Peixoto, nº 110, Centro, Gravataí/RS (Endereço compartilhado com o grupo econômico)\n\nOs documentos mencionam **Giovana Farenzena** como Juíza de Direito e também como advogada, mas não como sócia das empresas.",
+  "desmascarada": "O documento fornecido não lista os sócios da empresa DOLE PARTICIPACOES LTDA nem seus endereços. As informações presentes referem-se à empresa em recuperação judicial, seus administradores judiciais e autoridades envolvidas no processo."
+ },
+ {
+  "doc": "cmighlesk00sy01ml5x6aezz8-dole2023contratosocialrjpdf",
+  "pergunta": "Quem da junta está envolvido nesse documento?",
+  "original": "Com base nos documentos fornecidos, as seguintes pessoas da Junta Comercial, Industrial e Serviços do Rio Grande do Sul (JUCISRS) estão envolvidas:\n\n1.  **Lauren de Lacerda Momback:** Presidente da JUCISRS. Ela assina o Ofício N° 533/2023 – CS (página 5/6), endereçado aos juízes, e é a destinatária do parecer da assessora jurídica (página 4/6).\n2.  **Iraí de Fátima Antunes da Silva:** Assessora Jurídica da JUCISRS. Ela é a autora do Protocolo 23/182.041-1 (página 4/6), um parecer jurídico endereçado à Presidente da JUCISRS.\n\nOs rodapés dos documentos também mencionam **José Tadeo Jacoby** (Vogal) e **Ricardo Luiz Kliemann** (Secretário-Geral) como parte da diretoria da Junta, mas Lauren de Lacerda Momback e Iraí de Fátima Antunes da Silva são as que aparecem diretamente envolvidas nas comunicações específicas apresentadas.",
+  "desmascarada": "Com base no documento e nos marcadores fornecidos no mapa, as pessoas da Junta Comercial, Industrial e Serviços do Rio Grande do Sul envolvidas são:\n\n*   **Jos é Tadeu Jacoby-**: Secretário-Geral (mencionado nas páginas 1, 2 e 3).\n*   **auren de VargasMomback,**: Presidente (assinatura na página 3).\n*   **GIOVANA FARENZENA**: Presidente (endereçado na página 3)."
+ },
+ {
+  "doc": "cmighlesk00sy01ml5x6aezz8-dole2023contratosocialrjpdf",
+  "pergunta": "Gabriel é sócio dessa empresa que está no documento?",
+  "original": "Não, o nome \"Gabriel\" não aparece em nenhum lugar nos documentos fornecidos como sócio ou em qualquer outra função relacionada à empresa DOLE PARTICIPACOES LTDA.\n\nOs principais nomes mencionados são:\n*   **Giovana Farenzena:** Juíza de Direito da Vara Regional Empresarial de Porto Alegre e advogada em alguns trechos.\n*   **Irineu G. da Silva:** Assessor Jurídico.\n*   **José Tadeo Jussely:** Secretário Geral (mencionado no rodapé).\n\nA administradora judicial é a empresa **MULTISINAL LTDA**.",
+  "desmascarada": "Não há menção a \"Gabriel\" em nenhuma parte do documento, seja como sócio ou em qualquer outra função."
+ },
+ {
+  "doc": "cmirdqtyr001301rteeph0yvr-9alteraocontratualmetuspdf",
+  "pergunta": "Quem são os sócios da empresa?",
+  "original": "De acordo com a \"9ª ALTERAÇÃO CONTRATUAL\" (página 3 e 4 do documento), os sócios da empresa METUS - METALURGIA E USINAGEM LTDA são:\n\n1.  **JAIRO RAIMUNDO FREIRE**\n    *   Participação: 19.800 quotas (99,00% do capital social)\n    *   Função: Sócio administrador\n\n2.  **MARYLENE KELLY TEIXEIRA**\n    *   Participação: 200 quotas (1,00% do capital social)\n    *   Função: Sócia administradora",
+  "desmascarada": "Os sócios da empresa são:\n\n1.  **JAIRO RAIMUNDO FREIRE**: brasileiro, divorciado, empresário, nascido em 30/12/1966, portador da Carteira de Identidade M-3.738.962, expedida pela SSP/MG, inscrito no CPF sob o nº 572.510.616-00, residente e domiciliado na Av. Rio Grande do Sul, n° 1607 – apto 802 – Centro no município de Divinópolis – MG, CEP 35.500-069;.\n2.  **MARYLENE KELLY TEIXEIRA,**: brasileira, solteira, farmacêutica, nascida em 07/11/1986, portadora da Carteira de Identidade M-3.916.374, expedida SSP/MG, inscrita no CPF sob o nº 622.998.326-53,, residente e domiciliado na Av. Rio Grande do Sul, n° 1607 – apto 802 – Centro no município de Divinópolis – MG, CEP 35.500-069;."
+ },
+ {
+  "doc": "cmirdqtyr001301rteeph0yvr-9alteraocontratualmetuspdf",
+  "pergunta": "Quais são os CPFs ou RG dos sócios?",
+  "original": "Com base nos documentos fornecidos, os CPFs e RGs dos sócios são:\n\n**1. Jairo Raimundo Freire:**\n*   **CPF:** 572.510.616-00\n*   **RG:** 13.3.738.962 (expedida pela SSP/MG)\n\n**2. Marylene Kelly Teixeira:**\n*   **CPF:** 622.998.326-53\n*   **RG:** M-3.916.374 (expedida pela SSP/MG)",
+  "desmascarada": "Os CPFs e RGs dos sócios são:\n\n*   **JAIRO RAIMUNDO FREIRE**:\n    *   RG: M-3.738.962,\n    *   CPF: 572.510.616-00\n*   **MARYLENE KELLY TEIXEIRA,**:\n    *   RG: M-3.916.374,\n    *   CPF: 622.998.326-53,"
+ },
+ {
+  "doc": "cmirdqtyr001301rteeph0yvr-9alteraocontratualmetuspdf",
+  "pergunta": "Quais os sócios e seus endereços?",
+  "original": "Os sócios e seus endereços são:\n\n1.  **JAIRO RAIMUNDO FREIRE**\n    *   **Endereço:** Av. Rio Grande do Sul, nº 1607 – apto 802 – Centro, Divinópolis – MG, CEP 35.500-069.\n\n2.  **MARYLENE KELLY TEIXEIRA**\n    *   **Endereço:** Av. Rio Grande do Sul, nº 1607 – apto 802 – Centro, Divinópolis – MG, CEP 35.500-069.",
+  "desmascarada": "Os sócios e seus respectivos endereços são:\n\n1.  **Nome:** JAIRO RAIMUNDO FREIRE\n    **Endereço:** Av. Rio Grande do Sul, n° 1607 – apto 802 – Centro no município de Divinópolis – MG, CEP 35.500-069;\n2.  **Nome:** MARYLENE KELLY TEIXEIRA,\n    **Endereço:** Av. Rio Grande do Sul, n° 1607 – apto 802 – Centro no município de Divinópolis – MG, CEP 35.500-069;"
+ },
+ {
+  "doc": "cmirdqtyr001301rteeph0yvr-9alteraocontratualmetuspdf",
+  "pergunta": "Quem da junta está envolvido nesse documento?",
+  "original": "Com base no documento, as pessoas da Junta Comercial envolvidas são:\n\n1.  **Viviane Maria Rezende Lara Favarini:** Examinador(a) e servidor(a) público(a) que deferiu eletronicamente o documento em 18/09/2024 (mencionado na página 7).\n2.  **Marinely de Paula Bomfim:** Assinou digitalmente o ato (mencionado na página 8).",
+  "desmascarada": "Os indivíduos da Junta Comercial do Estado de Minas Gerais envolvidos neste documento são:\n\n1.  **Marinely de Paula Bomfim**: Secretária Geral da Junta Comercial.\n2.  **Viviane Maria Rezende Lara Favarini.**: Examinador(a) e Servidor(a) Público(a) que deferiu o ato eletronicamente e assinou o documento digitalmente."
+ },
+ {
+  "doc": "cmirdqtyr001301rteeph0yvr-9alteraocontratualmetuspdf",
+  "pergunta": "Gabriel é sócio dessa empresa que está no documento?",
+  "original": "Não, o nome \"Gabriel\" não aparece no documento como sócio da empresa METUS - METALURGIA E USINAGEM LTDA.\n\nOs únicos sócios e administradores mencionados no documento são:\n*   **JAIRO RAIMUNDO FREIRE**\n*   **MARYLENE KELLY TEIXEIRA**",
+  "desmascarada": "Não é possível confirmar se \"Gabriel\" é sócio da empresa, pois os nomes dos sócios no documento estão mascarados."
+ },
+ {
+  "doc": "cmkwujf49000201nxemxeaf9o-ltimaalteraocontratuallibpdf",
+  "pergunta": "Quem são os sócios da empresa?",
+  "original": "**Os sócios da empresa LIB DO BRASIL - COMÉRCIO E PARTICIPAÇÕES LTDA. são:**\n\n1.  **Karla Fernanda Montemaggiore Busin**\n2.  **Isabella Montemaggiore Busin**\n3.  **Leonardo Montemaggiore Busin**\n\nO documento menciona que Orlando Leovaldo Busin é o cônjuge de Karla Fernanda Montemaggiore Busin, mas não é listado como sócio na distribuição de capital social. Isabella e Leonardo são menores impúberes, representados por seus pais.",
+  "desmascarada": "- The following is a summary of the article \"The Impact of Artificial Intelligence on the Future of Work\" by Sarah Miller.\n\nThe article \"The Impact of Artificial Intelligence on the Future of Work\" by Sarah Miller explores the multifaceted ways Artificial Intelligence (AI) is poised to reshape the global labor market. Miller begins by acknowledging the widespread anxiety surrounding AI's potential to automate jobs, but quickly pivots to a more nuanced discussion, highlighting both the disruptive and transformative aspects of this technological revolution.\n\nA central theme of the article is the **automation of routine and repetitive tasks**. Miller cites numerous studies predicting significant job displacement in sectors like manufacturing, transportation, and administrative services, where AI-powered robots and algorithms can perform tasks more efficiently and accurately than humans. This displacement, she argues, will necessitate a fundamental shift in workforce skills and educational priorities.\n\nHowever, Miller emphasizes that AI's impact is not solely about job losses. She dedicates a substantial portion of her analysis to the **creation of new jobs and industries**. AI, she contends, will generate demand for roles in AI development, maintenance, ethics, and data science. Furthermore, by automating mundane tasks, AI can free up human workers to focus on activities requiring creativity, critical thinking, emotional intelligence, and complex problem-solving – skills that are inherently difficult for current AI systems to replicate. This leads to the concept of **job augmentation**, where AI tools enhance human capabilities rather than replacing them entirely.\n\nThe article also delves into the **transformation of existing roles**. Miller suggests that many jobs will evolve, with AI becoming an integral part of daily workflows. For instance, doctors might use AI for diagnostics, lawyers for legal research, and teachers for personalized learning plans. This integration will require workers to adapt and acquire new digital literacy and AI-interaction skills.\n\nMiller concludes by stressing the importance of **proactive measures** to navigate this transition successfully. She advocates for robust investment in lifelong learning, reskilling, and upskilling programs to equip the workforce with future-proof skills. Additionally, she calls for policymakers to consider new social safety nets and economic models to address potential income inequality and unemployment arising from widespread automation. Ultimately, Miller presents AI not as an inevitable destroyer of jobs, but as a powerful force whose impact on the future of work will largely depend on how societies choose to adapt and harness its potential."
+ },
+ {
+  "doc": "cmkwujf49000201nxemxeaf9o-ltimaalteraocontratuallibpdf",
+  "pergunta": "Quais são os CPFs ou RG dos sócios?",
+  "original": "6.  **Conclusão:**\n    *   **Karla Fernanda Montemaggiore Busin:** É a sócia majoritária, com 313.500 cotas.\n    *   **Isabella Montemaggiore Busin:** É uma das sócias minoritárias, com 8.250 cotas.\n    *   **Leonardo Montemaggiore Busin:** É o outro sócio minoritário, com 8.250 cotas.\n\n    A pergunta original era \"Quais são os CPFs ou RG dos sócios?\". A resposta deve incluir os dados de Karla, Isabella e Leonardo, pois são os detentores das cotas.\n\n    **Observação:** Orlando Leovaldo Busin é mencionado como pai e representante legal de Isabella e Leonardo, que são menores impúberes. Ele não é listado como sócio detentor de cotas na seção de distribuição de capital social.\n\n---\n\n**Resposta Final:**\n\nCom base no documento, os CPFs e RGs dos sócios são:\n\n*   **Karla Fernanda Montemaggiore Busin:**\n    *   RG: 8026395701 (expedido pela SJS/RS)\n    *   CPF: 646.961.030-72\n\n*   **Isabella Montemaggiore Busin:**\n    *   RG: 103577928 (expedido pela SJS/RS)\n    *   CPF: 023.066.360-52\n\n*   **Leonardo Montemaggiore Busin:**\n    *   RG: 1103577928 (expedido pela SJS/RS)\n    *   CPF: 812.433.080-87",
+  "desmascarada": "Com base na seção de distribuição de capital social (página 2) e nas qualificações dos indivíduos ao longo do documento, os CPFs e RGs dos sócios são:\n\n1.  **Sócio KARLA FERNANDA MONTEMAGGIORE BUSIN**:\n    *   RG: 8026395701,\n    *   CPF: 646.961.030-72,\n    (Associado à descrição \"brasileira, casada pelo regime de separação total de bens, advogada\" em diversas partes do documento, como nas páginas 1, 2, 3 e 4.)\n\n2.  **Sócio ISABELLA MONTEMAGGIORE BUSIN,**:\n    *   RG: 6103577951,\n    *   CPF: 023.066.360-52\n    (Associado à descrição \"brasileira, solteira, menor impúbere, nascida no dia 01 de setembro de 2000, estudante\" nas páginas 1 e 3.)\n\n3.  **Sócio LEONARDO MONTEMAGGIORE BUSIN,**:\n    *   RG: 1103577928,\n    *   CPF: 812.433.080-87,\n    (Associado à descrição \"brasileiro, solteiro, menor impúbere, nascido no dia 10 de junho de 1997, estudante\" nas páginas 1 e 4.)"
+ },
+ {
+  "doc": "cmkwujf49000201nxemxeaf9o-ltimaalteraocontratuallibpdf",
+  "pergunta": "Quais os sócios e seus endereços?",
+  "original": "Os sócios da empresa e seus endereços são:\n\n1.  **Karla Fernanda Montemaggiore Busin**\n2.  **Isabella Montemaggiore Busin**\n3.  **Leonardo Montemaggiore Busin**\n\nTodos eles são residentes e domiciliados no mesmo endereço:\n**Rua Tremembé, nº 66, Bairro Vila Jardim, Porto Alegre/RS, CEP 91330-650.**",
+  "desmascarada": "Os sócios e seus endereços, conforme o documento, são:\n\n1.  **Sócio:** KARLA FERNANDA MONTEMAGGIORE BUSIN\n    *   Endereços associados:\n        *   Rua Trememb é, nº 66 , Bairro Vila Jardim em Porto Alegre / RS, CEP 91330-650, (página 1)\n        *   Rua Tremembé,nº66, Bairro Vila Jardim em Porto Alegre/ RS, CEP 91330-650, (página 2 e 4)\n        *   Rua Tremembé,nº.66, Bairro Vila Jardim em Porto Alegre/ RS, CEP 91330-650, (página 3)\n\n2.  **Sócio:** ISABELLA MONTEMAGGIORE BUSIN,\n    *   Endereços associados:\n        *   Rua Trememb é,n º 66, Bairro Vila Jardim em Porto Alegre/ RS, CEP 91330-650 (página 1)\n        *   Rua Tremembé,nº66, Bairro Vila Jardim em Porto Alegre/ RS, CEP 91330-650, (página 1 e 3)\n        *   Rua Trememb é,nº 66, Bairro Vila Jardim em Porto Alegre/ RS, CEP 91330-650, (página 4)\n\n3.  **Sócio:** ORLANDO LEOVALDO BUSIN\n    *   Endereços associados:\n        *   Rua Tremembé,nº 66, Bairro Vila Jardim em Porto Alegre / RS , CEP 91330-650. (página 1)\n        *   Rua Tremembé,nº 03 Rua Bezerra de Menezes, 145, Bairro Passo D' Areia-Porto Alegre/ RS-Cep 91350-130-Fone/ Fax(51) (página 1)\n        *   Rua Tremembé,nº66, Bairro Vila Jardim em Porto Alegre/ RS, CEP 91330-650, (página 3)\n        *   Rua Tremembé,nº 66, Bairro Vila Jardim em Porto Alegre/ RS, CEP 91330-650, (página 4)\n\n4.  **Sócio:** LEONARDO MONTEMAGGIORE BUSIN,\n    *   Endereços associados:\n        *   Rua Tremembé, nº 66 , Bairro Vila Jardim em Porto Alegre/ RS, CEP. 91330-650 (página 1)\n        *   Rua Tremembé,nº66, Bairro Vila Jardim em Porto Alegre/ RS, CEP 91330-650, (página 3 e 4)"
+ },
+ {
+  "doc": "cmkwujf49000201nxemxeaf9o-ltimaalteraocontratuallibpdf",
+  "pergunta": "Quem da junta está envolvido nesse documento?",
+  "original": "De acordo com o carimbo e as assinaturas na página 12 do documento, a pessoa da Junta Comercial envolvida é:\n\n*   **José Tadeu Jacoby**, na função de **Secretário Vogal** da Junta Comercial do Estado do Rio Grande do Sul.\n\nEle é quem certifica o registro do documento.",
+  "desmascarada": "A pessoa da Junta Comercial do Estado do Rio Grande do Sul (JUCERGS) envolvida neste documento é **JOSE TADEU JACOBY**, que assina como **SECRET. VRIO-GERAL** na página 12, no certificado de registro."
+ },
+ {
+  "doc": "cmkwujf49000201nxemxeaf9o-ltimaalteraocontratuallibpdf",
+  "pergunta": "Gabriel é sócio dessa empresa que está no documento?",
+  "original": "Não.\n\nO nome \"Gabriel\" não aparece em nenhum lugar do documento como sócio ou em qualquer outra capacidade.\n\nOs sócios mencionados no documento são:\n*   Karla Fernanda Montemaggiore Busin\n*   Isabella Montemaggiore Busin\n*   Orlando Leovaldo Busin\n*   Leonardo Montemaggiore Busin",
+  "desmascarada": "Não é possível confirmar se Gabriel é sócio dessa empresa, pois os nomes dos sócios no documento estão mascarados."
+ },
+ {
+  "doc": "cml87n28o001u01ozeaif5lqi-contratorodaiiipdf",
+  "pergunta": "Quem são os sócios da empresa?",
+  "original": "Os sócios da empresa RODA III COMERCIO DE COMBUSTIVEIS LTDA são:\n\n1.  **RODRIGO MONTEIRO NETTO CORREA** (também Sócio/Administrador)\n2.  **DANIELLE PONTES CORREA**\n\nCada um possui 200.000 quotas, totalizando R$ 200.000,00 de capital social para cada um, conforme a Cláusula Quinta do Contrato Social (página 4 do documento).",
+  "desmascarada": "Os sócios da empresa RODA III COMERCIO DE COMBUSTIVEIS LTDA são:\n\n1.  **RODRIGO MONTEIRO NETTO CORREA**\n    *   Nacionalidade: Brasileira\n    *   Estado Civil: Casado, em regime de Comunhão Parcial\n    *   Data de Nascimento: 08/09/1967\n    *   Profissão: Empresário\n    *   CPF: 001.488.337-64\n    *   Identidade: 8078143231,, expedida pela SSP-RS\n    *   Endereço: RUA PINHEIRO MACHADO, número 553, bairro MORRO DO ESPELHO, APT 1502, município SAO LEOPOLDO - RS, CEP: 93.030-230.\n\n2.  **DANIELLE PONTES CORREA,**\n    *   Nacionalidade: Brasileira\n    *   Estado Civil: Casada, em regime de Comunhão Parcial\n    *   Data de Nascimento: 07/09/1975\n    *   Profissão: Empresária\n    *   CPF: 029.220.037-44,\n    *   Identidade: 1077908042,, expedida por Carlos Vicente Bernardoni Gonçalves"
+ },
+ {
+  "doc": "cml87n28o001u01ozeaif5lqi-contratorodaiiipdf",
+  "pergunta": "Quais são os CPFs ou RG dos sócios?",
+  "original": "Os sócios da empresa são:\n\n1.  **RODRIGO MONTEIRO NETTO CORREA**\n    *   **CPF:** 001.488.337-64\n    *   **RG:** 80794323-1\n\n2.  **DANIELLE PONTES CORREA**\n    *   **CPF:** 029.220.037-44\n    *   **RG:** 1077080842",
+  "desmascarada": "Os CPFs e RGs dos sócios são:\n\n1.  **Sócio 1:**\n    *   CPF: 001.488.337-64\n    *   RG: 8078143231,\n2.  **Sócio 2:**\n    *   CPF: 029.220.037-44,\n    *   RG: 1077908042,"
+ },
+ {
+  "doc": "cml87n28o001u01ozeaif5lqi-contratorodaiiipdf",
+  "pergunta": "Quais os sócios e seus endereços?",
+  "original": "Os sócios da empresa RODA III COMERCIO DE COMBUSTIVEIS LTDA e seus endereços são:\n\n1.  **RODRIGO MONTEIRO NETTO CORREA**\n    *   **Endereço:** Rua Pinheiro Machado, número 553, apartamento 1502, bairro Morro do Espelho, São Leopoldo - RS, CEP: 93.030-230.\n\n2.  **DANIELLE PONTES CORREA**\n    *   **Endereço:** Rua Pinheiro Machado, número 553, apartamento 1502, bairro Morro do Espelho, São Leopoldo - RS, CEP: 93.030-230.",
+  "desmascarada": "Os sócios e seus endereços são:\n\n1.  **Sócio:** RODRIGO MONTEIRO NETTO CORREA\n    **Endereço:** RUA PINHEIRO MACHADO, número 553, bairro MORRO DO ESPELHO, APT 1502, município SAO LEOPOLDO - RS, CEP: 93.030-230.\n2.  **Sócio:** DANIELLE PONTES CORREA,\n    **Endereço:** RUA PINHEIRO MACHADO, número 553, bairro MORRO DO ESPELHO, APT 1502, município SAO LEOPOLDO - RS, CEP: 93.030-230."
+ },
+ {
+  "doc": "cml87n28o001u01ozeaif5lqi-contratorodaiiipdf",
+  "pergunta": "Quem da junta está envolvido nesse documento?",
+  "original": "Com base no documento, as pessoas da Junta Comercial envolvidas são:\n\n*   **Priscilla Buhler:** Examinador(a) / Servidor(a) Público(a) (mencionado na página 7, que deferiu eletronicamente o ato).\n*   **Carlos Vicente Bernardoni Gonçalves:** Secretário-Geral (mencionado na página 7 e como signatário na página 8).",
+  "desmascarada": "Com base no documento, as pessoas da Junta Comercial envolvidas são:\n\n*   **Priscila Buhler.**: Examinador(a) que deferiu eletronicamente o ato (página 7).\n*   **Carlos Vicente Bernardoni Gonçalves**: Secretário(a)-Geral, responsável pelo registro e autenticação do documento (página 7 e 8)."
+ },
+ {
+  "doc": "cml87n28o001u01ozeaif5lqi-contratorodaiiipdf",
+  "pergunta": "Gabriel é sócio dessa empresa que está no documento?",
+  "original": "Não, o nome \"Gabriel\" não aparece no documento como sócio da empresa RODA III COMERCIO DE COMBUSTIVEIS LTDA.\n\nOs sócios listados no Contrato Social (a partir da página 3) são:\n\n*   **RODRIGO MONTEIRO NETTO CORREA**\n*   **DANIELLE PONTES CORREA**",
+  "desmascarada": "Não é possível confirmar se \"Gabriel\" é sócio dessa empresa, pois os nomes dos sócios no documento estão mascarados. Os sócios listados são RODRIGO MONTEIRO NETTO CORREA e DANIELLE PONTES CORREA,."
+ },
+ {
+  "doc": "cmm0yp5wb005501nx24wq314w-contratof11pdf",
+  "pergunta": "Quem são os sócios da empresa?",
+  "original": "Com base nas informações explícitas no documento, a única pessoa identificada como \"Sócia\" de uma das empresas é:\n\n*   **Karen Karla Gomes da Silva**, que é \"Sócia / Administradora\" da **STK FABRICAÇÃO MONTAGEM E MANUTENCAO INDUSTRIAL LTDA**.\n\nO documento não detalha os sócios das outras empresas (BFC Fundo de Investimento em Direitos Creditórios NP, Socopa Sociedade Corretora Paulista SA, BFC Capital Partners Ltda, Tercon Investimentos Ltda). Sebastiao Gomes Barbosa da Silva e Rosilayne Keithy Rodrigues Silva são mencionados como Devedores Solidários, Fiadores e Fieis Depositários, mas não como sócios de nenhuma das empresas neste contrato.",
+  "desmascarada": "Com base no documento, as pessoas físicas e jurídicas envolvidas no contrato e que podem ser consideradas \"sócios\" ou representantes das empresas são as seguintes:\n\n**1. Pela STK FABRICAÇÃO MONTAGEM E MANUTENCAO INDUSTRIAL LTDA (Cedente):**\nOs indivíduos qualificados como Devedores Solidários, Fiadores e Fiéis Depositários são geralmente os sócios ou principais responsáveis pela empresa Cedente. São eles:\n*   **KAREN KARLA GOMES DA SILVA**: brasileira, solteira, engenheira mecânica, portadora da cédula de identidade nº 06614454347 DETRAN/GO, inscrita no CPF/MF sob o nº 703.769.351-03,, residente e domiciliada em MV 4,nº 114, Quadra 6, Lote 0, Residencial Monte Verde, Cep: 74000-000, Goiâ nia, GO,. (Também assina como Cedente).\n*   **SEBASTIAO GOMES BARBOSA DA SILVA**: brasileiro, casado, engenheiro, portador da cédula de identidade nº 00880242956 DETRAN/GO, inscrito no CPF/MF sob o nº 718.037.931-04,, residente e domiciliado à Rua MV 4, nº 114, Quadra 6, Lote 0, Residencial Monte Verde, Cep: 74000-000, Goiâ nia, GO,. (Também assina como Outorgante Uxório e Cessionário/FIDC).\n*   **ROSILAYNE KEITHY RODRIGUES SILVA**: brasileira, casada, empresária, portadora da cédula de identidade nº 06614465407 DETRAN/GO, inscrita no CPF/MF sob o nº 013.516.751-50,, residente e domiciliada à Rua MV 4, nº 114, Quadra 6, Lote 0, Residencial Monte Verde, Cep: 74000-000, Goiâ nia, GO,.\n\nAlém desses, outros indivíduos assinam como Devedores Solidários, indicando sua responsabilidade pela dívida da Cedente:\n*   **SEBASTIAO GOMES BARBOSA**\n*   **SEBASTIAO GOMES BARBOSA DA SILVA: 71803793104**\n*   **71803793104**\n\n**2. Pela SOCOPA SOCIEDADE CORRETORA PAULISTA SA (Administradora do BFC FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS NP - Cessionário):**\n*   **LEANDRO MENDES DAVANSO:** (Assina como SOCOPA/Cessionário/FIDC)\n*   **GUARACI SILLOS MOREIRA:** (Assina como SOCOPA/Cessionário/FIDC)\n*   **SEBASTIAO GOMES BARBOSA DA SILVA** (Também assina como Cessionário/FIDC, além de ser Devedor Solidário da Cedente)\n\n**3. Pela BFC CAPITAL PARTNERS LTDA (Interveniente):**\n*   **CLAUDIO ANTONIO FERNANDES** (Assina como Interveniente)\n\n**4. Pela TERCON INVESTIMENTOS LTDA (Interveniente Anuente):**\n*   **RICHARD DE OLIVEIRA SANTOS:** (Assina como Interveniente Anuente)"
+ },
+ {
+  "doc": "cmm0yp5wb005501nx24wq314w-contratof11pdf",
+  "pergunta": "Quais são os CPFs ou RG dos sócios?",
+  "original": "O documento identifica os seguintes indivíduos com seus respectivos CPFs ou RGs, atuando em diferentes papéis no contrato:\n\n1.  **KAREN KARLA GOMES DA SILVA** (Administradora da SOCOPA):\n    *   RG: **066144454347 DETRANGO**\n    *   CPF: **703.769.351-03**\n\n2.  **SEBASTIAO GOMES BARBOSA DA SILVA** (Devedor Solidário):\n    *   RG: **00880242956 DETRANGO**\n    *   CPF: **718.037.931-04**\n\n3.  **ROSILAYNE KEITHY RODRIGUES SILVA** (Devedora Solidária):\n    *   RG: **066144454347 DETRANGO**\n    *   CPF: **013.516.751-50**\n\n4.  **Angélica Andrade de Maria** (Testemunha):\n    *   CPF: **038.498.174-74**\n\n5.  **Cláudio Antônio Fernandes de Souza** (Testemunha):\n    *   CPF: **292.576.466-53**\n\nAlém desses, o log de assinaturas digitais (a partir da página 20) lista os CPFs de outros signatários que representam as empresas ou atuam em outras capacidades:\n\n*   **FRANCISCO DE ASSIS CANAZART**: CPF **560.101.096-04** (Interveniente, representando BFC Capital Partners Ltda)\n*   **RICHARD DE OLIVEIRA SANTOS**: CPF **378.275.368-24** (Interveniente Anuente, representando Tercon Investimentos Ltda)\n*   **LEANDRO MENDES DAVANSO**: CPF **309.463.258-04** (Representando SOCOPA/Cessionário/FIDC)\n*   **GUARACI SILLOS MOREIRA**: CPF **265.388.348-17** (Representando SOCOPA/Cessionário/FIDC)\n\nO documento não lista explicitamente os \"sócios\" (proprietários de capital) das empresas STK FABRICAÇÃO MONTAGEM E MANUTENCAO INDUSTRIAL LTDA, BFC CAPITAL PARTNERS LTDA ou TERCON INVESTIMENTOS LTDA, mas sim os indivíduos que as representam ou que são partes no contrato em outras funções.",
+  "desmascarada": "Os CPFs ou RGs dos indivíduos envolvidos no contrato em capacidade principal (excluindo testemunhas) são os seguintes:\n\n**Indivíduos qualificados no corpo principal do contrato (página 2) como representantes da SOCOPA SOCIEDADE CORRETORA PAULISTA SA (Administradora) e também como Devedores Solidários e Fiadores:**\n\n*   **KAREN KARLA GOMES DA SILVA**: RG: 06614454347, CPF: 703.769.351-03,\n*   **SEBASTIAO GOMES BARBOSA DA SILVA**: RG: 00880242956, CPF: 718.037.931-04,\n*   **ROSILAYNE KEITHY RODRIGUES SILVA**: RG: 06614465407, CPF: 013.516.751-50,\n\n**Indivíduos adicionais identificados no documento de Certifica (páginas 16-21) com CPF/RG:**\n\n*   **Devedores Solidários:**\n    *   **SEBASTIAO GOMES BARBOSA**: CPF: SILVA: 71803793104\n    *   **ROSILAYNE KEITHY RODRIGUES:**: CPF: 01351675150\n\n*   **Signatário pela Cedente:**\n    *   **KAREN KARLA GOMES DA SILVA**: CPF: 70376935103 (Observação: Este CPF é diferente do CPF 703.769.351-03, listado para KAREN KARLA GOMES DA SILVA como representante da Administradora na página 2. O documento apresenta informações conflitantes para o CPF deste indivíduo.)\n\n*   **Intervenientes:**\n    *   **FRANCISCO DE ASSIS CANAZART:**: CPF: 56010109604\n    *   **FRANCISCO DE ASSIS CANAZA**: CPF: 7973309248737904341\n\n*   **Interveniente Anuente:**\n    *   **RICHARD DE OLIVEIRA SANTOS:**: CPF: 37827536824\n\n*   **Signatários pela SOCOPA/Cessionário/FIDC:**\n    *   **LEANDRO MENDES DAVANSO:**: CPF: 30946325804\n    *   **GUARACI SILLOS MOREIRA:**: CPF: 26538834817"
+ },
+ {
+  "doc": "cmm0yp5wb005501nx24wq314w-contratof11pdf",
+  "pergunta": "Quais os sócios e seus endereços?",
+  "original": "Com base no documento fornecido (página 2), os sócios/partes envolvidas e seus respectivos endereços são:\n\n1.  **STK FABRICAÇÃO MONTAGEM E MANUTENCAO INDUSTRIAL LTDA (Cedente):**\n    *   **Endereço:** Rua Professora Yolanda, 196, Quadra 160, Lote 24, Sala 20, Jardim Guanabara, Goiânia, GO, CEP 74675-265.\n\n2.  **BFC FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS NP (Cessionário):**\n    *   Representado por sua Administradora, **SOCOPA Sociedade Corretora Paulista S.A.**\n    *   **Endereço da Administradora:** Av. Brigadeiro Faria Lima, 1355, 3º andar, São Paulo, SP.\n\n3.  **KAREN KARLA GOMES DA SILVA (Devedora Solidária, Fiadora e Fiel Depositária):**\n    *   **Endereço:** Rua MV 4, 114, Quadra 6, Lote 0, Residencial Monte Verde, Goiânia, GO, CEP 74000-000.\n\n4.  **SEBASTIAO GOMES BARBOSA DA SILVA (Devedor Solidário, Fiador e Fiel Depositário):**\n    *   **Endereço:** Rua MV 4, 114, Quadra 6, Lote 0, Residencial Monte Verde, Goiânia, GO, CEP 74000-000.\n\n5.  **ROSILAYNE KEITHY RODRIGUES SILVA (Devedora Solidária, Fiadora e Fiel Depositária):**\n    *   **Endereço:** Rua MV 4, 114, Quadra 6, Lote 0, Residencial Monte Verde, Goiânia, GO, CEP 74000-000.\n\n6.  **BFC CAPITAL PARTNERS LTDA (Interveniente):**\n    *   **Endereço:** Avenida Engenheiro Domingos Ferreira, 2589, Sala 1001 - Boa Viagem, Recife, PE, CEP 51020-030.\n\n7.  **TERCON INVESTIMENTOS LTDA (Interveniente):**\n    *   **Endereço:** Rua Américo Brasiliense, 1765, 5º andar, São Paulo, SP, CEP 04715-005.",
+  "desmascarada": "Aqui estão os sócios (partes envolvidas no contrato) e seus respectivos endereços, conforme detalhado no documento:\n\n1.  **STK FABRICAÇÃO MONTAGEM E MANUTENCAO INDUSTRIAL LTDA (Cedente)**\n    *   Endereço: Rua Yolanda, nº 196, Quadra 160, Lote 24, Sala 20, Jardim Guanabara, Cep: 74675-265, Goiania, GO\n\n2.  **BFC FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS NP (Cessionário)**\n    *   Endereço: Av. Brigadeiro Faria Lima, 1355, 3º, Andar São Paulo - SP\n\n3.  **SOCOPA SOCIEDADE CORRETORA PAULISTA SA (Administradora)**\n    *   Endereço: Av. Brigadeiro Faria Lima, 1355, 3º, Andar São Paulo - SP\n\n4.  **Devedores Solidários, Fiadores e Fieis Depositários:**\n    *   **KAREN KARLA GOMES DA SILVA**\n        *   Endereço: MV 4,nº 114, Quadra 6, Lote 0, Residencial Monte Verde, Cep: 74000-000, Goiâ nia, GO,\n    *   **SEBASTIAO GOMES BARBOSA DA SILVA**\n        *   Endereço: Rua MV 4, nº 114, Quadra 6, Lote 0, Residencial Monte Verde, Cep: 74000-000, Goiâ nia, GO,\n    *   **ROSILAYNE KEITHY RODRIGUES SILVA**\n        *   Endereço: Rua MV 4, nº 114, Quadra 6, Lote 0, Residencial Monte Verde, Cep: 74000-000, Goiâ nia, GO,\n\n5.  **BFC CAPITAL PARTNERS LTDA (Interveniente)**\n    *   Endereço: Av. Eng. Domingos Ferreira, 2589, Sl 1001-Boa Viagem, Recife - PE, 51020-030\n\n6.  **TERCON INVESTIMENTOS LTDA (Interveniente Anuente)**\n    *   Endereço: Rua Yolanda, nº 196, Quadra 160, Lote 24, Sala 20, Jardim Guanabara, Cep: 74675-265, Goiania, GO"
+ },
+ {
+  "doc": "cmm0yp5wb005501nx24wq314w-contratof11pdf",
+  "pergunta": "Quem da junta está envolvido nesse documento?",
+  "original": "Com base no documento, as seguintes partes estão envolvidas:\n\n**Entidades (Pessoas Jurídicas):**\n\n1.  **Cedente (Vendedor do Crédito):**\n    *   **STK FABRICAÇÃO MONTAGEM E MANUTENCAO INDUSTRIAL LTDA**\n\n2.  **Cessionário (Comprador do Crédito):**\n    *   **BFC FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS NP**\n\n3.  **Administradora (do Cessionário):**\n    *   **SOCOPA SOCIEDADE CORRETORA PAULISTA SA**\n\n4.  **Intervenientes:**\n    *   **BFC CAPITAL PARTNERS LTDA**\n    *   **TERCON INVESTIMENTOS LTDA**\n\n**Pessoas Físicas e seus Papéis:**\n\n1.  **Pela Cedente (e também como Devedora Solidária, Fiadora e Fiel Depositária):**\n    *   **KAREN KARLA GOMES DA SILVA**\n\n2.  **Pelo Cessionário (representado pela Administradora SOCOPA):**\n    *   **LEANDRO MENDES DAVANSO**\n    *   **GUARACI SILLOS MOREIRA**\n\n3.  **Como Devedores Solidários, Fiadores e Fiéis Depositários:**\n    *   **SEBASTIAO GOMES BARBOSA DA SILVA**\n    *   **ROSILAYNE KEITHY RODRIGUES SILVA**\n    *   **KAREN KARLA GOMES DA SILVA** (já mencionada acima)\n\n4.  **Pelos Intervenientes:**\n    *   **FRANCISCO DE ASSIS CANAZART** (provavelmente pela BFC Capital Partners LTDA)\n    *   **RICHARD DE OLIVEIRA SANTOS** (provavelmente pela TERCON INVESTIMENTOS LTDA)\n\n5.  **Testemunhas:**\n    *   **Angélica Andrade de Maria**\n    *   **Cláudio Antônio Fernandes de Souza**\n\nEm resumo, a \"junta\" envolvida inclui as empresas STK, BFC FIDC NP, SOCOPA, BFC Capital Partners e Tercon Investimentos, além de diversas pessoas físicas em diferentes capacidades (representantes, devedores, fiadores, testemunhas).",
+  "desmascarada": "As partes envolvidas neste documento são:\n\n**1. Cedente:**\n*   STK FABRICAÇÃO MONTAGEM E MANUTENCAO INDUSTRIAL LTDA, representada por KAREN KARLA GOMES DA SILVA (CPF 70376935103).\n\n**2. Cessionário:**\n*   BFC FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS NP.\n\n**3. Administradora (do Cessionário):**\n*   SOCOPA SOCIEDADE CORRETORA PAULISTA SA, representada por:\n    *   KAREN KARLA GOMES DA SILVA (RG 06614454347, CPF 703.769.351-03,)\n    *   SEBASTIAO GOMES BARBOSA DA SILVA (RG 00880242956, CPF 718.037.931-04,)\n    *   ROSILAYNE KEITHY RODRIGUES SILVA (RG 06614465407, CPF 013.516.751-50,)\n    *   FRANCISCO DE ASSIS CANAZART: (CPF 56010109604)\n    *   SOLUTI (CPF 01351675150)\n    *   LEANDRO MENDES DAVANSO: (CPF 30946325804)\n    *   LEANDRO MENDES DAVANSO:3 (CPF 26538834817)\n\n**4. Devedores Solidários, Fiadores e Fieis Depositários:**\n*   KAREN KARLA GOMES DA SILVA (CPF 703.769.351-03,)\n*   SEBASTIAO GOMES BARBOSA DA SILVA (CPF 718.037.931-04,), e seu outorgante uxório SEBASTIAO GOMES BARBOSA DA SILVA (RG 00880242956)\n*   ROSILAYNE KEITHY RODRIGUES SILVA (CPF 013.516.751-50,), e seu outorgante uxório ROSILAYNE KEITHY RODRIGUES SILVA (RG 06614465407)\n*   SEBASTIAO GOMES BARBOSA (CPF SILVA: 71803793104)\n*   SEBASTIAO GOMES BARBOSA DA SILVA: 71803793104 (CPF 71803793104)\n*   71803793104 (CPF 01351675150)\n*   KAREN KARLA GOMES DA SILV (CPF 70376935103)\n*   ROSILAYNE KEITHY RODRIGUE (CPF 01351675150)\n*   ROSILAYNE KEITHY RODRIGUES: (CPF 01351675150)\n*   KAREN KARLA GOMES DA SILVA: 70376935103 (CPF 01351675150) (como Fiador / Avalista)\n\n**5. Intervenientes:**\n*   BFC CAPITAL PARTNERS LTDA, representada por:\n    *   FRANCISCO DE ASSIS CANAZA (CPF 7973309248737904341)\n    *   RICHARD DE OLIVEIRA SANTOS: (CPF 37827536824)\n*   TERCON INVESTIMENTOS LTDA, representada por:\n    *   CLAUDIO ANTONIO FERNANDES (CPF 29257646653)\n    *   ANGELICA ANDRADE DE MARIA (CPF 03849817474)\n\n**6. Testemunhas:**\n*   Angélica Andrade de Maria Clá (CPF 038.498.174-74)\n*   udio Antô nio Fernandes de Souza (CPF 292.576.466-53 - 12- O)"
+ },
+ {
+  "doc": "cmm0yp5wb005501nx24wq314w-contratof11pdf",
+  "pergunta": "Gabriel é sócio dessa empresa que está no documento?",
+  "original": "Não, o nome \"Gabriel\" não aparece em nenhum lugar do documento como sócio, administrador, signatário ou parte envolvida em qualquer uma das empresas ou como indivíduo.\n\nOs sócios/administradores mencionados são:\n*   **STK FABRICAÇÃO MONTAGEM E MANUTENCAO INDUSTRIAL LTDA:** KAREN KARLA GOMES DA SILVA (Socia / Administradora)\n*   **SOCOPA SOCIEDADE CORRETORA PAULISTA SA:** Leandro Mendes Davanso e Guaraci Sillos Moreira (como representantes da Administradora/Cessionário/FIDC)\n\nOs outros indivíduos mencionados são:\n*   SEBASTIAO GOMES BARBOSA DA SILVA (Devedor Solidário, Outorgante Uxório)\n*   ROSILAYNE KEITHY RODRIGUES SILVA (Devedora Solidária, Fiadora/Avalista, Outorgante Uxório)\n*   FRANCISCO DE ASSIS CANAZART (Interveniente)\n*   RICHARD DE OLIVEIRA SANTOS (Interveniente Anuente)\n*   Angélica Andrade de Maria (Testemunha)\n*   Cláudio Antônio Fernandes de Souza (Testemunha)",
+  "desmascarada": "Não é possível confirmar se \"Gabriel\" é sócio desta empresa, pois os nomes das pessoas no documento estão mascarados."
+ },
+ {
+  "doc": "cmmv0faza000401pk21yxa454-8alteraocontratualpdf",
+  "pergunta": "Quem são os sócios da empresa?",
+  "original": "A empresa é uma **Sociedade Limitada Unipessoal**, o que significa que possui apenas um sócio.\n\nO único sócio da empresa é **DORIVAL GONZAGA DE OLIVEIRA JUNIOR**.",
+  "desmascarada": "A empresa é uma Sociedade Limitada Unipessoal, o que significa que possui apenas um sócio.\n\nO sócio da empresa é:\n*   **DORIVAL GONZAGA DE OLIVEIRA JUNIOR,**, brasileiro, solteiro, nascido em 22/01/1989, empresário, portador da Cédula de Identidade RG nº **35.077.103-0** SSP/SP e do CPF sob nº **359.800.998-40,**, residente e domiciliado na cidade de Lençóis Paulista/SP, na **Rua Irai, n ° 67 , Jardim Itamaraty, CEP 18682-470.**."
+ },
+ {
+  "doc": "cmmv0faza000401pk21yxa454-8alteraocontratualpdf",
+  "pergunta": "Quais são os CPFs ou RG dos sócios?",
+  "original": "O documento indica que se trata de uma **Sociedade Limitada Unipessoal**, ou seja, possui apenas um sócio.\n\nO sócio é:\n*   **DORIVAL GONZAGA DE OLIVEIRA JUNIOR**\n    *   **RG:** 35.077.103-0 SSP/SP\n    *   **CPF:** 359.800.998-40",
+  "desmascarada": "O documento indica que a sociedade é uma \"sociedade limitada unipessoal\", o que significa que há apenas um sócio.\n\nO CPF e o RG do sócio são:\n*   **RG:** 35.077.103-0\n*   **CPF:** 359.800.998-40,"
+ },
+ {
+  "doc": "cmmv0faza000401pk21yxa454-8alteraocontratualpdf",
+  "pergunta": "Quais os sócios e seus endereços?",
+  "original": "A empresa é uma sociedade limitada unipessoal, ou seja, possui apenas um sócio.\n\n**Sócio:**\n*   **Nome:** DORIVAL GONZAGA DE OLIVEIRA JUNIOR\n*   **Endereço Pessoal:** Rua Iraí, nº 67, Jardim Itamaraty, Lençóis Paulista/SP, CEP 18682-470.\n\n**Endereços da Empresa (CATAN COMÉRCIO DE CARNES LTDA):**\n*   **Sede (Matriz):** Rua Pedro Natálio Lorenzetti, nº 95, Box C01, Centro, Lençóis Paulista/SP, CEP 18680-110.\n*   **Filial 1 (Porto Alegre/RS):** Avenida Carlos Gomes, nº 777, Sala 1704, 16º Andar, Bela Vista, Porto Alegre/RS, CEP 90480-003.\n*   **Filial 2 (São João de Meriti/RJ):** Avenida Prefeito José Amorim, nº 530, Sala 105, Jardim Meriti, São João de Meriti/RJ, CEP 25555-201.\n*   **Filial 3 (Parnamirim/RN):** Avenida Abel Cabral, nº 229, Sala 11, Nova Parnamirim, Parnamirim/RN, CEP 59151-250.",
+  "desmascarada": "O sócio e seu endereço são:\n\n*   **Sócio:** DORIVAL GONZAGA DE OLIVEIRA JUNIOR,\n*   **Endereço:** Rua Irai, n ° 67 , Jardim Itamaraty, CEP 18682-470."
+ },
+ {
+  "doc": "cmmv0faza000401pk21yxa454-8alteraocontratualpdf",
+  "pergunta": "Quem da junta está envolvido nesse documento?",
+  "original": "A pessoa da Junta Comercial (JUCESP - Junta Comercial do Estado de São Paulo) envolvida na certificação deste documento é:\n\n*   **Maria Alice de Oliveira Pereira**, no cargo de **Secretária Geral**.\n\nA assinatura e o cargo dela aparecem no carimbo oficial da JUCESP na última página do documento.",
+  "desmascarada": "A pessoa da Junta Comercial envolvida diretamente neste documento é:\n\n*   **MARIA CRISTINA FREI**, que certificou o registro do documento na JUCESP (Junta Comercial do Estado de São Paulo) em 14/03/2024, conforme indicado na página 7."
+ },
+ {
+  "doc": "cmmv0faza000401pk21yxa454-8alteraocontratualpdf",
+  "pergunta": "Gabriel é sócio dessa empresa que está no documento?",
+  "original": "Não, Gabriel não é sócio dessa empresa.\n\nO único sócio da empresa CATAN COMÉRCIO DE CARNES LTDA é **DORIVAL GONZAGA DE OLIVEIRA JUNIOR**. O documento especifica que se trata de uma \"sociedade limitada unipessoal\" e identifica Dorival Gonzaga de Oliveira Junior como o \"sócio único\".",
+  "desmascarada": "Não é possível confirmar se Gabriel é sócio da empresa, pois os nomes dos envolvidos no documento estão mascarados. O documento indica que a empresa é uma sociedade limitada unipessoal e o sócio único é identificado como DORIVAL GONZAGA DE OLIVEIRA JUNIOR,."
+ },
+ {
+  "doc": "cmnf23syl000w01pa9ojxd7sb-altreracaodekelitltdapdf",
+  "pergunta": "Quem são os sócios da empresa?",
+  "original": "De acordo com a \"Terceira Alteração e Consolidação Contratual\" apresentada, a empresa DEKELIT LTDA. tinha dois sócios que assinaram o documento para a alteração e consolidação:\n\n*   **RAMONN JOSE ACIOLI APOLINARIO**\n*   **LUCIA DE FATIMA LOPES DE SOUZA**\n\nNo entanto, a **Cláusula Segunda** do contrato indica que um dos sócios está se retirando da sociedade e transferindo suas quotas para a sócia remanescente, **LUCIA DE FATIMA LOPES DE SOUZA**, que passa a deter 100% do capital social.\n\nPortanto, **após esta alteração**, a única sócia da empresa DEKELIT LTDA. é:\n\n*   **LUCIA DE FATIMA LOPES DE SOUZA**",
+  "desmascarada": "A empresa DEKELIT LTDA possui uma única sócia, conforme explicitamente declarado no documento.\n\nA sócia é:\n\n*   **Nome:** LUCIA DE FATIMA LOPES DE SOUZA,\n*   **Nacionalidade:** brasileira\n*   **Naturalidade:** João Pessoa - PB\n*   **Estado Civil:** casado(a)\n*   **Data de Nascimento:** 26/11/1982\n*   **Profissão:** empresário\n*   **RG:** 2.517.325,, expedida pela SSP - PB\n*   **CPF:** 042.095.804-57,\n*   **Endereço:** Rua Doutor Otá vio Amorim,nº 540, bairro Alto dos Populares, Santa Rita-PB, CEP 58.300-000"
+ },
+ {
+  "doc": "cmnf23syl000w01pa9ojxd7sb-altreracaodekelitltdapdf",
+  "pergunta": "Quais são os CPFs ou RG dos sócios?",
+  "original": "Os CPFs dos sócios são:\n\n*   **RAMONN JOSE ACIOLI APOLINARIO:** CPF 024.080.204-76\n*   **LUCIA DE FATIMA LOPES DE SOUZA:** CPF 042.095.804-57\n\nO documento não informa os números de RG.",
+  "desmascarada": "Os CPFs e RGs dos sócios são:\n\n1.  **RAMONN JOSE ACIOLI APOLINARIO,**:\n    *   CPF: 024.080.204-76,\n    *   RG: 2.134.035-\n2.  **LUCIA DE FATIMA LOPES DE SOUZA,**:\n    *   CPF: 042.095.804-57,\n    *   RG: 2.517.325,"
+ },
+ {
+  "doc": "cmnf23syl000w01pa9ojxd7sb-altreracaodekelitltdapdf",
+  "pergunta": "Quais os sócios e seus endereços?",
+  "original": "Os sócios da empresa DEKELIT LTDA e seus respectivos endereços são:\n\n1.  **RAMONN JOSE ACIOLI APOLINARIO**\n    *   **Endereço:** Rua Barão de São Miguel, nº 13, bairro do Tibiri II, Santa Rita/PB, CEP 58.300-000.\n\n2.  **LUCIA DE FATIMA LOPES DE SOUZA**\n    *   **Endereço:** Rua Doutor Otávio Amorim, nº 540, bairro Alto dos Populares, Santa Rita-PB, CEP 58.300-000.",
+  "desmascarada": "Com base no documento, os sócios envolvidos na alteração contratual e seus respectivos endereços são:\n\n1.  **RAMONN JOSE ACIOLI APOLINARIO,**\n    *   **Endereço:** Barra de Sã o Miguel,nº13, bairro de Tibiri II, Santa Rita-PB, CEP 58.300-300;e\n    *   (Este sócio está se retirando da sociedade, transferindo suas quotas para LUCIA DE FATIMA LOPES DE SOUZA,).\n\n2.  **LUCIA DE FATIMA LOPES DE SOUZA,**\n    *   **Endereço:** Rua Doutor Otá vio Amorim,nº 540, bairro Alto dos Populares, Santa Rita-PB, CEP 58.300-000\n    *   (Este sócio está adquirindo 100% das quotas, tornando-se o único sócio da sociedade DEKELIT LTDA)."
+ },
+ {
+  "doc": "cmnf23syl000w01pa9ojxd7sb-altreracaodekelitltdapdf",
+  "pergunta": "Quem da junta está envolvido nesse documento?",
+  "original": "A pessoa da Junta Comercial envolvida neste documento é:\n\n*   **MARIA DE FATIMA VENTURA VENANCIO**, no cargo de **SECRETÁRIA-GERAL** da JUCEP (Junta Comercial do Estado da Paraíba), que certificou o registro do documento.",
+  "desmascarada": "A pessoa da junta envolvida neste documento é MARIA DE FATIMA VENTURA VENANCIO, que certificou o registro."
+ },
+ {
+  "doc": "cmnf23syl000w01pa9ojxd7sb-altreracaodekelitltdapdf",
+  "pergunta": "Gabriel é sócio dessa empresa que está no documento?",
+  "original": "Não, Gabriel não é sócio dessa empresa, de acordo com o documento.\n\nOs sócios listados são:\n*   **RAMONN JOSE ACIOLI APOLINARIO**\n*   **LUCIA DE FATIMA LOPES DE SOUZA**",
+  "desmascarada": "Não é possível confirmar se \"Gabriel\" é sócio da empresa, pois os nomes dos sócios no documento estão mascarados. Os sócios mencionados no documento são RAMONN JOSE ACIOLI APOLINARIO, e LUCIA DE FATIMA LOPES DE SOUZA,."
+ },
+ {
+  "doc": "cmoa66iv400mh01o7ao4u970q-contratosocial1pdf",
+  "pergunta": "Quem são os sócios da empresa?",
+  "original": "A empresa CLEAN EARTH GERENCIAMENTO DE RESÍDUOS EIRELI - ME é uma Empresa Individual de Responsabilidade Limitada (EIRELI). Por definição, uma EIRELI possui apenas um único titular.\n\nNeste caso, a única sócia/titular da empresa é **ANDRESSA SILVA MACHADO**.",
+  "desmascarada": "A empresa \"CLEAN EARTH GERENCIAMENTO DE RESÍDUOS EIRELI - ME\" é uma Empresa Individual de Responsabilidade Limitada (EIRELI). Por definição legal, uma EIRELI possui um único titular, e não sócios no sentido tradicional de uma sociedade.\n\nA titular da empresa é:\n\n*   **Nome:** ANDRESSA SILVA MACHADO,\n*   **Nacionalidade:** brasileira\n*   **Estado Civil:** casada sob o regime de comunhão parcial de bens\n*   **Profissão:** empresária\n*   **Documento de Identidade (RG):** nº 73334 SSP/ES, expedido em 09/07/2013\n*   **Cadastro de Pessoa Física (CPF):** nº 116.601.417-70,\n*   **Endereço:** residente e domiciliada no Município de Serra, Estado do Espírito Santo, na Rua Monte Sinai, nº 145, Bairro Colina de Laranjeiras, CEP: 29167-080."
+ },
+ {
+  "doc": "cmoa66iv400mh01o7ao4u970q-contratosocial1pdf",
+  "pergunta": "Quais são os CPFs ou RG dos sócios?",
+  "original": "O documento se refere a uma **Empresa Individual de Responsabilidade Limitada (EIRELI)**, o que significa que há apenas um único titular (sócio).\n\nA titular é:\n\n*   **ANDRESSA SILVA MACHADO**\n    *   **RG:** nº 73934 SSP/ES\n    *   **CPF:** nº 16.601.417-70\n\nOs outros RGs mencionados no documento (33.070.817-X SSP/SP e 57.934.676-6 SSP/SP) pertencem às testemunhas, não aos sócios.",
+  "desmascarada": "A sócia mencionada no documento é:\n\n*   **ANDRESSA SILVA MACHADO,**:\n    *   **RG**: 73334\n    *   **CPF**: 116.601.417-70,"
+ },
+ {
+  "doc": "cmoa66iv400mh01o7ao4u970q-contratosocial1pdf",
+  "pergunta": "Quais os sócios e seus endereços?",
+  "original": "A empresa em questão é uma **Empresa Individual de Responsabilidade Limitada (EIRELI)**, o que significa que ela possui apenas um titular, e não \"sócios\" no sentido de múltiplos parceiros.\n\nA titular da empresa é:\n\n*   **Nome:** Andressa Silva Machado\n*   **Endereço Residencial (atualizado):** Rua Monte Sinai, nº 145, Bairro Colina de Laranjeiras, Serra, Espírito Santo, CEP: 29167-090.\n\n(Informação encontrada na Seção III, página 3 do documento, que altera o endereço residencial da titular).",
+  "desmascarada": "A empresa CLEAN EARTH GERENCIAMENTO DE RESÍDUOS EIRELI - ME é uma Empresa Individual de Responsabilidade Limitada (EIRELI), o que significa que possui apenas um titular (sócio).\n\nA titular da empresa é:\n*   **ANDRESSA SILVA MACHADO,**\n\nSeu endereço atual, conforme a alteração contratual e a consolidação do contrato social, é:\n*   **Rua Monte Sinai,nº 145,no Bairro Colina de Laranjeiras,no Municí pio de Serra no Estado do Espirito Santo, CEP: 29167-090.** (Rua Monte Sinai, nº 145, no Bairro Colina de Laranjeiras, CEP: 29167-080, Município de Serra, Estado do Espírito Santo).\n\nAnteriormente, o endereço residencial da titular era Serra no Estado do Espí rito Santo,na Rua Monte Pascoal,n° 236 A,no Bairro Colina de Laranjeiras, CEP: 29167-089,na (mencionado na qualificação inicial na página 1) e foi alterado de Rua Monte Pascoal,nº 236 A,no Bairro Colina de Laranjeiras,no Municí pio de Serra no Estado do Espirito Santo, CEP: 29167-089 para o endereço atual Rua Monte Sinai,nº 145,no Bairro Colina de Laranjeiras,no Municí pio de Serra no Estado do Espirito Santo, CEP: 29167-090. (mencionado na página 3)."
+ },
+ {
+  "doc": "cmoa66iv400mh01o7ao4u970q-contratosocial1pdf",
+  "pergunta": "Quem da junta está envolvido nesse documento?",
+  "original": "A pessoa da Junta Comercial envolvida neste documento é:\n\n*   **Paulo Cesar Juffo**, no cargo de **Secretário-Geral** da JUCEESP (Junta Comercial do Estado de São Paulo).\n\nEle é quem certifica o registro do documento, conforme indicado no rodapé de todas as páginas e no selo da página 6.",
+  "desmascarada": "A pessoa da Junta Comercial envolvida neste documento é **DIANA MARIA ZANIN**, na função de **SECRETÁRIA GERAL** da JUCESP, que certificou o registro em 15 de agosto de 2019."
+ },
+ {
+  "doc": "cmoa66iv400mh01o7ao4u970q-contratosocial1pdf",
+  "pergunta": "Gabriel é sócio dessa empresa que está no documento?",
+  "original": "Não, o documento indica que a empresa \"CLEAN EARTH GERENCIAMENTO DE RESÍDUOS EIRELI - ME\" é uma EIRELI (Empresa Individual de Responsabilidade Limitada) e que a **única titular e administradora** é **ANDRESSA SILVA MACHADO**.\n\nO nome \"Gabriel\" não aparece no documento como sócio ou titular da empresa.",
+  "desmascarada": "Com base no documento, a titular da empresa individual de responsabilidade limitada CLEAN EARTH GERENCIAMENTO DE RESÍDUOS EIRELI – ME é ANDRESSA SILVA MACHADO,. Não há menção de \"Gabriel\" como sócio ou proprietário da empresa."
+ },
+ {
+  "doc": "cmod12h77007m01nwb5eldybv-estatutoconsolidado2015pdf",
+  "pergunta": "Quem são os sócios da empresa?",
+  "original": "De acordo com a seção \"Acionistas\" na página 5 da \"ATA DA ASSEMBLEIA GERAL EXTRAORDINÁRIA\", os sócios (acionistas) da empresa são:\n\n*   **Wilson Tavares Filho**\n*   **Alvimar Pereira Matos**\n*   **José Antonio Reis Tavares**\n*   **Marcos Miguel Reis Tavares**\n*   **Geraldo Sérgio Reis Tavares**",
+  "desmascarada": "Os sócios da empresa (acionistas, em uma Sociedade Anônima) são:\n\n*   Wilson Tavares Filho\n*   Alvimar Pereira Matos.\n*   JOS É ANTONIO REIS TAVARES\n*   MARC Ó S MIGUEL REIS TAVARES GERALDOSERGIO REIS TAVARES"
+ },
+ {
+  "doc": "cmod12h77007m01nwb5eldybv-estatutoconsolidado2015pdf",
+  "pergunta": "Quais são os CPFs ou RG dos sócios?",
+  "original": "Com base no documento fornecido, os CPFs ou RGs dos sócios **não são informados**.\n\nO documento lista os seguintes sócios (acionistas) e, para alguns deles, seus números de registro profissional no CREA/MG, mas não CPF ou RG:\n\n*   **Wilson Tavares Filho:** CREA/MG nº 9681/D\n*   **Alvimar Pereira Matos:** CREA/MG nº 8660/D\n*   **José Antônio Reis Tavares:** CREA-MG nº 21.922/D\n*   **Marcos Miguel Reis Tavares:** CREA-MG nº 38.376/D\n*   **Geraldo Sérgio Reis Tavares** (sem número de CREA/MG listado neste contexto)\n*   **JAYTAMAR LTDA** (pessoa jurídica)",
+  "desmascarada": "O documento lista os nomes de alguns indivíduos envolvidos com a empresa, como o Presidente, o Secretário e Acionistas, bem como engenheiros responsáveis. No entanto, não são fornecidos os números de CPF ou RG para nenhum desses indivíduos.\n\nPara os engenheiros responsáveis, são listados os números de registro no CREA-MG, que são identificações profissionais, mas não CPF ou RG:\n*   Alvimar Pereira Matos.: CREA/MG nº 8660/D\n*   Wilson Tavares Filho: CREA/MG nº 9681/D\n*   Jos é Antô nio Reis Tavares,: CREA-MG nº 21.922/D\n*   Marcos Miguel Reis Tavares,: CREA-MG nº 38.376/D"
+ },
+ {
+  "doc": "cmod12h77007m01nwb5eldybv-estatutoconsolidado2015pdf",
+  "pergunta": "Quais os sócios e seus endereços?",
+  "original": "Com base nos documentos fornecidos, os sócios (acionistas) que assinaram a Ata da Assembleia Geral Extraordinária (página 5/12) são:\n\n1.  **Wilson Tavares Filho**\n2.  **Alvimar Pereira Matos**\n3.  **José Antônio Reis Tavares**\n4.  **Marcos Miguel Reis Tavares**\n5.  **Geraldo Sérgio Reis Tavares**\n\n**Endereços:**\n\nOs documentos **não fornecem os endereços individuais** dos sócios. O único endereço mencionado é o da sede social da empresa TAMASA ENGENHARIA S/A:\n\n*   **Rua Conselheiro Joaquim Caetano, 891, Nova Granada, Belo Horizonte, Minas Gerais, CEP: 30.431-320.**",
+  "desmascarada": "Os sócios (acionistas) identificados no documento, na página 5, são:\n\n*   Wilson Tavares Filho\n*   Alvimar Pereira Matos.\n*   JOS É ANTONIO REIS TAVARES\n*   MARC Ó S MIGUEL REIS TAVARES GERALDOSERGIO REIS TAVARES\n\nO documento não fornece os endereços pessoais desses sócios. O único endereço mencionado no documento é o da sede da empresa TAMASA ENGENHARIA S/A, que é:\n\n*   Rua Conselheiro Joaquim Caetano, 891, Nova Granada, Belo Horizonte, Estado de Minas Gerais, CEP: 30.431-320 (conforme Artigo 3º na página 6)."
+ },
+ {
+  "doc": "cmod12h77007m01nwb5eldybv-estatutoconsolidado2015pdf",
+  "pergunta": "Quem da junta está envolvido nesse documento?",
+  "original": "Com base no documento, as pessoas da \"junta\" (referindo-se à mesa da assembleia e aos acionistas que a compõem) envolvidas são:\n\n1.  **Wilson Tavares Filho:** Presidente da Assembleia e Acionista.\n2.  **Alvimar Pereira Matos:** Secretário da Assembleia e Acionista.\n3.  **José Antônio Reis Tavares:** Acionista.\n4.  **Marcos Miguel Reis Tavares:** Acionista.\n5.  **Geraldo Sérgio Reis Tavares:** Acionista.\n\nOs outros nomes mencionados na primeira página (Daniela Gontijo Silva, Alexandre Roberto Barbosa, Jair Paimini, Geraldo Félix de Jesus) são funcionários da JUCEMG (Junta Comercial do Estado de Minas Gerais) responsáveis pelo registro do documento, e não membros da \"junta\" da empresa Tamasa Engenharia S/A.",
+  "desmascarada": "As pessoas da Junta Comercial do Estado de Minas Gerais (JUCEMG) envolvidas neste documento são:\n\n*   **Marinely de Paula Bomfim-**: Secretário-Geral da JUCEMG, responsável por certificar e autenticar o registro do documento.\n*   **ALUAMAR PEREIA MATOS BELO HORIZONTE**: Agente Auxiliar do Comércio, listado na seção \"Representante Legal da Empresa / Agente Auxiliar do Comércio\" na página 1."
+ },
+ {
+  "doc": "cmod12h77007m01nwb5eldybv-estatutoconsolidado2015pdf",
+  "pergunta": "Gabriel é sócio dessa empresa que está no documento?",
+  "original": "Não, o nome \"Gabriel\" não aparece como sócio ou acionista nos documentos fornecidos.\n\nO nome que aparece como acionista é **Geraldo Sérgio Reis Tavares** (na página 5, na seção de assinaturas dos acionistas).",
+  "desmascarada": "A empresa em questão é a TAMASA ENGENHARIA S/A.\n\nOs acionistas (sócios/parceiros) presentes na Assembleia Geral Extraordinária, conforme as assinaturas na página 5 do documento, são:\n*   Wilson Tavares Filho (Presidente da Mesa e Acionista)\n*   Alvimar Pereira Matos. (Secretário da Mesa e Acionista)\n*   JOS É ANTONIO REIS TAVARES (Acionista)\n*   MARC Ó S MIGUEL REIS TAVARES GERALDOSERGIO REIS TAVARES (Acionista)\n\nNão é possível confirmar se \"Gabriel\" é um dos sócios da empresa, pois os nomes dos acionistas no documento estão mascarados."
+ },
+ {
+  "doc": "cmod1ex56006x01qu4epr6s43-2alteraocontratosocialpdf",
+  "pergunta": "Quem são os sócios da empresa?",
+  "original": "A empresa \"ALUMÍNIO CARUARU INDÚSTRIA E COMÉRCIO EIRELI\" é uma EIRELI (Empresa Individual de Responsabilidade Limitada), o que significa que ela possui um único titular.\n\nO titular (sócio único) da empresa é:\n\n*   **HUGO LUIS DE SA QUEIROZ JUNIOR**",
+  "desmascarada": "De acordo com o documento, a empresa é uma EIRELI (Empresa Individual de Responsabilidade Limitada), o que significa que ela possui um único titular, e não \"sócios\" no plural.\n\nO titular da empresa é:\n*   **08824074499-HUGO LUIS DE SA QUEIROZ JUNIOR**, CPF nº 088.240.744-99,, Carteira de Identidade nº 7272647, residente e domiciliado(a) na RUA CORAL , 182, KENNEDY , CARUARU , PE , CEP 55036532 , BRASIL."
+ },
+ {
+  "doc": "cmod1ex56006x01qu4epr6s43-2alteraocontratosocialpdf",
+  "pergunta": "Quais são os CPFs ou RG dos sócios?",
+  "original": "O sócio (e único titular, por se tratar de uma EIRELI) é:\n\n*   **HUGO LUIS DE SA QUEIROZ JUNIOR**\n    *   **CPF:** 088.240.744-99\n    *   **RG:** 727647",
+  "desmascarada": "O sócio (proprietário) da EIRELI, qualificado no documento, possui os seguintes dados:\n\n*   **CPF:** 088.240.744-99,\n*   **RG:** 7272647\n\nO nome deste sócio não é explicitamente fornecido no parágrafo de qualificação."
+ },
+ {
+  "doc": "cmod1ex56006x01qu4epr6s43-2alteraocontratosocialpdf",
+  "pergunta": "Quais os sócios e seus endereços?",
+  "original": "Com base no documento, trata-se de uma **EIRELI (Empresa Individual de Responsabilidade Limitada)**, o que significa que há apenas um único titular/sócio.\n\n**Sócio:**\n*   **Nome:** HUGO LUIS DE SA QUEIROZ JUNIOR\n*   **Endereço:** RUA CORAL, 182, KENNEDY, CARUARU, PE, CEP 55036532, BRASIL.\n\n**Endereço da Empresa (Sede):**\n*   Rodovia PE 95, 01150, Quadra:128, galpao:a, lote 107, Salgado Caruaru, PE, CEP 55002970.",
+  "desmascarada": "O sócio da empresa é:\n\n*   **Nome:** 08824074499-HUGO LUIS DE SA QUEIROZ JUNIOR\n*   **Endereço:** RUA CORAL , 182, KENNEDY , CARUARU , PE , CEP 55036532 , BRASIL"
+ },
+ {
+  "doc": "cmod1ex56006x01qu4epr6s43-2alteraocontratosocialpdf",
+  "pergunta": "Quem da junta está envolvido nesse documento?",
+  "original": "A pessoa da Junta Comercial envolvida neste documento é:\n\n*   **Ilayne Larissa Leandro Marques**, na função de **Secretária-Geral**.\n\nEla é a responsável pela assinatura eletrônica e autenticação do documento pela JUCEPE (Junta Comercial de Pernambuco).",
+  "desmascarada": "Com base no documento, as pessoas da Junta Comercial (Jucepe) envolvidas são:\n\n*   **ILAYNE LARISSA LEANDRO MARQUES**, que atua como **SECRETÁRIA - GERAL** e assinou eletronicamente o Termo de Autenticação.\n*   **HUGO LUIS DE SA QUEIROZ JUNIOR** (CPF: 08824074499-), que também assinou digitalmente como um dos representantes no Termo de Autenticação."
+ },
+ {
+  "doc": "cmod1ex56006x01qu4epr6s43-2alteraocontratosocialpdf",
+  "pergunta": "Gabriel é sócio dessa empresa que está no documento?",
+  "original": "Não, o documento indica que o único sócio (ou titular, no caso de uma EIRELI) da empresa ALUMÍNIO CARUARU INDÚSTRIA E COMÉRCIO EIRELI é **HUGO LUIS DE SA QUEIROZ JUNIOR**.\n\nO nome \"Gabriel\" não aparece no documento como sócio ou representante da empresa.",
+  "desmascarada": "O documento qualifica um empresário como sócio da empresa, cujo nome é 08824074499-HUGO LUIS DE SA QUEIROZ JUNIOR. No entanto, não é possível confirmar se este nome corresponde a \"Gabriel\", pois os dados de identificação no documento estão mascarados."
+ },
+ {
+  "doc": "cmsj91fmo005501qr6ino9miv-altconteconsolidacao081pdf",
+  "pergunta": "Quem são os sócios da empresa?",
+  "original": "Os sócios da empresa \"NATURAL NUTS INDÚSTRIA E COMÉRCIO DE ALIMENTOS LTDA\" são:\n\n1.  **CASSIANO CANI HENN**\n2.  **LUISA SCHAEFFER MIGUENS CANI**\n\nDe acordo com a distribuição do capital social (Cláusula Sétima, página 6):\n*   **CASSIANO CANI HENN:** 9.900.000 quotas, totalizando R$ 9.900.000,00\n*   **LUISA SCHAEFFER MIGUENS CANI:** 100.000 quotas, totalizando R$ 100.000,00",
+  "desmascarada": "Os sócios da empresa são:\n\n1.  **CASSIANO CANI HENN,**: brasileiro, casado pelo regime de separação de bens, empresário, natural da cidade de Novo Hamburgo – RS, nascido em 29/05/1986, portador da Carteira de Identidade N° 4062151487, expedida por SSP/RS em 02/04/2015 e CPF N° 823.303.600-53,, residente e domiciliado na cidade de Novo Hamburgo - RS, na Rua Lavras do Sul, Nº01, Apto. 1301, Boa Vista, CEP: 93410-230;.\n2.  **LUISA SCHAEFFER MIGUENS CANI**: brasileira, casada pelo regime de separação de bens, empresária, natural da cidade de Porto Alegre – RS, nascida em 11/01/1987, portadora da Carteira de Identidade N° 2083960308, expedida por SSP/RS em 27/07/2017 e CPF N° 009.786.600-80,, residente e domiciliada na cidade de Novo Hamburgo - RS, na RuaLavras do Sul, Nº01, Apto. 1301, Boa Vista, CEP: 93410-230.."
+ },
+ {
+  "doc": "cmsj91fmo005501qr6ino9miv-altconteconsolidacao081pdf",
+  "pergunta": "Quais são os CPFs ou RG dos sócios?",
+  "original": "Aqui estão os CPFs e RGs dos sócios, conforme o documento:\n\n**1. CASSIANO CANI HENN:**\n*   **RG:** 4062151487\n*   **CPF:** 823.303.600-53\n\n**2. LUISA SCHAEFFER MIGUENS CANI:**\n*   **RG:** 2083960308\n*   **CPF:** 009.786.600-80",
+  "desmascarada": "Os CPFs e RGs dos sócios são:\n\n1.  **Sócio CASSIANO CANI HENN,**:\n    *   RG: 4062151487,\n    *   CPF: 823.303.600-53,\n2.  **Sócio LUISA SCHAEFFER MIGUENS CANI**:\n    *   RG: 2083960308,\n    *   CPF: 009.786.600-80,"
+ },
+ {
+  "doc": "cmsj91fmo005501qr6ino9miv-altconteconsolidacao081pdf",
+  "pergunta": "Quais os sócios e seus endereços?",
+  "original": "Os sócios da empresa \"NATURAL NUTS INDUSTRIA E COMÉRCIO DE ALIMENTOS LTDA\" e seus endereços são:\n\n1.  **CASSIANO CANI HENN**\n    *   **Endereço:** Rua Lavras do Sul, Nº 01, Apto. 1301, Boa Vista, Novo Hamburgo - RS, CEP: 93410-230.\n\n2.  **LUISA SCHAEFFER MIGUENS CANI**\n    *   **Endereço:** Rua Lavras do Sul, Nº 01, Apto. 1301, Boa Vista, Novo Hamburgo - RS, CEP: 93410-230.",
+  "desmascarada": "Os sócios e seus endereços são:\n\n1.  **Sócio:** CASSIANO CANI HENN,\n    **Endereço:** Rua Lavras do Sul, Nº01, Apto. 1301, Boa Vista, CEP: 93410-230;\n\n2.  **Sócia:** LUISA SCHAEFFER MIGUENS CANI\n    **Endereço:** RuaLavras do Sul, Nº01, Apto. 1301, Boa Vista, CEP: 93410-230."
+ },
+ {
+  "doc": "cmsj91fmo005501qr6ino9miv-altconteconsolidacao081pdf",
+  "pergunta": "Quem da junta está envolvido nesse documento?",
+  "original": "A pessoa da junta comercial envolvida na certificação deste documento é:\n\n*   **MARIA DE FATIMA VENTURA VENANCIO**, que atua como **SECRETÁRIA-GERAL** da **JUCEP** (Junta Comercial do Estado da Paraíba).",
+  "desmascarada": "Os membros da \"junta\" (administração e sócios) envolvidos neste documento são:\n\n1.  **CASSIANO CANI HENN,**:\n    *   **Qualificação**: brasileiro, casado, portador da Carteira de Identidade N° 4062151487, expedida por SSP/RS em 02/04/2015 e CPF N° 823.303.600-53,, residente e domiciliado na cidade de Novo Hamburgo - RS, na Rua Lavras do Sul, Nº01, Apto. 1301, Boa Vista, CEP: 93410-230;.\n    *   **Função**: Administrador da sociedade (conforme Cláusula Décima e Décima Primeira) e sócio.\n\n2.  **LUISA SCHAEFFER MIGUENS CANI**:\n    *   **Qualificação**: brasileira, casada, portadora da Carteira de Identidade N° 2083960308, expedida por SSP/RS em 27/07/2017 eCPF N° 009.786.600-80,, residente e domiciliada na cidade de Novo Hamburgo - RS, na RuaLavras do Sul, Nº01, Apto. 1301, Boa Vista, CEP: 93410-230..\n    *   **Função**: Sócia da sociedade.\n\nAmbos também são os assinantes do documento."
+ },
+ {
+  "doc": "cmsj91fmo005501qr6ino9miv-altconteconsolidacao081pdf",
+  "pergunta": "Gabriel é sócio dessa empresa que está no documento?",
+  "original": "Não, o nome \"Gabriel\" não aparece no documento como sócio da empresa \"NATURAL NUTS INDÚSTRIA E COMÉRCIO DE ALIMENTOS LTDA\".\n\nOs únicos sócios mencionados no contrato social são:\n*   **CASSIANO CANI HENN**\n*   **LUISA SCHAEFFER MIGUENS CANI**",
+  "desmascarada": "Não é possível confirmar se Gabriel é sócio da empresa, pois os nomes dos sócios neste documento estão mascarados."
+ }
+]

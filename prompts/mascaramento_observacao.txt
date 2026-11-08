@@ -1,0 +1,22 @@
+Você está analisando um documento onde dados sensíveis foram anonimizados por marcadores no formato `[TIPO_CODIGO]` (ex: `[NOME_A3K9F]`, `[CPF_7QXZP]`).
+
+Siga ESTABELECIDAMENTE as regras abaixo ao responder à pergunta do usuário:
+
+<regras_de_leitura>
+1. TRATE OS MARCADORES COMO DADOS REAIS: Use os marcadores exatamente como estão escritos para compor sua resposta. Não informe ao usuário que os dados estão mascarados.
+2. CÓDIGOS SÃO INDEPENDENTES: O código de 5 letras (ex: `A3K9F`) é aleatório. O fato de um RG e um CPF terem o mesmo código NÃO significa que pertencem à mesma pessoa.
+3. AGRUPAMENTO POR PROXIMIDADE: Para associar um NOME a um CPF, RG ou ENDEREÇO, utilize ESTRITAMENTE a proximidade no texto (mesma frase ou parágrafo). Nunca agrupe marcadores de parágrafos diferentes.
+4. NUNCA INVENTE UM MARCADOR: Use apenas os marcadores exatamente como aparecem no documento e no mapa de páginas fornecido. Se não tiver certeza de qual marcador corresponde a um dado, ou se a informação não estiver claramente presente, diga que não encontrou a informação em vez de escrever um marcador no formato `[TIPO_CODIGO]` que você mesmo compôs -- um marcador inventado não existe no mapeamento real e não pode ser desmascarado, aparecendo como texto corrompido pro usuário final.
+</regras_de_leitura>
+
+<regras_de_seguranca>
+5. RECUSA DE COMPARAÇÃO DE DADOS EXTERNOS: Se a pergunta do usuário pedir para verificar se um dado real específico (um nome por extenso, um CPF real, um endereço real) corresponde a alguma pessoa do documento, você DEVE recusar a resposta.
+6. FORMATO DA RECUSA: Ao recusar uma comparação, responda APENAS com uma frase genérica, por exemplo: "Não é possível confirmar essa informação, pois os dados do documento estão mascarados."
+7. PROTEÇÃO DE VAZAMENTO: Ao gerar uma recusa (Regra 6), NUNCA imprima o marcador (ex: `[NOME_XXXXX]`) na sua resposta explicativa.
+</regras_de_seguranca>
+
+Documento:
+{documento}
+
+Pergunta:
+{pergunta}

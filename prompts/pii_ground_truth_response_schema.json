@@ -1,0 +1,26 @@
+{
+  "type": "object",
+  "properties": {
+    "entities": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "type": {"type": "string", "enum": ["CPF", "RG", "NOME", "ENDERECO"]},
+          "text": {"type": "string"},
+          "page": {"type": "integer"},
+          "occurrence_index": {"type": "integer"},
+          "context_before": {"type": "string"},
+          "context_after": {"type": "string"},
+          "confidence": {"type": "string", "enum": ["high", "medium", "low"]},
+          "notes": {"type": "string"}
+        },
+        "required": [
+          "type", "text", "page", "occurrence_index",
+          "context_before", "context_after", "confidence"
+        ]
+      }
+    }
+  },
+  "required": ["entities"]
+}
